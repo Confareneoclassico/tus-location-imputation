@@ -1,0 +1,3 @@
+countries,n_countries,imputations,scale_plain,coverage_home,coverage_hours,coverage_changes,width_home_pp,home_units_without_spread
+all held-out countries,16,20,2.1447111267311008,0.13802083333333334,0.15572916666666667,0.0,1.0362052513364406,0.0
+donors,13,20,2.1447111267311008,0.09241452991452993,0.16346153846153846,0.0,0.9467764343287508,0.0

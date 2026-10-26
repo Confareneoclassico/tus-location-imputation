@@ -1,0 +1,22 @@
+! Settings file for src/location_imputation.py. Copy to TUS_Eurostat.nml in this folder
+! and adjust the file names. Paths are relative to this folder. Only the TUS_XX_data
+! entries are read by the pipeline.
+&settings
+TUS_AT_data = 'restricted/hetus2010/AT.csv'
+TUS_BE_data = 'restricted/hetus2010/BE.csv'
+TUS_DE_data = 'restricted/hetus2010/TUS_SUF_A_DE_2010.csv'
+TUS_EE_data = 'restricted/hetus2010/EE.csv'
+TUS_EL_data = 'restricted/hetus2010/EL.csv'
+TUS_ES_data = 'restricted/hetus2010/ES.csv'
+TUS_FI_data = 'restricted/hetus2010/FI.csv'
+TUS_FR_data = 'restricted/hetus2010/FR.csv'
+TUS_HU_data = 'restricted/hetus2010/HU.csv'
+TUS_IT_data = 'restricted/hetus2010/IT.csv'
+TUS_LU_data = 'restricted/hetus2010/LU.csv'
+TUS_NL_data = 'restricted/hetus2010/NL.csv'
+TUS_NO_data = 'restricted/hetus2010/NO.csv'
+TUS_PL_data = 'restricted/hetus2010/PL.csv'
+TUS_RO_data = 'restricted/hetus2010/RO.csv'
+TUS_RS_data = 'restricted/hetus2010/RS.csv'
+TUS_UK_data = 'restricted/hetus2010/UK.csv'
+/

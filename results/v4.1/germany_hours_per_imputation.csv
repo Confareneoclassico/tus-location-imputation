@@ -1,0 +1,1081 @@
+imputation,group,place,hours
+1,all,home,17.044197044865705
+1,all,second home,0.12064397541209698
+1,all,workplace or school,2.5451302903559254
+1,all,other people's home,0.6894887771216298
+1,all,"restaurant, cafe or pub",0.28781921693151624
+1,all,shops and services,0.44064948556343797
+1,all,hotel or camping,0.10033830826610107
+1,all,other or unspecified place,1.5647209326242755
+1,all,transport,1.2070119688593526
+2,all,home,17.067688697049384
+2,all,second home,0.11572685595674684
+2,all,workplace or school,2.5196351774116925
+2,all,other people's home,0.7035605667780476
+2,all,"restaurant, cafe or pub",0.27576964658274844
+2,all,shops and services,0.43765213107971246
+2,all,hotel or camping,0.09064652806747067
+2,all,other or unspecified place,1.5823084282148643
+2,all,transport,1.2070119688593526
+3,all,home,17.11201885714598
+3,all,second home,0.09241128657605069
+3,all,workplace or school,2.5344602140815287
+3,all,other people's home,0.7002938720663116
+3,all,"restaurant, cafe or pub",0.274884096723098
+3,all,shops and services,0.44586971181798607
+3,all,hotel or camping,0.09018119485820474
+3,all,other or unspecified place,1.5428687978715225
+3,all,transport,1.2070119688593526
+4,all,home,17.062321142462427
+4,all,second home,0.10479771184211499
+4,all,workplace or school,2.548281851432889
+4,all,other people's home,0.7121775217968648
+4,all,"restaurant, cafe or pub",0.2751318173997921
+4,all,shops and services,0.4332734549112329
+4,all,hotel or camping,0.09484038339663879
+4,all,other or unspecified place,1.5621641478987174
+4,all,transport,1.2070119688593526
+5,all,home,17.04684044461244
+5,all,second home,0.11320597034439481
+5,all,workplace or school,2.546360427441506
+5,all,other people's home,0.7010793887934395
+5,all,"restaurant, cafe or pub",0.28854952620263075
+5,all,shops and services,0.43746701677712985
+5,all,hotel or camping,0.10437633718504208
+5,all,other or unspecified place,1.5551089197840682
+5,all,transport,1.2070119688593526
+6,all,home,17.056749325604734
+6,all,second home,0.10403319746279349
+6,all,workplace or school,2.5353903216888507
+6,all,other people's home,0.6997769687292874
+6,all,"restaurant, cafe or pub",0.2825017070256294
+6,all,shops and services,0.4349755876114706
+6,all,hotel or camping,0.10742532639305545
+6,all,other or unspecified place,1.5721355966248534
+6,all,transport,1.2070119688593526
+7,all,home,17.0914471601666
+7,all,second home,0.10862371360878727
+7,all,workplace or school,2.5122428726381565
+7,all,other people's home,0.6948867006898526
+7,all,"restaurant, cafe or pub",0.2793826308544219
+7,all,shops and services,0.43953328973069195
+7,all,hotel or camping,0.09229584708599609
+7,all,other or unspecified place,1.5745758163661863
+7,all,transport,1.2070119688593526
+8,all,home,17.068865542202445
+8,all,second home,0.10518317697635564
+8,all,workplace or school,2.543869710082921
+8,all,other people's home,0.708943329036202
+8,all,"restaurant, cafe or pub",0.2915957240385435
+8,all,shops and services,0.4365735433907222
+8,all,hotel or camping,0.08659339253541479
+8,all,other or unspecified place,1.5513636128780819
+8,all,transport,1.2070119688593526
+9,all,home,17.036561639721956
+9,all,second home,0.11819341885182302
+9,all,workplace or school,2.5339979604356473
+9,all,other people's home,0.7173471280758937
+9,all,"restaurant, cafe or pub",0.28334421512659375
+9,all,shops and services,0.4366999807324049
+9,all,hotel or camping,0.1043676658913693
+9,all,other or unspecified place,1.562476022304981
+9,all,transport,1.2070119688593526
+10,all,home,17.075285085988654
+10,all,second home,0.10921562461858536
+10,all,workplace or school,2.5319063059417752
+10,all,other people's home,0.7168251460700308
+10,all,"restaurant, cafe or pub",0.28772439225913504
+10,all,shops and services,0.4364491137355332
+10,all,hotel or camping,0.09106188279836674
+10,all,other or unspecified place,1.544520479728578
+10,all,transport,1.2070119688593526
+11,all,home,17.074709250059158
+11,all,second home,0.09759039450881521
+11,all,workplace or school,2.525932248510595
+11,all,other people's home,0.7154233768703036
+11,all,"restaurant, cafe or pub",0.2825509150009434
+11,all,shops and services,0.4316632626206613
+11,all,hotel or camping,0.09261335615620786
+11,all,other or unspecified place,1.5725052274139832
+11,all,transport,1.2070119688593526
+12,all,home,17.067429146718197
+12,all,second home,0.10667223364506383
+12,all,workplace or school,2.54268134244105
+12,all,other people's home,0.7035854434988745
+12,all,"restaurant, cafe or pub",0.28924771024711227
+12,all,shops and services,0.43592783955940356
+12,all,hotel or camping,0.0900536286500187
+12,all,other or unspecified place,1.5573906863809492
+12,all,transport,1.2070119688593526
+13,all,home,17.062663150115046
+13,all,second home,0.10825308853690938
+13,all,workplace or school,2.5258073301737234
+13,all,other people's home,0.723044585784263
+13,all,"restaurant, cafe or pub",0.2755336565374587
+13,all,shops and services,0.429144495438799
+13,all,hotel or camping,0.09719865455073906
+13,all,other or unspecified place,1.5713430700037256
+13,all,transport,1.2070119688593526
+14,all,home,17.06185983404376
+14,all,second home,0.12478869902838853
+14,all,workplace or school,2.531264257471439
+14,all,other people's home,0.7091139798956292
+14,all,"restaurant, cafe or pub",0.28558371495606527
+14,all,shops and services,0.4390099636054179
+14,all,hotel or camping,0.08959079525076358
+14,all,other or unspecified place,1.5517767868892043
+14,all,transport,1.2070119688593526
+15,all,home,17.067296972788817
+15,all,second home,0.10515398300865159
+15,all,workplace or school,2.540764434582006
+15,all,other people's home,0.6932532381439244
+15,all,"restaurant, cafe or pub",0.2789634244584446
+15,all,shops and services,0.4351487942366077
+15,all,hotel or camping,0.09667833900870534
+15,all,other or unspecified place,1.5757288449135187
+15,all,transport,1.2070119688593526
+16,all,home,17.052548974130094
+16,all,second home,0.11640998484886914
+16,all,workplace or school,2.5476401420432744
+16,all,other people's home,0.727168625072941
+16,all,"restaurant, cafe or pub",0.2751511539882516
+16,all,shops and services,0.4360681413167864
+16,all,hotel or camping,0.08880088537174433
+16,all,other or unspecified place,1.549200124368722
+16,all,transport,1.2070119688593526
+17,all,home,17.075262174848316
+17,all,second home,0.1117569729768397
+17,all,workplace or school,2.5380506971420704
+17,all,other people's home,0.6907709239050231
+17,all,"restaurant, cafe or pub",0.28725110913554885
+17,all,shops and services,0.4410273858025361
+17,all,hotel or camping,0.09664827372956553
+17,all,other or unspecified place,1.55222049360076
+17,all,transport,1.2070119688593526
+18,all,home,17.101343279597945
+18,all,second home,0.10390410284963517
+18,all,workplace or school,2.5309317032622376
+18,all,other people's home,0.68942776443182
+18,all,"restaurant, cafe or pub",0.2866284251535054
+18,all,shops and services,0.43611219877697704
+18,all,hotel or camping,0.09611162602517359
+18,all,other or unspecified place,1.5485289310433923
+18,all,transport,1.2070119688593526
+19,all,home,17.063988387347038
+19,all,second home,0.11350020234499902
+19,all,workplace or school,2.535027332503387
+19,all,other people's home,0.7100034917352869
+19,all,"restaurant, cafe or pub",0.2780449625413933
+19,all,shops and services,0.435516110079448
+19,all,hotel or camping,0.09521890978250398
+19,all,other or unspecified place,1.5616886348065986
+19,all,transport,1.2070119688593526
+20,all,home,17.036161345815316
+20,all,second home,0.11740026802757583
+20,all,workplace or school,2.545181896477164
+20,all,other people's home,0.6997651442347205
+20,all,"restaurant, cafe or pub",0.28719869779882723
+20,all,shops and services,0.42935062069866664
+20,all,hotel or camping,0.09796783396951349
+20,all,other or unspecified place,1.5799622241188993
+20,all,transport,1.2070119688593526
+1,age 10-17,home,16.149844289632284
+1,age 10-17,second home,0.12067408035221738
+1,age 10-17,workplace or school,3.052808376191104
+1,age 10-17,other people's home,1.0735596216527936
+1,age 10-17,"restaurant, cafe or pub",0.209249050767977
+1,age 10-17,shops and services,0.2062457455475829
+1,age 10-17,hotel or camping,0.09900453596655079
+1,age 10-17,other or unspecified place,1.8420332724930684
+1,age 10-17,transport,1.2465810273964313
+2,age 10-17,home,16.146171232414048
+2,age 10-17,second home,0.13462292541451576
+2,age 10-17,workplace or school,3.0536093565820446
+2,age 10-17,other people's home,1.065377517390161
+2,age 10-17,"restaurant, cafe or pub",0.20330812749599914
+2,age 10-17,shops and services,0.2190987204456915
+2,age 10-17,hotel or camping,0.09199289051683522
+2,age 10-17,other or unspecified place,1.8392382023442653
+2,age 10-17,transport,1.2465810273964313
+3,age 10-17,home,16.17047284028339
+3,age 10-17,second home,0.1191909092712429
+3,age 10-17,workplace or school,3.05847934151754
+3,age 10-17,other people's home,1.020873438013434
+3,age 10-17,"restaurant, cafe or pub",0.2054165655909908
+3,age 10-17,shops and services,0.20699133835747313
+3,age 10-17,hotel or camping,0.1346862032405235
+3,age 10-17,other or unspecified place,1.8373083363289813
+3,age 10-17,transport,1.2465810273964313
+4,age 10-17,home,16.194435356441602
+4,age 10-17,second home,0.1055408448090339
+4,age 10-17,workplace or school,3.072841224149843
+4,age 10-17,other people's home,1.0347077161070442
+4,age 10-17,"restaurant, cafe or pub",0.2012973721299352
+4,age 10-17,shops and services,0.21284032263464886
+4,age 10-17,hotel or camping,0.10626660631054817
+4,age 10-17,other or unspecified place,1.8254895300209344
+4,age 10-17,transport,1.2465810273964313
+5,age 10-17,home,16.276340646149215
+5,age 10-17,second home,0.11312425062048928
+5,age 10-17,workplace or school,3.0588956697496066
+5,age 10-17,other people's home,0.952182671028494
+5,age 10-17,"restaurant, cafe or pub",0.20791375245576804
+5,age 10-17,shops and services,0.20729830755643477
+5,age 10-17,hotel or camping,0.11715112993145607
+5,age 10-17,other or unspecified place,1.8205125451121098
+5,age 10-17,transport,1.2465810273964313
+6,age 10-17,home,16.19106199243193
+6,age 10-17,second home,0.11089964387629031
+6,age 10-17,workplace or school,3.0738777585106734
+6,age 10-17,other people's home,1.0020909396717737
+6,age 10-17,"restaurant, cafe or pub",0.22075796200791203
+6,age 10-17,shops and services,0.20860358421240338
+6,age 10-17,hotel or camping,0.09386839421372845
+6,age 10-17,other or unspecified place,1.852258697678867
+6,age 10-17,transport,1.2465810273964313
+7,age 10-17,home,16.270344284666965
+7,age 10-17,second home,0.12624392094115616
+7,age 10-17,workplace or school,3.0561174666124122
+7,age 10-17,other people's home,0.9283627933844841
+7,age 10-17,"restaurant, cafe or pub",0.1871871187001741
+7,age 10-17,shops and services,0.2089932142582399
+7,age 10-17,hotel or camping,0.12502049659419256
+7,age 10-17,other or unspecified place,1.8511496774459502
+7,age 10-17,transport,1.2465810273964313
+8,age 10-17,home,16.246487779912584
+8,age 10-17,second home,0.09873191088344985
+8,age 10-17,workplace or school,3.0531748904344376
+8,age 10-17,other people's home,1.0187173873016726
+8,age 10-17,"restaurant, cafe or pub",0.19913639961630802
+8,age 10-17,shops and services,0.20539378082156362
+8,age 10-17,hotel or camping,0.09727201540026315
+8,age 10-17,other or unspecified place,1.834504808233302
+8,age 10-17,transport,1.2465810273964313
+9,age 10-17,home,16.11677358611341
+9,age 10-17,second home,0.11490059271503986
+9,age 10-17,workplace or school,3.0885045893605243
+9,age 10-17,other people's home,1.0716917926472527
+9,age 10-17,"restaurant, cafe or pub",0.19744762357756784
+9,age 10-17,shops and services,0.21139115800502967
+9,age 10-17,hotel or camping,0.12128742845197107
+9,age 10-17,other or unspecified place,1.8314222017327806
+9,age 10-17,transport,1.2465810273964313
+10,age 10-17,home,16.212308783965334
+10,age 10-17,second home,0.10659732062982048
+10,age 10-17,workplace or school,3.0591283589521385
+10,age 10-17,other people's home,1.0001810995894442
+10,age 10-17,"restaurant, cafe or pub",0.2068824433117245
+10,age 10-17,shops and services,0.20767241137359596
+10,age 10-17,hotel or camping,0.10428403139408227
+10,age 10-17,other or unspecified place,1.856364523387418
+10,age 10-17,transport,1.2465810273964313
+11,age 10-17,home,16.150241395371886
+11,age 10-17,second home,0.1245824069945356
+11,age 10-17,workplace or school,3.049644329548837
+11,age 10-17,other people's home,1.027728374345003
+11,age 10-17,"restaurant, cafe or pub",0.20898679947869417
+11,age 10-17,shops and services,0.20737040589744218
+11,age 10-17,hotel or camping,0.11827850339562007
+11,age 10-17,other or unspecified place,1.8665867575715631
+11,age 10-17,transport,1.2465810273964313
+12,age 10-17,home,16.160948324938943
+12,age 10-17,second home,0.13575673528864826
+12,age 10-17,workplace or school,3.0605610841747435
+12,age 10-17,other people's home,1.0562324613571392
+12,age 10-17,"restaurant, cafe or pub",0.21588865942526098
+12,age 10-17,shops and services,0.20502012937014102
+12,age 10-17,hotel or camping,0.09428455656187443
+12,age 10-17,other or unspecified place,1.8247270214868245
+12,age 10-17,transport,1.2465810273964313
+13,age 10-17,home,16.152534840393233
+13,age 10-17,second home,0.11587722988947227
+13,age 10-17,workplace or school,3.08909352033447
+13,age 10-17,other people's home,1.028079541897472
+13,age 10-17,"restaurant, cafe or pub",0.1970208661551413
+13,age 10-17,shops and services,0.20442506961446932
+13,age 10-17,hotel or camping,0.11921052671757543
+13,age 10-17,other or unspecified place,1.8471773776017386
+13,age 10-17,transport,1.2465810273964313
+14,age 10-17,home,16.1487329156757
+14,age 10-17,second home,0.1289971210131583
+14,age 10-17,workplace or school,3.0619427036248803
+14,age 10-17,other people's home,1.020457465015843
+14,age 10-17,"restaurant, cafe or pub",0.21337630812579317
+14,age 10-17,shops and services,0.20830394328579482
+14,age 10-17,hotel or camping,0.12649033391848288
+14,age 10-17,other or unspecified place,1.8451181819439284
+14,age 10-17,transport,1.2465810273964313
+15,age 10-17,home,16.190550013502296
+15,age 10-17,second home,0.13546736053423866
+15,age 10-17,workplace or school,3.053721238047474
+15,age 10-17,other people's home,0.9831848899827544
+15,age 10-17,"restaurant, cafe or pub",0.19650532728080392
+15,age 10-17,shops and services,0.20887608342056724
+15,age 10-17,hotel or camping,0.1140646787862013
+15,age 10-17,other or unspecified place,1.8710493810492381
+15,age 10-17,transport,1.2465810273964313
+16,age 10-17,home,16.143640279620765
+16,age 10-17,second home,0.12631587178391374
+16,age 10-17,workplace or school,3.0900080316304477
+16,age 10-17,other people's home,1.0552124761269486
+16,age 10-17,"restaurant, cafe or pub",0.19823040748057502
+16,age 10-17,shops and services,0.2068450783045649
+16,age 10-17,hotel or camping,0.10573074245040107
+16,age 10-17,other or unspecified place,1.8274360852059506
+16,age 10-17,transport,1.2465810273964313
+17,age 10-17,home,16.17341943671142
+17,age 10-17,second home,0.12623366904904995
+17,age 10-17,workplace or school,3.0659524464720507
+17,age 10-17,other people's home,1.0418508583279529
+17,age 10-17,"restaurant, cafe or pub",0.18870168331620413
+17,age 10-17,shops and services,0.21348112235017103
+17,age 10-17,hotel or camping,0.12937587296586092
+17,age 10-17,other or unspecified place,1.814403883410863
+17,age 10-17,transport,1.2465810273964313
+18,age 10-17,home,16.174612499847562
+18,age 10-17,second home,0.1152100711157317
+18,age 10-17,workplace or school,3.0677410347315828
+18,age 10-17,other people's home,1.0061709938144072
+18,age 10-17,"restaurant, cafe or pub",0.20440381594845303
+18,age 10-17,shops and services,0.21811214350509217
+18,age 10-17,hotel or camping,0.13199979691355662
+18,age 10-17,other or unspecified place,1.8351686167271963
+18,age 10-17,transport,1.2465810273964313
+19,age 10-17,home,16.208067518552365
+19,age 10-17,second home,0.12691224852008146
+19,age 10-17,workplace or school,3.0516696282656235
+19,age 10-17,other people's home,1.015682115496718
+19,age 10-17,"restaurant, cafe or pub",0.2045185653786762
+19,age 10-17,shops and services,0.20919093777449116
+19,age 10-17,hotel or camping,0.10903204733995514
+19,age 10-17,other or unspecified place,1.8283459112756624
+19,age 10-17,transport,1.2465810273964313
+20,age 10-17,home,16.165002377877478
+20,age 10-17,second home,0.1118959606978503
+20,age 10-17,workplace or school,3.0889285115219316
+20,age 10-17,other people's home,0.986132367129821
+20,age 10-17,"restaurant, cafe or pub",0.19245662282337
+20,age 10-17,shops and services,0.21212110482126922
+20,age 10-17,hotel or camping,0.10751098323347415
+20,age 10-17,other or unspecified place,1.8893710444983896
+20,age 10-17,transport,1.2465810273964313
+1,age 18-64,home,16.27147486354415
+1,age 18-64,second home,0.11512932672670453
+1,age 18-64,workplace or school,3.2584571790010317
+1,age 18-64,other people's home,0.6859673618760986
+1,age 18-64,"restaurant, cafe or pub",0.3128650773518937
+1,age 18-64,shops and services,0.4407355635045815
+1,age 18-64,hotel or camping,0.11274074477260804
+1,age 18-64,other or unspecified place,1.5018861691155303
+1,age 18-64,transport,1.3007437141074003
+2,age 18-64,home,16.309906682253512
+2,age 18-64,second home,0.11724430842189364
+2,age 18-64,workplace or school,3.2220186698103888
+2,age 18-64,other people's home,0.6832023318715406
+2,age 18-64,"restaurant, cafe or pub",0.30970372886172526
+2,age 18-64,shops and services,0.43917455392318644
+2,age 18-64,hotel or camping,0.0994233787600832
+2,age 18-64,other or unspecified place,1.5185826319902735
+2,age 18-64,transport,1.3007437141074003
+3,age 18-64,home,16.35137451576666
+3,age 18-64,second home,0.09018336831125837
+3,age 18-64,workplace or school,3.2432382851873562
+3,age 18-64,other people's home,0.6843603173870556
+3,age 18-64,"restaurant, cafe or pub",0.30263007644528517
+3,age 18-64,shops and services,0.451713104453648
+3,age 18-64,hotel or camping,0.10267528803179407
+3,age 18-64,other or unspecified place,1.4730813303095482
+3,age 18-64,transport,1.3007437141074003
+4,age 18-64,home,16.30844677626094
+4,age 18-64,second home,0.10308387425357654
+4,age 18-64,workplace or school,3.254058760775079
+4,age 18-64,other people's home,0.7031842126125294
+4,age 18-64,"restaurant, cafe or pub",0.29847326158625026
+4,age 18-64,shops and services,0.4356287920626972
+4,age 18-64,hotel or camping,0.10445892242204144
+4,age 18-64,other or unspecified place,1.4919216859194844
+4,age 18-64,transport,1.3007437141074003
+5,age 18-64,home,16.28881172389524
+5,age 18-64,second home,0.10352801604542153
+5,age 18-64,workplace or school,3.256710707229005
+5,age 18-64,other people's home,0.6848857922977478
+5,age 18-64,"restaurant, cafe or pub",0.3180442820644659
+5,age 18-64,shops and services,0.4390654185817781
+5,age 18-64,hotel or camping,0.11531312995481915
+5,age 18-64,other or unspecified place,1.4928972158241054
+5,age 18-64,transport,1.3007437141074003
+6,age 18-64,home,16.29412155278701
+6,age 18-64,second home,0.09794897015576869
+6,age 18-64,workplace or school,3.2430031066757223
+6,age 18-64,other people's home,0.6929687964404764
+6,age 18-64,"restaurant, cafe or pub",0.3104269204172436
+6,age 18-64,shops and services,0.43875659789449706
+6,age 18-64,hotel or camping,0.11654064005520301
+6,age 18-64,other or unspecified place,1.505489701466689
+6,age 18-64,transport,1.3007437141074003
+7,age 18-64,home,16.332111908044
+7,age 18-64,second home,0.09925665712613886
+7,age 18-64,workplace or school,3.2136025799755523
+7,age 18-64,other people's home,0.6974945194972553
+7,age 18-64,"restaurant, cafe or pub",0.30883347532955646
+7,age 18-64,shops and services,0.4414498259796956
+7,age 18-64,hotel or camping,0.10206714503926952
+7,age 18-64,other or unspecified place,1.5044401749011502
+7,age 18-64,transport,1.3007437141074003
+8,age 18-64,home,16.303366864798182
+8,age 18-64,second home,0.10306660299294748
+8,age 18-64,workplace or school,3.2575833896181337
+8,age 18-64,other people's home,0.7031679809963876
+8,age 18-64,"restaurant, cafe or pub",0.3266029329337489
+8,age 18-64,shops and services,0.4425545989558276
+8,age 18-64,hotel or camping,0.092179306546185
+8,age 18-64,other or unspecified place,1.470734609051181
+8,age 18-64,transport,1.3007437141074003
+9,age 18-64,home,16.279881735677545
+9,age 18-64,second home,0.1197633127698802
+9,age 18-64,workplace or school,3.235744484416448
+9,age 18-64,other people's home,0.709335019364625
+9,age 18-64,"restaurant, cafe or pub",0.3117321203927021
+9,age 18-64,shops and services,0.4376912577827308
+9,age 18-64,hotel or camping,0.11363728285620453
+9,age 18-64,other or unspecified place,1.4914710726324727
+9,age 18-64,transport,1.3007437141074003
+10,age 18-64,home,16.337963011171066
+10,age 18-64,second home,0.09223371011131137
+10,age 18-64,workplace or school,3.2349216794342217
+10,age 18-64,other people's home,0.7146113727951771
+10,age 18-64,"restaurant, cafe or pub",0.3237301609395943
+10,age 18-64,shops and services,0.438388502470185
+10,age 18-64,hotel or camping,0.0947000535586773
+10,age 18-64,other or unspecified place,1.4627077954123644
+10,age 18-64,transport,1.3007437141074003
+11,age 18-64,home,16.34177141590395
+11,age 18-64,second home,0.09542598005341237
+11,age 18-64,workplace or school,3.227002449627548
+11,age 18-64,other people's home,0.7026002397158804
+11,age 18-64,"restaurant, cafe or pub",0.3082135855220582
+11,age 18-64,shops and services,0.4349442628705773
+11,age 18-64,hotel or camping,0.0965803803793954
+11,age 18-64,other or unspecified place,1.492717971819786
+11,age 18-64,transport,1.3007437141074003
+12,age 18-64,home,16.30086579823145
+12,age 18-64,second home,0.09768910468367055
+12,age 18-64,workplace or school,3.252131768322824
+12,age 18-64,other people's home,0.6859758716343725
+12,age 18-64,"restaurant, cafe or pub",0.3228535663657126
+12,age 18-64,shops and services,0.4411990734640443
+12,age 18-64,hotel or camping,0.10335595198651956
+12,age 18-64,other or unspecified place,1.4951851512039955
+12,age 18-64,transport,1.3007437141074003
+13,age 18-64,home,16.316446991615955
+13,age 18-64,second home,0.10172163289809495
+13,age 18-64,workplace or school,3.226777830480498
+13,age 18-64,other people's home,0.703619052798096
+13,age 18-64,"restaurant, cafe or pub",0.30782856519669927
+13,age 18-64,shops and services,0.43218068109105134
+13,age 18-64,hotel or camping,0.1077362687665416
+13,age 18-64,other or unspecified place,1.50294526304566
+13,age 18-64,transport,1.3007437141074003
+14,age 18-64,home,16.29629203162577
+14,age 18-64,second home,0.12760570707161503
+14,age 18-64,workplace or school,3.23401089247045
+14,age 18-64,other people's home,0.7136642762737799
+14,age 18-64,"restaurant, cafe or pub",0.3153119422461841
+14,age 18-64,shops and services,0.4410928270637977
+14,age 18-64,hotel or camping,0.08753663302318464
+14,age 18-64,other or unspecified place,1.4837419761178063
+14,age 18-64,transport,1.3007437141074003
+15,age 18-64,home,16.303481121044797
+15,age 18-64,second home,0.10591821423772521
+15,age 18-64,workplace or school,3.2524150097659077
+15,age 18-64,other people's home,0.6815827124297871
+15,age 18-64,"restaurant, cafe or pub",0.3138111830821005
+15,age 18-64,shops and services,0.43824360379618565
+15,age 18-64,hotel or camping,0.1040691868034821
+15,age 18-64,other or unspecified place,1.4997352547326281
+15,age 18-64,transport,1.3007437141074003
+16,age 18-64,home,16.290656762051444
+16,age 18-64,second home,0.11619663279899733
+16,age 18-64,workplace or school,3.257102917644866
+16,age 18-64,other people's home,0.712541279183671
+16,age 18-64,"restaurant, cafe or pub",0.31031107466768887
+16,age 18-64,shops and services,0.4392017724899755
+16,age 18-64,hotel or camping,0.0938326024832059
+16,age 18-64,other or unspecified place,1.4794132445727441
+16,age 18-64,transport,1.3007437141074003
+17,age 18-64,home,16.322192253836345
+17,age 18-64,second home,0.10392355445418114
+17,age 18-64,workplace or school,3.246092558920851
+17,age 18-64,other people's home,0.6776731514973432
+17,age 18-64,"restaurant, cafe or pub",0.31735471749876215
+17,age 18-64,shops and services,0.4399567328321985
+17,age 18-64,hotel or camping,0.10691947119689044
+17,age 18-64,other or unspecified place,1.4851438456560189
+17,age 18-64,transport,1.3007437141074003
+18,age 18-64,home,16.346085520416732
+18,age 18-64,second home,0.10199988627261367
+18,age 18-64,workplace or school,3.236371444972277
+18,age 18-64,other people's home,0.6773601522702312
+18,age 18-64,"restaurant, cafe or pub",0.3167107641956084
+18,age 18-64,shops and services,0.4435083901713163
+18,age 18-64,hotel or camping,0.09991173318091923
+18,age 18-64,other or unspecified place,1.477308394412889
+18,age 18-64,transport,1.3007437141074003
+19,age 18-64,home,16.30787689423299
+19,age 18-64,second home,0.10673578068339636
+19,age 18-64,workplace or school,3.24074150625089
+19,age 18-64,other people's home,0.6974349670126413
+19,age 18-64,"restaurant, cafe or pub",0.30129576622455173
+19,age 18-64,shops and services,0.43979181581291926
+19,age 18-64,hotel or camping,0.10195692344523138
+19,age 18-64,other or unspecified place,1.503422632229967
+19,age 18-64,transport,1.3007437141074003
+20,age 18-64,home,16.276269482295675
+20,age 18-64,second home,0.1204384905452435
+20,age 18-64,workplace or school,3.253769044410115
+20,age 18-64,other people's home,0.6916702154807868
+20,age 18-64,"restaurant, cafe or pub",0.3183318895997721
+20,age 18-64,shops and services,0.4319517599492845
+20,age 18-64,hotel or camping,0.1090626181062085
+20,age 18-64,other or unspecified place,1.4977627855055125
+20,age 18-64,transport,1.3007437141074003
+1,age 65+,home,19.762499684292184
+1,age 65+,second home,0.13765665030588534
+1,age 65+,workplace or school,0.15410675016060552
+1,age 65+,other people's home,0.5574045471003826
+1,age 65+,"restaurant, cafe or pub",0.2397465078558413
+1,age 65+,shops and services,0.527631134946821
+1,age 65+,hotel or camping,0.06254807062957243
+1,age 65+,other or unspecified place,1.6554752910456698
+1,age 65+,transport,0.9029313636630465
+2,age 65+,home,19.749981581269317
+2,age 65+,second home,0.10400913357688872
+2,age 65+,workplace or school,0.15260655421871275
+2,age 65+,other people's home,0.631735204710955
+2,age 65+,"restaurant, cafe or pub",0.19798504069797224
+2,age 65+,shops and services,0.5143000938525542
+2,age 65+,hotel or camping,0.0630510063903424
+2,age 65+,other or unspecified place,1.6834000216202178
+2,age 65+,transport,0.9029313636630465
+3,age 65+,home,19.81060265031989
+3,age 65+,second home,0.08932129618915637
+3,age 65+,workplace or school,0.15139670921186255
+3,age 65+,other people's home,0.6301583535865508
+3,age 65+,"restaurant, cafe or pub",0.2150879509717537
+3,age 65+,shops and services,0.5167438664735889
+3,age 65+,hotel or camping,0.03504636601067069
+3,age 65+,other or unspecified place,1.6487114435735033
+3,age 65+,transport,0.9029313636630465
+4,age 65+,home,19.712588764687666
+4,age 65+,second home,0.10981177673712147
+4,age 65+,workplace or school,0.1742819352694491
+4,age 65+,other people's home,0.6198912213821933
+4,age 65+,"restaurant, cafe or pub",0.23055800878066096
+4,age 65+,shops and services,0.5080498379452891
+4,age 65+,hotel or camping,0.0608947223778789
+4,age 65+,other or unspecified place,1.6809923691567175
+4,age 65+,transport,0.9029313636630465
+5,age 65+,home,19.673684658427405
+5,age 65+,second home,0.1431125125143856
+5,age 65+,workplace or school,0.16271788367138273
+5,age 65+,other people's home,0.6576063821676595
+5,age 65+,"restaurant, cafe or pub",0.22751178744916117
+5,age 65+,shops and services,0.5182037585218139
+5,age 65+,hotel or camping,0.06585923773021678
+5,age 65+,other or unspecified place,1.6483724158549404
+5,age 65+,transport,0.9029313636630465
+6,age 65+,home,19.733220681891304
+6,age 65+,second home,0.1202596246151057
+6,age 65+,workplace or school,0.15053884195673983
+6,age 65+,other people's home,0.6082697643286379
+6,age 65+,"restaurant, cafe or pub",0.21927739268524585
+6,age 65+,shops and services,0.5075613825541874
+6,age 65+,hotel or camping,0.08433211237335388
+6,age 65+,other or unspecified place,1.6736088359324013
+6,age 65+,transport,0.9029313636630465
+7,age 65+,home,19.741159636604753
+7,age 65+,second home,0.13098167408445688
+7,age 65+,workplace or school,0.14468967195039573
+7,age 65+,other people's home,0.5999341934478122
+7,age 65+,"restaurant, cafe or pub",0.22278309600536697
+7,age 65+,shops and services,0.5194261673961443
+7,age 65+,hotel or camping,0.049951131247850625
+7,age 65+,other or unspecified place,1.6881430656001932
+7,age 65+,transport,0.9029313636630465
+8,age 65+,home,19.738079216422175
+8,age 65+,second home,0.11411832678694511
+8,age 65+,workplace or school,0.1510465146434693
+8,age 65+,other people's home,0.611471048479687
+8,age 65+,"restaurant, cafe or pub",0.217941724777305
+8,age 65+,shops and services,0.5041572300011969
+8,age 65+,hotel or camping,0.06537482584141603
+8,age 65+,other or unspecified place,1.6948797493847914
+8,age 65+,transport,0.9029313636630465
+9,age 65+,home,19.714808572353142
+9,age 65+,second home,0.11457273307992892
+9,age 65+,workplace or school,0.1612932977212732
+9,age 65+,other people's home,0.6101901750449061
+9,age 65+,"restaurant, cafe or pub",0.22768148428772034
+9,age 65+,shops and services,0.5175020366923638
+9,age 65+,hotel or camping,0.06945438796448251
+9,age 65+,other or unspecified place,1.6815659491931578
+9,age 65+,transport,0.9029313636630465
+10,age 65+,home,19.672627947033256
+10,age 65+,second home,0.16261384512255506
+10,age 65+,workplace or school,0.16544025518714245
+10,age 65+,other people's home,0.6181912591173752
+10,age 65+,"restaurant, cafe or pub",0.2066637087488514
+10,age 65+,shops and services,0.5156151003231706
+10,age 65+,hotel or camping,0.07490933068261928
+10,age 65+,other or unspecified place,1.6810071901220092
+10,age 65+,transport,0.9029313636630465
+11,age 65+,home,19.681405593076594
+11,age 65+,second home,0.09422531245641605
+11,age 65+,workplace or school,0.1667774472746685
+11,age 65+,other people's home,0.6387657850472361
+11,age 65+,"restaurant, cafe or pub",0.230710794054659
+11,age 65+,shops and services,0.5050187242052938
+11,age 65+,hotel or camping,0.07081421755642729
+11,age 65+,other or unspecified place,1.7093507626656859
+11,age 65+,transport,0.9029313636630465
+12,age 65+,home,19.771233476262797
+12,age 65+,second home,0.1235778757889638
+12,age 65+,workplace or school,0.15982739856323666
+12,age 65+,other people's home,0.6266880180371255
+12,age 65+,"restaurant, cafe or pub",0.21281041815582807
+12,age 65+,shops and services,0.505601505630833
+12,age 65+,hotel or camping,0.047414178221712774
+12,age 65+,other or unspecified place,1.649915765676472
+12,age 65+,transport,0.9029313636630465
+13,age 65+,home,19.705012745560584
+13,age 65+,second home,0.1255781010065873
+13,age 65+,workplace or school,0.15223043609219214
+13,age 65+,other people's home,0.6694747619668856
+13,age 65+,"restaurant, cafe or pub",0.2050615697180391
+13,age 65+,shops and services,0.5034144799880047
+13,age 65+,hotel or camping,0.0564756991638688
+13,age 65+,other or unspecified place,1.6798208428408088
+13,age 65+,transport,0.9029313636630465
+14,age 65+,home,19.76506462646578
+14,age 65+,second home,0.11452609759148655
+14,age 65+,workplace or school,0.16434130675272698
+14,age 65+,other people's home,0.5791819798013512
+14,age 65+,"restaurant, cafe or pub",0.2206881221853516
+14,age 65+,shops and services,0.5184511506592375
+14,age 65+,hotel or camping,0.08219768281480291
+14,age 65+,other or unspecified place,1.6526176700662436
+14,age 65+,transport,0.9029313636630465
+15,age 65+,home,19.75155246461239
+15,age 65+,second home,0.0915118421948023
+15,age 65+,workplace or school,0.1529509320507359
+15,age 65+,other people's home,0.6213650804236087
+15,age 65+,"restaurant, cafe or pub",0.20207909778646363
+15,age 65+,shops and services,0.509815953016763
+15,age 65+,hotel or camping,0.0673912113136041
+15,age 65+,other or unspecified place,1.7004020549386099
+15,age 65+,transport,0.9029313636630465
+16,age 65+,home,19.742837048340615
+16,age 65+,second home,0.11338154038901399
+16,age 65+,workplace or school,0.15563334505499427
+16,age 65+,other people's home,0.6502225219830757
+16,age 65+,"restaurant, cafe or pub",0.1952421176965249
+16,age 65+,shops and services,0.5117136067185465
+16,age 65+,hotel or camping,0.06696636978312487
+16,age 65+,other or unspecified place,1.661072086371078
+16,age 65+,transport,0.9029313636630465
+17,age 65+,home,19.735685562591385
+17,age 65+,second home,0.1305505944097487
+17,age 65+,workplace or school,0.15581474178633276
+17,age 65+,other people's home,0.6005287266630833
+17,age 65+,"restaurant, cafe or pub",0.23100146233169602
+17,age 65+,shops and services,0.5290274768845504
+17,age 65+,hotel or camping,0.05275925569195089
+17,age 65+,other or unspecified place,1.661700815978218
+17,age 65+,transport,0.9029313636630465
+18,age 65+,home,19.777784160702925
+18,age 65+,second home,0.10557428214471024
+18,age 65+,workplace or school,0.15341307837308518
+18,age 65+,other people's home,0.6087858915577559
+18,age 65+,"restaurant, cafe or pub",0.22436818026456712
+18,age 65+,shops and services,0.4944217035722278
+18,age 65+,hotel or camping,0.07102265542955921
+18,age 65+,other or unspecified place,1.661698684292121
+18,age 65+,transport,0.9029313636630465
+19,age 65+,home,19.716708625441928
+19,age 65+,second home,0.1293900726488756
+19,age 65+,workplace or school,0.16416789674677573
+19,age 65+,other people's home,0.6350263053434414
+19,age 65+,"restaurant, cafe or pub",0.23363630525045243
+19,age 65+,shops and services,0.5065573348423517
+19,age 65+,hotel or camping,0.06927708092962653
+19,age 65+,other or unspecified place,1.6423050151335175
+19,age 65+,transport,0.9029313636630465
+20,age 65+,home,19.706223467045895
+20,age 65+,second home,0.11006994435444005
+20,age 65+,workplace or school,0.15536501231048622
+20,age 65+,other people's home,0.6181657305798532
+20,age 65+,"restaurant, cafe or pub",0.22635356371414858
+20,age 65+,shops and services,0.5021757880403577
+20,age 65+,hotel or camping,0.06016586003530429
+20,age 65+,other or unspecified place,1.7185492702564873
+20,age 65+,transport,0.9029313636630465
+1,weekday,home,16.3237138205048
+1,weekday,second home,0.11053868911010978
+1,weekday,workplace or school,3.4908031054633044
+1,weekday,other people's home,0.5911110711559624
+1,weekday,"restaurant, cafe or pub",0.2385936301575115
+1,weekday,shops and services,0.46400794173714843
+1,weekday,hotel or camping,0.10261660329470648
+1,weekday,other or unspecified place,1.4103887236171835
+1,weekday,transport,1.2682264149592886
+2,weekday,home,16.37143690792468
+2,weekday,second home,0.10305994942600234
+2,weekday,workplace or school,3.4464520243892034
+2,weekday,other people's home,0.6306093201916042
+2,weekday,"restaurant, cafe or pub",0.22961188409473143
+2,weekday,shops and services,0.4595048200911327
+2,weekday,hotel or camping,0.07846508560174636
+2,weekday,other or unspecified place,1.4126335933216032
+2,weekday,transport,1.2682264149592886
+3,weekday,home,16.405203508817706
+3,weekday,second home,0.08370932453822447
+3,weekday,workplace or school,3.476947887909611
+3,weekday,other people's home,0.615206162414135
+3,weekday,"restaurant, cafe or pub",0.22748708324151196
+3,weekday,shops and services,0.4628485861098297
+3,weekday,hotel or camping,0.08064681823559264
+3,weekday,other or unspecified place,1.3797242137741046
+3,weekday,transport,1.2682264149592886
+4,weekday,home,16.36230899053376
+4,weekday,second home,0.09136720959858124
+4,weekday,workplace or school,3.4913664029057587
+4,weekday,other people's home,0.6176254443163741
+4,weekday,"restaurant, cafe or pub",0.2298744918183968
+4,weekday,shops and services,0.4522276328028748
+4,weekday,hotel or camping,0.08477606219657274
+4,weekday,other or unspecified place,1.4022273508684018
+4,weekday,transport,1.2682264149592886
+5,weekday,home,16.33681569185307
+5,weekday,second home,0.111522163466342
+5,weekday,workplace or school,3.4814433345031777
+5,weekday,other people's home,0.615762400464863
+5,weekday,"restaurant, cafe or pub",0.23673578425686242
+5,weekday,shops and services,0.4572561641959967
+5,weekday,hotel or camping,0.09594163356202376
+5,weekday,other or unspecified place,1.396296412738403
+5,weekday,transport,1.2682264149592886
+6,weekday,home,16.38074832272345
+6,weekday,second home,0.09101773761183223
+6,weekday,workplace or school,3.4655799573041457
+6,weekday,other people's home,0.6131316940121346
+6,weekday,"restaurant, cafe or pub",0.2327751614454183
+6,weekday,shops and services,0.4518455171152894
+6,weekday,hotel or camping,0.10387616230569507
+6,weekday,other or unspecified place,1.3927990325227626
+6,weekday,transport,1.2682264149592886
+7,weekday,home,16.391542132140593
+7,weekday,second home,0.09935869327612223
+7,weekday,workplace or school,3.4509172894976152
+7,weekday,other people's home,0.6135596794010325
+7,weekday,"restaurant, cafe or pub",0.2266735969826847
+7,weekday,shops and services,0.4596503480684599
+7,weekday,hotel or camping,0.08256237836155912
+7,weekday,other or unspecified place,1.4075094673126505
+7,weekday,transport,1.2682264149592886
+8,weekday,home,16.37562206238779
+8,weekday,second home,0.0967932596555712
+8,weekday,workplace or school,3.485133479749272
+8,weekday,other people's home,0.6123632917045689
+8,weekday,"restaurant, cafe or pub",0.23767543693049076
+8,weekday,shops and services,0.4581830516017954
+8,weekday,hotel or camping,0.08498520951592942
+8,weekday,other or unspecified place,1.3810177934953045
+8,weekday,transport,1.2682264149592886
+9,weekday,home,16.299367248357655
+9,weekday,second home,0.11636239553850222
+9,weekday,workplace or school,3.4703098411738473
+9,weekday,other people's home,0.6448655953905499
+9,weekday,"restaurant, cafe or pub",0.23167744053757924
+9,weekday,shops and services,0.4577072934924371
+9,weekday,hotel or camping,0.10167182566859298
+9,weekday,other or unspecified place,1.4098119448815558
+9,weekday,transport,1.2682264149592886
+10,weekday,home,16.382241979449134
+10,weekday,second home,0.09945690337260915
+10,weekday,workplace or school,3.4670573961845856
+10,weekday,other people's home,0.6288833625154611
+10,weekday,"restaurant, cafe or pub",0.23835629326729402
+10,weekday,shops and services,0.4533901321970817
+10,weekday,hotel or camping,0.08640248585202266
+10,weekday,other or unspecified place,1.3759850322025289
+10,weekday,transport,1.2682264149592886
+11,weekday,home,16.375043795179177
+11,weekday,second home,0.09670775193407352
+11,weekday,workplace or school,3.460576571448259
+11,weekday,other people's home,0.6196814151849083
+11,weekday,"restaurant, cafe or pub",0.23527756720266943
+11,weekday,shops and services,0.4502712898371227
+11,weekday,hotel or camping,0.08467150625334555
+11,weekday,other or unspecified place,1.4095436880011656
+11,weekday,transport,1.2682264149592886
+12,weekday,home,16.356923425505776
+12,weekday,second home,0.0985317497873694
+12,weekday,workplace or school,3.484199788051933
+12,weekday,other people's home,0.6153964023178924
+12,weekday,"restaurant, cafe or pub",0.24044161051693935
+12,weekday,shops and services,0.45421098869961396
+12,weekday,hotel or camping,0.0831022086778619
+12,weekday,other or unspecified place,1.398967411483336
+12,weekday,transport,1.2682264149592886
+13,weekday,home,16.367076667657816
+13,weekday,second home,0.09588605567753514
+13,weekday,workplace or school,3.4599069356820777
+13,weekday,other people's home,0.6293677175331498
+13,weekday,"restaurant, cafe or pub",0.2332078435478231
+13,weekday,shops and services,0.45241882748305084
+13,weekday,hotel or camping,0.08906628024220556
+13,weekday,other or unspecified place,1.4048432572170624
+13,weekday,transport,1.2682264149592886
+14,weekday,home,16.371512621870988
+14,weekday,second home,0.11672944621083964
+14,weekday,workplace or school,3.4617687070283703
+14,weekday,other people's home,0.6258315289745812
+14,weekday,"restaurant, cafe or pub",0.237006014464998
+14,weekday,shops and services,0.4523029430867611
+14,weekday,hotel or camping,0.08379202922054682
+14,weekday,other or unspecified place,1.3828302941836315
+14,weekday,transport,1.2682264149592886
+15,weekday,home,16.384444785915317
+15,weekday,second home,0.09433481999498716
+15,weekday,workplace or school,3.479964687569791
+15,weekday,other people's home,0.5961955461484831
+15,weekday,"restaurant, cafe or pub",0.22484925010189277
+15,weekday,shops and services,0.4542929176008498
+15,weekday,hotel or camping,0.08519810497954401
+15,weekday,other or unspecified place,1.4124934727298357
+15,weekday,transport,1.2682264149592886
+16,weekday,home,16.347366201777746
+16,weekday,second home,0.10203068868549012
+16,weekday,workplace or school,3.489560777363363
+16,weekday,other people's home,0.6386646021536364
+16,weekday,"restaurant, cafe or pub",0.2304375953951945
+16,weekday,shops and services,0.4563312950042153
+16,weekday,hotel or camping,0.08009336032947395
+16,weekday,other or unspecified place,1.3872890643316107
+16,weekday,transport,1.2682264149592886
+17,weekday,home,16.379104041900028
+17,weekday,second home,0.10303364930946673
+17,weekday,workplace or school,3.4700551387694496
+17,weekday,other people's home,0.6013179482024509
+17,weekday,"restaurant, cafe or pub",0.23514555162917514
+17,weekday,shops and services,0.46127261216949084
+17,weekday,hotel or camping,0.09016279468737165
+17,weekday,other or unspecified place,1.3916818483732887
+17,weekday,transport,1.2682264149592886
+18,weekday,home,16.379133569755446
+18,weekday,second home,0.09250882077327463
+18,weekday,workplace or school,3.4668522195174094
+18,weekday,other people's home,0.6195159927609876
+18,weekday,"restaurant, cafe or pub",0.23856494591489208
+18,weekday,shops and services,0.4556752525124539
+18,weekday,hotel or camping,0.09528848521936395
+18,weekday,other or unspecified place,1.3842342985868876
+18,weekday,transport,1.2682264149592886
+19,weekday,home,16.348979272987094
+19,weekday,second home,0.10544503199625153
+19,weekday,workplace or school,3.472259173687614
+19,weekday,other people's home,0.6169191383490529
+19,weekday,"restaurant, cafe or pub",0.2409782412572169
+19,weekday,shops and services,0.4595736363278901
+19,weekday,hotel or camping,0.09045649126340645
+19,weekday,other or unspecified place,1.3971625991721857
+19,weekday,transport,1.2682264149592886
+20,weekday,home,16.338625179635216
+20,weekday,second home,0.11243200066397042
+20,weekday,workplace or school,3.4776638262603257
+20,weekday,other people's home,0.6106361117780117
+20,weekday,"restaurant, cafe or pub",0.24001697723767745
+20,weekday,shops and services,0.45232150135641713
+20,weekday,hotel or camping,0.09012347443978265
+20,weekday,other or unspecified place,1.4099545136693106
+20,weekday,transport,1.2682264149592886
+1,weekend,home,18.579541285853015
+1,weekend,second home,0.14217826323822533
+1,weekend,workplace or school,0.5299087536971193
+1,weekend,other people's home,0.8991309161595291
+1,weekend,"restaurant, cafe or pub",0.3927185658785175
+1,weekend,shops and services,0.3908727940985201
+1,weekend,hotel or camping,0.09548327898413209
+1,weekend,other or unspecified place,1.893601689713508
+1,weekend,transport,1.0765644523774278
+2,weekend,home,18.551395934866033
+2,weekend,second home,0.1427199368995481
+2,weekend,workplace or school,0.5445955646305878
+2,weekend,other people's home,0.8590191153357916
+2,weekend,"restaurant, cafe or pub",0.37413148543847496
+2,weekend,shops and services,0.3910842179217986
+2,weekend,hotel or camping,0.11660508880045542
+2,weekend,other or unspecified place,1.9438842037298842
+2,weekend,transport,1.0765644523774278
+3,weekend,home,18.618236958837215
+3,weekend,second home,0.11095510112762336
+3,weekend,workplace or school,0.5260261891295172
+3,weekend,other people's home,0.881615130599653
+3,weekend,"restaurant, cafe or pub",0.37588676996855264
+3,weekend,shops and services,0.4096878605534337
+3,weekend,hotel or camping,0.11049887852379964
+3,weekend,other or unspecified place,1.890528658882781
+3,weekend,transport,1.0765644523774278
+4,weekend,home,18.554041684655758
+4,weekend,second home,0.1334180094090279
+4,weekend,workplace or school,0.5385758847846351
+4,weekend,other people's home,0.9136672757905686
+4,weekend,"restaurant, cafe or pub",0.3715748320938875
+4,weekend,shops and services,0.39288224678227524
+4,weekend,hotel or camping,0.11628737490386723
+4,weekend,other or unspecified place,1.9029882392025605
+4,weekend,transport,1.0765644523774278
+5,weekend,home,18.559897762601537
+5,weekend,second home,0.11679414992407373
+5,weekend,workplace or school,0.5537059038384072
+5,weekend,other people's home,0.8828892384327065
+5,weekend,"restaurant, cafe or pub",0.3989642140269165
+5,weekend,shops and services,0.39529649497135233
+5,weekend,hotel or camping,0.12235062609860325
+5,weekend,other or unspecified place,1.8935371577289903
+5,weekend,transport,1.0765644523774278
+6,weekend,home,18.497302292811025
+6,weekend,second home,0.13176904286530386
+6,weekend,workplace or school,0.5531633221151129
+6,weekend,other people's home,0.8844173865041152
+6,weekend,"restaurant, cafe or pub",0.3884685953574132
+6,weekend,shops and services,0.399025896857011
+6,weekend,hotel or camping,0.1149885679198539
+6,weekend,other or unspecified place,1.9543004431927313
+6,weekend,transport,1.0765644523774278
+7,weekend,home,18.582939422142537
+7,weekend,second home,0.1283674010804935
+7,weekend,workplace or school,0.5119348691231839
+7,weekend,other people's home,0.8681939610819471
+7,weekend,"restaurant, cafe or pub",0.3917051789259156
+7,weekend,shops and services,0.3966639922645402
+7,weekend,hotel or camping,0.11303779449795895
+7,weekend,other or unspecified place,1.9305929285059835
+7,weekend,transport,1.0765644523774278
+8,weekend,home,18.54616209588638
+8,weekend,second home,0.12306202662237337
+8,weekend,workplace or school,0.5380438155393512
+8,weekend,other people's home,0.914754649963218
+8,weekend,"restaurant, cafe or pub",0.40649944349318007
+8,weekend,shops and services,0.3905238466585441
+8,weekend,hotel or camping,0.09002041825084457
+8,weekend,other or unspecified place,1.914369251208698
+8,weekend,transport,1.0765644523774278
+9,weekend,home,18.607517249789577
+9,weekend,second home,0.12209531552917392
+9,weekend,workplace or school,0.538724503326827
+9,weekend,other people's home,0.8718047199026817
+9,weekend,"restaurant, cafe or pub",0.39344571663761685
+9,weekend,shops and services,0.3919335579009132
+9,weekend,hotel or camping,0.11011248078880602
+9,weekend,other or unspecified place,1.887802003746986
+9,weekend,transport,1.0765644523774278
+10,weekend,home,18.552154645755742
+10,weekend,second home,0.1300113849608217
+10,weekend,workplace or school,0.5391064845011173
+10,weekend,other people's home,0.9042284142619308
+10,weekend,"restaurant, cafe or pub",0.3929274336524371
+10,weekend,shops and services,0.40034793295582516
+10,weekend,hotel or camping,0.10099102205679912
+10,weekend,other or unspecified place,1.903668229477905
+10,weekend,transport,1.0765644523774278
+11,weekend,home,18.565690983493234
+11,weekend,second home,0.09947129908529892
+11,weekend,workplace or school,0.534212344321528
+11,weekend,other people's home,0.9194487650046392
+11,weekend,"restaurant, cafe or pub",0.3832900576210334
+11,weekend,shops and services,0.3920096989332155
+11,weekend,hotel or camping,0.10953737756137286
+11,weekend,other or unspecified place,1.9197750216022529
+11,weekend,transport,1.0765644523774278
+12,weekend,home,18.58151140480231
+12,weekend,second home,0.12401954248885924
+12,weekend,workplace or school,0.5363127354074092
+12,weekend,other people's home,0.8915156158016766
+12,weekend,"restaurant, cafe or pub",0.3932531355118676
+12,weekend,shops and services,0.39696658856783895
+12,weekend,hotel or camping,0.10486705144747946
+12,weekend,other or unspecified place,1.894989473595142
+12,weekend,transport,1.0765644523774278
+13,weekend,home,18.544952624511502
+13,weekend,second home,0.1346071409794004
+13,weekend,workplace or school,0.5352482146606118
+13,weekend,other people's home,0.9226692756036046
+13,weekend,"restaurant, cafe or pub",0.3657296403181931
+13,weekend,shops and services,0.3795470718503897
+13,weekend,hotel or camping,0.11452868200729274
+13,weekend,other or unspecified place,1.9261528976915865
+13,weekend,transport,1.0765644523774278
+14,weekend,home,18.53298446353302
+14,weekend,second home,0.14196290514687404
+14,weekend,workplace or school,0.5483663917957082
+14,weekend,other people's home,0.8865882458792278
+14,weekend,"restaurant, cafe or pub",0.38910242318904287
+14,weekend,shops and services,0.41068272599298306
+14,weekend,hotel or camping,0.10194792131323946
+14,weekend,other or unspecified place,1.911800470772493
+14,weekend,transport,1.0765644523774278
+15,weekend,home,18.52244976068586
+15,weekend,second home,0.12820953664776463
+15,weekend,workplace or school,0.5393358782990613
+15,weekend,other people's home,0.9000824375064957
+15,weekend,"restaurant, cafe or pub",0.39428031615681813
+15,weekend,shops and services,0.39435281375820774
+15,weekend,hotel or camping,0.12114262992609007
+15,weekend,other or unspecified place,1.923582174642282
+15,weekend,transport,1.0765644523774278
+16,weekend,home,18.55528806890231
+16,weekend,second home,0.14705215500276772
+16,weekend,workplace or school,0.5404144718151963
+16,weekend,other people's home,0.9157700210511868
+16,weekend,"restaurant, cafe or pub",0.37043540538882963
+16,weekend,shops and services,0.3928875157778168
+16,weekend,hotel or camping,0.10735655464324255
+16,weekend,other or unspecified place,1.8942313550412373
+16,weekend,transport,1.0765644523774278
+17,weekend,home,18.558769832069324
+17,weekend,second home,0.13034630899760635
+17,weekend,workplace or school,0.5519563598358994
+17,weekend,other people's home,0.881394531006991
+17,weekend,"restaurant, cafe or pub",0.3982876536877308
+17,weekend,shops and services,0.39788496324639505
+17,weekend,hotel or camping,0.11046877996870763
+17,weekend,other or unspecified place,1.8943271188099176
+17,weekend,transport,1.0765644523774278
+18,weekend,home,18.640366647942685
+18,weekend,second home,0.128187361805299
+18,weekend,workplace or school,0.5364922408736563
+18,weekend,other people's home,0.8384092151897524
+18,weekend,"restaurant, cafe or pub",0.3890513318301756
+18,weekend,shops and services,0.3944234808813811
+18,weekend,hotel or camping,0.09786573278712157
+18,weekend,other or unspecified place,1.8986395363125044
+18,weekend,transport,1.0765644523774278
+19,weekend,home,18.587667341787395
+19,weekend,second home,0.13066570875369085
+19,weekend,workplace or school,0.5377934467197768
+19,weekend,other people's home,0.9083655369090162
+19,weekend,"restaurant, cafe or pub",0.35703386211837795
+19,weekend,shops and services,0.3842497056316378
+19,weekend,hotel or camping,0.10536758722458364
+19,weekend,other or unspecified place,1.912292358478104
+19,weekend,transport,1.0765644523774278
+20,weekend,home,18.5226055813143
+20,weekend,second home,0.1279876077830072
+20,weekend,workplace or school,0.5580700355627468
+20,weekend,other people's home,0.8896984307572118
+20,weekend,"restaurant, cafe or pub",0.38774258347735374
+20,weekend,shops and services,0.3803998496941508
+20,weekend,hotel or camping,0.11468410413512384
+20,weekend,other or unspecified place,1.9422473548986807
+20,weekend,transport,1.0765644523774278

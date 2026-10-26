@@ -1,0 +1,1297 @@
+country,coding,variant,place,recorded_class,recorded_hours,imputed_hours
+BE,full,home,home,True,17.271401371378538,22.50653440664254
+BE,full,home,second home,True,0.08745421886647003,0.0
+BE,full,home,workplace or school,True,2.350744468506297,0.0
+BE,full,home,other people's home,True,0.9171664679316576,0.0
+BE,full,home,"restaurant, cafe or pub",True,0.2819041911918273,0.0
+BE,full,home,shops and services,True,0.3635450653160846,0.0
+BE,full,home,hotel or camping,True,0.16922775097075018,0.0
+BE,full,home,other or unspecified place,True,1.065090872480876,0.0
+BE,full,home,transport,True,1.4934655933575012,1.4934655933575012
+BE,full,activity_modal,home,True,17.271401371378538,18.207369873590416
+BE,full,activity_modal,second home,True,0.08745421886647003,0.0
+BE,full,activity_modal,workplace or school,True,2.350744468506297,2.5036430582060545
+BE,full,activity_modal,other people's home,True,0.9171664679316576,0.5521542757541179
+BE,full,activity_modal,"restaurant, cafe or pub",True,0.2819041911918273,0.0
+BE,full,activity_modal,shops and services,True,0.3635450653160846,0.3540410616422738
+BE,full,activity_modal,hotel or camping,True,0.16922775097075018,0.0
+BE,full,activity_modal,other or unspecified place,True,1.065090872480876,0.8893261374496388
+BE,full,activity_modal,transport,True,1.4934655933575012,1.4934655933575012
+BE,full,slot_time,home,True,17.271401371378538,17.499936201456975
+BE,full,slot_time,second home,True,0.08745421886647003,0.12256777806969471
+BE,full,slot_time,workplace or school,True,2.350744468506297,2.3769017725166255
+BE,full,slot_time,other people's home,True,0.9171664679316576,0.6979239384694707
+BE,full,slot_time,"restaurant, cafe or pub",True,0.2819041911918273,0.22923982473762597
+BE,full,slot_time,shops and services,True,0.3635450653160846,0.359198257707552
+BE,full,slot_time,hotel or camping,True,0.16922775097075018,0.08209717438249584
+BE,full,slot_time,other or unspecified place,True,1.065090872480876,1.138669459302051
+BE,full,slot_time,transport,True,1.4934655933575012,1.4934655933575012
+BE,full,slot_time_age,home,True,17.271401371378538,17.413903270010973
+BE,full,slot_time_age,second home,True,0.08745421886647003,0.1279193762160832
+BE,full,slot_time_age,workplace or school,True,2.350744468506297,2.4137828426412637
+BE,full,slot_time_age,other people's home,True,0.9171664679316576,0.726240176780101
+BE,full,slot_time_age,"restaurant, cafe or pub",True,0.2819041911918273,0.23951037211663334
+BE,full,slot_time_age,shops and services,True,0.3635450653160846,0.35958388526097534
+BE,full,slot_time_age,hotel or camping,True,0.16922775097075018,0.08205286587518942
+BE,full,slot_time_age,other or unspecified place,True,1.065090872480876,1.143541617741283
+BE,full,slot_time_age,transport,True,1.4934655933575012,1.4934655933575012
+BE,full,episode_time_age,home,True,17.271401371378538,17.732762653327246
+BE,full,episode_time_age,second home,True,0.08745421886647003,0.1303761340859591
+BE,full,episode_time_age,workplace or school,True,2.350744468506297,2.300576973503243
+BE,full,episode_time_age,other people's home,True,0.9171664679316576,0.6609671884179411
+BE,full,episode_time_age,"restaurant, cafe or pub",True,0.2819041911918273,0.1730727126440802
+BE,full,episode_time_age,shops and services,True,0.3635450653160846,0.3593291037750229
+BE,full,episode_time_age,hotel or camping,True,0.16922775097075018,0.08846650738562041
+BE,full,episode_time_age,other or unspecified place,True,1.065090872480876,1.0609831335034112
+BE,full,episode_time_age,transport,True,1.4934655933575012,1.4934655933575012
+BE,full,markov_time,home,True,17.271401371378538,17.356398564662605
+BE,full,markov_time,second home,True,0.08745421886647003,0.12347844806109154
+BE,full,markov_time,workplace or school,True,2.350744468506297,2.324552517471992
+BE,full,markov_time,other people's home,True,0.9171664679316576,0.8775839456952834
+BE,full,markov_time,"restaurant, cafe or pub",True,0.2819041911918273,0.24775725542257088
+BE,full,markov_time,shops and services,True,0.3635450653160846,0.3675500443567179
+BE,full,markov_time,hotel or camping,True,0.16922775097075018,0.07814505647239724
+BE,full,markov_time,other or unspecified place,True,1.065090872480876,1.131068574499846
+BE,full,markov_time,transport,True,1.4934655933575012,1.4934655933575012
+BE,full,markov_time_age,home,True,17.271401371378538,17.274143120487658
+BE,full,markov_time_age,second home,True,0.08745421886647003,0.12258256673914371
+BE,full,markov_time_age,workplace or school,True,2.350744468506297,2.3574723058154587
+BE,full,markov_time_age,other people's home,True,0.9171664679316576,0.9067751719908372
+BE,full,markov_time_age,"restaurant, cafe or pub",True,0.2819041911918273,0.24518555260210273
+BE,full,markov_time_age,shops and services,True,0.3635450653160846,0.37509102226650015
+BE,full,markov_time_age,hotel or camping,True,0.16922775097075018,0.09922703993415627
+BE,full,markov_time_age,other or unspecified place,True,1.065090872480876,1.1260576268066618
+BE,full,markov_time_age,transport,True,1.4934655933575012,1.4934655933575012
+BE,full,markov_time_age_day,home,True,17.271401371378538,17.339225445602676
+BE,full,markov_time_age_day,second home,True,0.08745421886647003,0.10050446708893938
+BE,full,markov_time_age_day,workplace or school,True,2.350744468506297,2.3571872526696347
+BE,full,markov_time_age_day,other people's home,True,0.9171664679316576,0.864926039716928
+BE,full,markov_time_age_day,"restaurant, cafe or pub",True,0.2819041911918273,0.25098604101085203
+BE,full,markov_time_age_day,shops and services,True,0.3635450653160846,0.3803573583649781
+BE,full,markov_time_age_day,hotel or camping,True,0.16922775097075018,0.09600154510351686
+BE,full,markov_time_age_day,other or unspecified place,True,1.065090872480876,1.1173462570849915
+BE,full,markov_time_age_day,transport,True,1.4934655933575012,1.4934655933575012
+BE,full,markov_time_age_modal,home,True,17.271401371378538,17.96539090757143
+BE,full,markov_time_age_modal,second home,True,0.08745421886647003,0.003819815240576923
+BE,full,markov_time_age_modal,workplace or school,True,2.350744468506297,2.366628111434165
+BE,full,markov_time_age_modal,other people's home,True,0.9171664679316576,0.661774922865545
+BE,full,markov_time_age_modal,"restaurant, cafe or pub",True,0.2819041911918273,0.18609182102868582
+BE,full,markov_time_age_modal,shops and services,True,0.3635450653160846,0.3572481264550836
+BE,full,markov_time_age_modal,hotel or camping,True,0.16922775097075018,0.006935707350952793
+BE,full,markov_time_age_modal,other or unspecified place,True,1.065090872480876,0.9586449946960738
+BE,full,markov_time_age_modal,transport,True,1.4934655933575012,1.4934655933575012
+EE,full,home,home,True,16.84312361045217,22.765808278423627
+EE,full,home,second home,True,0.40920111395717196,0.0
+EE,full,home,workplace or school,True,2.968110336362191,0.0
+EE,full,home,other people's home,True,0.812598709946547,0.0
+EE,full,home,"restaurant, cafe or pub",True,0.0802413268707005,0.0
+EE,full,home,shops and services,True,0.33834869390369243,0.0
+EE,full,home,hotel or camping,True,0.06604895309501908,0.0
+EE,full,home,other or unspecified place,True,1.2481355338361204,0.0
+EE,full,home,transport,True,1.2341917215763816,1.2341917215763816
+EE,full,activity_modal,home,True,16.84312361045217,18.185312478054747
+EE,full,activity_modal,second home,True,0.40920111395717196,0.0
+EE,full,activity_modal,workplace or school,True,2.968110336362191,2.9396263483714855
+EE,full,activity_modal,other people's home,True,0.812598709946547,0.44868721600451117
+EE,full,activity_modal,"restaurant, cafe or pub",True,0.0802413268707005,0.0
+EE,full,activity_modal,shops and services,True,0.33834869390369243,0.34072291168435737
+EE,full,activity_modal,hotel or camping,True,0.06604895309501908,0.0
+EE,full,activity_modal,other or unspecified place,True,1.2481355338361204,0.851459324308516
+EE,full,activity_modal,transport,True,1.2341917215763816,1.2341917215763816
+EE,full,slot_time,home,True,16.84312361045217,17.56477027635075
+EE,full,slot_time,second home,True,0.40920111395717196,0.10700799723593044
+EE,full,slot_time,workplace or school,True,2.968110336362191,2.7334858328384777
+EE,full,slot_time,other people's home,True,0.812598709946547,0.6284526579675401
+EE,full,slot_time,"restaurant, cafe or pub",True,0.0802413268707005,0.17027839679153353
+EE,full,slot_time,shops and services,True,0.33834869390369243,0.3371097897948352
+EE,full,slot_time,hotel or camping,True,0.06604895309501908,0.07946731634196169
+EE,full,slot_time,other or unspecified place,True,1.2481355338361204,1.1452360111025879
+EE,full,slot_time,transport,True,1.2341917215763816,1.2341917215763816
+EE,full,slot_time_age,home,True,16.84312361045217,17.49801542583545
+EE,full,slot_time_age,second home,True,0.40920111395717196,0.1049535444191865
+EE,full,slot_time_age,workplace or school,True,2.968110336362191,2.7536440925742736
+EE,full,slot_time_age,other people's home,True,0.812598709946547,0.6662101715266776
+EE,full,slot_time_age,"restaurant, cafe or pub",True,0.0802413268707005,0.17444543729877507
+EE,full,slot_time_age,shops and services,True,0.33834869390369243,0.33865570926679345
+EE,full,slot_time_age,hotel or camping,True,0.06604895309501908,0.0801963193911738
+EE,full,slot_time_age,other or unspecified place,True,1.2481355338361204,1.1496875781112845
+EE,full,slot_time_age,transport,True,1.2341917215763816,1.2341917215763816
+EE,full,episode_time_age,home,True,16.84312361045217,17.87982513934652
+EE,full,episode_time_age,second home,True,0.40920111395717196,0.09080804969481085
+EE,full,episode_time_age,workplace or school,True,2.968110336362191,2.5665311327526705
+EE,full,episode_time_age,other people's home,True,0.812598709946547,0.6025248645160378
+EE,full,episode_time_age,"restaurant, cafe or pub",True,0.0802413268707005,0.12485578307347636
+EE,full,episode_time_age,shops and services,True,0.33834869390369243,0.3520956848447506
+EE,full,episode_time_age,hotel or camping,True,0.06604895309501908,0.09024753821397088
+EE,full,episode_time_age,other or unspecified place,True,1.2481355338361204,1.058920085981397
+EE,full,episode_time_age,transport,True,1.2341917215763816,1.2341917215763816
+EE,full,markov_time,home,True,16.84312361045217,17.65495203367837
+EE,full,markov_time,second home,True,0.40920111395717196,0.10534020868848794
+EE,full,markov_time,workplace or school,True,2.968110336362191,2.6868747686837846
+EE,full,markov_time,other people's home,True,0.812598709946547,0.6997675629774219
+EE,full,markov_time,"restaurant, cafe or pub",True,0.0802413268707005,0.11153390540617042
+EE,full,markov_time,shops and services,True,0.33834869390369243,0.3390216800604794
+EE,full,markov_time,hotel or camping,True,0.06604895309501908,0.08191091977518465
+EE,full,markov_time,other or unspecified place,True,1.2481355338361204,1.0864071991537199
+EE,full,markov_time,transport,True,1.2341917215763816,1.2341917215763816
+EE,full,markov_time_age,home,True,16.84312361045217,17.58035010372547
+EE,full,markov_time_age,second home,True,0.40920111395717196,0.08601223094515326
+EE,full,markov_time_age,workplace or school,True,2.968110336362191,2.768376694090459
+EE,full,markov_time_age,other people's home,True,0.812598709946547,0.7068664819189995
+EE,full,markov_time_age,"restaurant, cafe or pub",True,0.0802413268707005,0.12080581141801788
+EE,full,markov_time_age,shops and services,True,0.33834869390369243,0.33334673375140417
+EE,full,markov_time_age,hotel or camping,True,0.06604895309501908,0.0781226951345197
+EE,full,markov_time_age,other or unspecified place,True,1.2481355338361204,1.0919275274396034
+EE,full,markov_time_age,transport,True,1.2341917215763816,1.2341917215763816
+EE,full,markov_time_age_day,home,True,16.84312361045217,17.586557153611366
+EE,full,markov_time_age_day,second home,True,0.40920111395717196,0.10254248622764942
+EE,full,markov_time_age_day,workplace or school,True,2.968110336362191,2.761473295870486
+EE,full,markov_time_age_day,other people's home,True,0.812598709946547,0.6937419319345464
+EE,full,markov_time_age_day,"restaurant, cafe or pub",True,0.0802413268707005,0.1207085577757584
+EE,full,markov_time_age_day,shops and services,True,0.33834869390369243,0.3329545052914885
+EE,full,markov_time_age_day,hotel or camping,True,0.06604895309501908,0.06534807822565507
+EE,full,markov_time_age_day,other or unspecified place,True,1.2481355338361204,1.102482269486671
+EE,full,markov_time_age_day,transport,True,1.2341917215763816,1.2341917215763816
+EE,full,markov_time_age_modal,home,True,16.84312361045217,18.154352345952486
+EE,full,markov_time_age_modal,second home,True,0.40920111395717196,0.0046960488337758535
+EE,full,markov_time_age_modal,workplace or school,True,2.968110336362191,2.753958190481288
+EE,full,markov_time_age_modal,other people's home,True,0.812598709946547,0.5078730276951655
+EE,full,markov_time_age_modal,"restaurant, cafe or pub",True,0.0802413268707005,0.07580133354764974
+EE,full,markov_time_age_modal,shops and services,True,0.33834869390369243,0.34641656258488085
+EE,full,markov_time_age_modal,hotel or camping,True,0.06604895309501908,0.0010689472773429598
+EE,full,markov_time_age_modal,other or unspecified place,True,1.2481355338361204,0.9216418220510271
+EE,full,markov_time_age_modal,transport,True,1.2341917215763816,1.2341917215763816
+EL,full,home,home,True,18.047697124627902,23.028938817400643
+EL,full,home,second home,True,0.0670074627244493,0.0
+EL,full,home,workplace or school,True,2.3608391225349283,0.0
+EL,full,home,other people's home,True,0.6244683460130928,0.0
+EL,full,home,"restaurant, cafe or pub",True,0.5667498474882231,0.0
+EL,full,home,shops and services,True,0.2074857159322191,0.0
+EL,full,home,hotel or camping,True,0.014548461097996044,0.0
+EL,full,home,other or unspecified place,True,1.1401427369818062,0.0
+EL,full,home,transport,True,0.9710611825994233,0.9710611825994233
+EL,full,activity_modal,home,True,18.047697124627902,18.9955986727476
+EL,full,activity_modal,second home,True,0.0670074627244493,0.0
+EL,full,activity_modal,workplace or school,True,2.3608391225349283,2.4372668015844097
+EL,full,activity_modal,other people's home,True,0.6244683460130928,0.5048085008438561
+EL,full,activity_modal,"restaurant, cafe or pub",True,0.5667498474882231,0.0
+EL,full,activity_modal,shops and services,True,0.2074857159322191,0.20362424377973348
+EL,full,activity_modal,hotel or camping,True,0.014548461097996044,0.0
+EL,full,activity_modal,other or unspecified place,True,1.1401427369818062,0.8876405984450303
+EL,full,activity_modal,transport,True,0.9710611825994233,0.9710611825994233
+EL,full,slot_time,home,True,18.047697124627902,18.203246058497623
+EL,full,slot_time,second home,True,0.0670074627244493,0.12364448593609331
+EL,full,slot_time,workplace or school,True,2.3608391225349283,2.2861638579312937
+EL,full,slot_time,other people's home,True,0.6244683460130928,0.7643346169681329
+EL,full,slot_time,"restaurant, cafe or pub",True,0.5667498474882231,0.252818043220579
+EL,full,slot_time,shops and services,True,0.2074857159322191,0.232499553362363
+EL,full,slot_time,hotel or camping,True,0.014548461097996044,0.08976199710979735
+EL,full,slot_time,other or unspecified place,True,1.1401427369818062,1.0764702043747367
+EL,full,slot_time,transport,True,0.9710611825994233,0.9710611825994233
+EL,full,slot_time_age,home,True,18.047697124627902,18.217005538724685
+EL,full,slot_time_age,second home,True,0.0670074627244493,0.12342804631763246
+EL,full,slot_time_age,workplace or school,True,2.3608391225349283,2.297597484396923
+EL,full,slot_time_age,other people's home,True,0.6244683460130928,0.7506264420898676
+EL,full,slot_time_age,"restaurant, cafe or pub",True,0.5667498474882231,0.25109523333654205
+EL,full,slot_time_age,shops and services,True,0.2074857159322191,0.23228312327122433
+EL,full,slot_time_age,hotel or camping,True,0.014548461097996044,0.08691301467823583
+EL,full,slot_time_age,other or unspecified place,True,1.1401427369818062,1.069989934585507
+EL,full,slot_time_age,transport,True,0.9710611825994233,0.9710611825994233
+EL,full,episode_time_age,home,True,18.047697124627902,18.628326993919885
+EL,full,episode_time_age,second home,True,0.0670074627244493,0.12082493619574843
+EL,full,episode_time_age,workplace or school,True,2.3608391225349283,2.1295651152778223
+EL,full,episode_time_age,other people's home,True,0.6244683460130928,0.66949556354098
+EL,full,episode_time_age,"restaurant, cafe or pub",True,0.5667498474882231,0.18025640893879671
+EL,full,episode_time_age,shops and services,True,0.2074857159322191,0.22913309454179098
+EL,full,episode_time_age,hotel or camping,True,0.014548461097996044,0.09035991745196563
+EL,full,episode_time_age,other or unspecified place,True,1.1401427369818062,0.9809767875336295
+EL,full,episode_time_age,transport,True,0.9710611825994233,0.9710611825994233
+EL,full,markov_time,home,True,18.047697124627902,18.130425711202655
+EL,full,markov_time,second home,True,0.0670074627244493,0.08163897299829571
+EL,full,markov_time,workplace or school,True,2.3608391225349283,2.3175069201698406
+EL,full,markov_time,other people's home,True,0.6244683460130928,0.8786211284985046
+EL,full,markov_time,"restaurant, cafe or pub",True,0.5667498474882231,0.2514514628587512
+EL,full,markov_time,shops and services,True,0.2074857159322191,0.22621624958137798
+EL,full,markov_time,hotel or camping,True,0.014548461097996044,0.07422735926183394
+EL,full,markov_time,other or unspecified place,True,1.1401427369818062,1.0688510128293514
+EL,full,markov_time,transport,True,0.9710611825994233,0.9710611825994233
+EL,full,markov_time_age,home,True,18.047697124627902,18.081297711424153
+EL,full,markov_time_age,second home,True,0.0670074627244493,0.08739410739316153
+EL,full,markov_time_age,workplace or school,True,2.3608391225349283,2.335529886162255
+EL,full,markov_time_age,other people's home,True,0.6244683460130928,0.9017439735027101
+EL,full,markov_time_age,"restaurant, cafe or pub",True,0.5667498474882231,0.2557012465364605
+EL,full,markov_time_age,shops and services,True,0.2074857159322191,0.23297808791245117
+EL,full,markov_time_age,hotel or camping,True,0.014548461097996044,0.0829287890985225
+EL,full,markov_time_age,other or unspecified place,True,1.1401427369818062,1.0513650153709087
+EL,full,markov_time_age,transport,True,0.9710611825994233,0.9710611825994233
+EL,full,markov_time_age_day,home,True,18.047697124627902,18.14049188127106
+EL,full,markov_time_age_day,second home,True,0.0670074627244493,0.0760429519265767
+EL,full,markov_time_age_day,workplace or school,True,2.3608391225349283,2.3286375742217995
+EL,full,markov_time_age_day,other people's home,True,0.6244683460130928,0.8627947855064603
+EL,full,markov_time_age_day,"restaurant, cafe or pub",True,0.5667498474882231,0.25809684762389934
+EL,full,markov_time_age_day,shops and services,True,0.2074857159322191,0.22770695865265517
+EL,full,markov_time_age_day,hotel or camping,True,0.014548461097996044,0.07080860080204848
+EL,full,markov_time_age_day,other or unspecified place,True,1.1401427369818062,1.0643592173961114
+EL,full,markov_time_age_day,transport,True,0.9710611825994233,0.9710611825994233
+EL,full,markov_time_age_modal,home,True,18.047697124627902,18.578420400302047
+EL,full,markov_time_age_modal,second home,True,0.0670074627244493,0.0006260468321177668
+EL,full,markov_time_age_modal,workplace or school,True,2.3608391225349283,2.3799976283461506
+EL,full,markov_time_age_modal,other people's home,True,0.6244683460130928,0.644393438640299
+EL,full,markov_time_age_modal,"restaurant, cafe or pub",True,0.5667498474882231,0.2528504666570943
+EL,full,markov_time_age_modal,shops and services,True,0.2074857159322191,0.20944159142904428
+EL,full,markov_time_age_modal,hotel or camping,True,0.014548461097996044,0.0010852399127801887
+EL,full,markov_time_age_modal,other or unspecified place,True,1.1401427369818062,0.9621240052810789
+EL,full,markov_time_age_modal,transport,True,0.9710611825994233,0.9710611825994233
+ES,full,home,home,True,16.568202115517984,22.86158342864354
+ES,full,home,second home,True,0.22471731841063905,0.0
+ES,full,home,workplace or school,True,2.7561016019717277,0.0
+ES,full,home,other people's home,True,0.7193339897192537,0.0
+ES,full,home,"restaurant, cafe or pub",True,0.47674269722439255,0.0
+ES,full,home,shops and services,True,0.3642582422072779,0.0
+ES,full,home,hotel or camping,True,0.08004536252186004,0.0
+ES,full,home,other or unspecified place,True,1.6721821010704252,0.0
+ES,full,home,transport,True,1.1384165713564343,1.1384165713564343
+ES,full,activity_modal,home,True,16.568202115517984,17.986484512692893
+ES,full,activity_modal,second home,True,0.22471731841063905,0.0
+ES,full,activity_modal,workplace or school,True,2.7561016019717277,2.8247479617589466
+ES,full,activity_modal,other people's home,True,0.7193339897192537,0.36973092366664306
+ES,full,activity_modal,"restaurant, cafe or pub",True,0.47674269722439255,0.0
+ES,full,activity_modal,shops and services,True,0.3642582422072779,0.3501486086753474
+ES,full,activity_modal,hotel or camping,True,0.08004536252186004,0.0
+ES,full,activity_modal,other or unspecified place,True,1.6721821010704252,1.3304714218497309
+ES,full,activity_modal,transport,True,1.1384165713564343,1.1384165713564343
+ES,full,slot_time,home,True,16.568202115517984,17.21159700926825
+ES,full,slot_time,second home,True,0.22471731841063905,0.11390763972693066
+ES,full,slot_time,workplace or school,True,2.7561016019717277,2.5786101293171066
+ES,full,slot_time,other people's home,True,0.7193339897192537,0.6806076772824226
+ES,full,slot_time,"restaurant, cafe or pub",True,0.47674269722439255,0.3410023110921682
+ES,full,slot_time,shops and services,True,0.3642582422072779,0.35458460539288356
+ES,full,slot_time,hotel or camping,True,0.08004536252186004,0.08552038670988456
+ES,full,slot_time,other or unspecified place,True,1.6721821010704252,1.4957536698539045
+ES,full,slot_time,transport,True,1.1384165713564343,1.1384165713564343
+ES,full,slot_time_age,home,True,16.568202115517984,17.174761792008464
+ES,full,slot_time_age,second home,True,0.22471731841063905,0.11225791744961205
+ES,full,slot_time_age,workplace or school,True,2.7561016019717277,2.612585285793812
+ES,full,slot_time_age,other people's home,True,0.7193339897192537,0.6760008969342497
+ES,full,slot_time_age,"restaurant, cafe or pub",True,0.47674269722439255,0.34026335074250075
+ES,full,slot_time_age,shops and services,True,0.3642582422072779,0.35572587235318714
+ES,full,slot_time_age,hotel or camping,True,0.08004536252186004,0.08844212062371612
+ES,full,slot_time_age,other or unspecified place,True,1.6721821010704252,1.5015461927380152
+ES,full,slot_time_age,transport,True,1.1384165713564343,1.1384165713564343
+ES,full,episode_time_age,home,True,16.568202115517984,17.648542505805768
+ES,full,episode_time_age,second home,True,0.22471731841063905,0.11273377546631677
+ES,full,episode_time_age,workplace or school,True,2.7561016019717277,2.406478158279137
+ES,full,episode_time_age,other people's home,True,0.7193339897192537,0.6054208115193361
+ES,full,episode_time_age,"restaurant, cafe or pub",True,0.47674269722439255,0.2172394244364938
+ES,full,episode_time_age,shops and services,True,0.3642582422072779,0.3602594000817394
+ES,full,episode_time_age,hotel or camping,True,0.08004536252186004,0.09264016557713844
+ES,full,episode_time_age,other or unspecified place,True,1.6721821010704252,1.418269187477625
+ES,full,episode_time_age,transport,True,1.1384165713564343,1.1384165713564343
+ES,full,markov_time,home,True,16.568202115517984,17.22611392391928
+ES,full,markov_time,second home,True,0.22471731841063905,0.09125766457780624
+ES,full,markov_time,workplace or school,True,2.7561016019717277,2.5152991061269767
+ES,full,markov_time,other people's home,True,0.7193339897192537,0.7724959310416256
+ES,full,markov_time,"restaurant, cafe or pub",True,0.47674269722439255,0.258162348781164
+ES,full,markov_time,shops and services,True,0.3642582422072779,0.3513822232454078
+ES,full,markov_time,hotel or camping,True,0.08004536252186004,0.10742773473511788
+ES,full,markov_time,other or unspecified place,True,1.6721821010704252,1.53944449621619
+ES,full,markov_time,transport,True,1.1384165713564343,1.1384165713564343
+ES,full,markov_time_age,home,True,16.568202115517984,17.124692781050754
+ES,full,markov_time_age,second home,True,0.22471731841063905,0.09898774103942551
+ES,full,markov_time_age,workplace or school,True,2.7561016019717277,2.5487111689271167
+ES,full,markov_time_age,other people's home,True,0.7193339897192537,0.7905525688235193
+ES,full,markov_time_age,"restaurant, cafe or pub",True,0.47674269722439255,0.2526349926994454
+ES,full,markov_time_age,shops and services,True,0.3642582422072779,0.35411706805844806
+ES,full,markov_time_age,hotel or camping,True,0.08004536252186004,0.10639683483181706
+ES,full,markov_time_age,other or unspecified place,True,1.6721821010704252,1.5854902732130296
+ES,full,markov_time_age,transport,True,1.1384165713564343,1.1384165713564343
+ES,full,markov_time_age_day,home,True,16.568202115517984,17.161421568327967
+ES,full,markov_time_age_day,second home,True,0.22471731841063905,0.09321608693780319
+ES,full,markov_time_age_day,workplace or school,True,2.7561016019717277,2.5385828161438244
+ES,full,markov_time_age_day,other people's home,True,0.7193339897192537,0.7806491213428476
+ES,full,markov_time_age_day,"restaurant, cafe or pub",True,0.47674269722439255,0.2592538009778098
+ES,full,markov_time_age_day,shops and services,True,0.3642582422072779,0.34828652719714204
+ES,full,markov_time_age_day,hotel or camping,True,0.08004536252186004,0.11376401598831339
+ES,full,markov_time_age_day,other or unspecified place,True,1.6721821010704252,1.566409491727853
+ES,full,markov_time_age_day,transport,True,1.1384165713564343,1.1384165713564343
+ES,full,markov_time_age_modal,home,True,16.568202115517984,17.745748559133716
+ES,full,markov_time_age_modal,second home,True,0.22471731841063905,0.0008515042397755241
+ES,full,markov_time_age_modal,workplace or school,True,2.7561016019717277,2.56309970896165
+ES,full,markov_time_age_modal,other people's home,True,0.7193339897192537,0.5633323656541729
+ES,full,markov_time_age_modal,"restaurant, cafe or pub",True,0.47674269722439255,0.18178482585610145
+ES,full,markov_time_age_modal,shops and services,True,0.3642582422072779,0.35358345940102537
+ES,full,markov_time_age_modal,hotel or camping,True,0.08004536252186004,0.0020234467037315426
+ES,full,markov_time_age_modal,other or unspecified place,True,1.6721821010704252,1.4511595586933856
+ES,full,markov_time_age_modal,transport,True,1.1384165713564343,1.1384165713564343
+FI,full,home,home,True,15.986454780508417,22.790587697456132
+FI,full,home,second home,True,0.6586942902446793,0.0
+FI,full,home,workplace or school,True,2.4048858530966584,0.0
+FI,full,home,other people's home,True,1.3383342554744688,0.0
+FI,full,home,"restaurant, cafe or pub",True,0.17896096236407125,0.0
+FI,full,home,shops and services,True,0.3386233340175131,0.0
+FI,full,home,hotel or camping,True,0.16697525086068243,0.0
+FI,full,home,other or unspecified place,True,1.7176589708895973,0.0
+FI,full,home,transport,True,1.2094123025438992,1.2094123025438992
+FI,full,activity_modal,home,True,15.986454780508417,18.10509379582372
+FI,full,activity_modal,second home,True,0.6586942902446793,0.0
+FI,full,activity_modal,workplace or school,True,2.4048858530966584,2.6070149491840837
+FI,full,activity_modal,other people's home,True,1.3383342554744688,0.6012370731796253
+FI,full,activity_modal,"restaurant, cafe or pub",True,0.17896096236407125,0.0
+FI,full,activity_modal,shops and services,True,0.3386233340175131,0.3486947444261817
+FI,full,activity_modal,hotel or camping,True,0.16697525086068243,0.0
+FI,full,activity_modal,other or unspecified place,True,1.7176589708895973,1.1285471348424876
+FI,full,activity_modal,transport,True,1.2094123025438992,1.2094123025438992
+FI,full,slot_time,home,True,15.986454780508417,17.40795056037101
+FI,full,slot_time,second home,True,0.6586942902446793,0.10790208001116047
+FI,full,slot_time,workplace or school,True,2.4048858530966584,2.4710376607862203
+FI,full,slot_time,other people's home,True,1.3383342554744688,0.7544457515305566
+FI,full,slot_time,"restaurant, cafe or pub",True,0.17896096236407125,0.19535133771361818
+FI,full,slot_time,shops and services,True,0.3386233340175131,0.35340535437842113
+FI,full,slot_time,hotel or camping,True,0.16697525086068243,0.0793806463162317
+FI,full,slot_time,other or unspecified place,True,1.7176589708895973,1.4211143063488763
+FI,full,slot_time,transport,True,1.2094123025438992,1.2094123025438992
+FI,full,slot_time_age,home,True,15.986454780508417,17.350537480740925
+FI,full,slot_time_age,second home,True,0.6586942902446793,0.10914433404725954
+FI,full,slot_time_age,workplace or school,True,2.4048858530966584,2.4927786823465734
+FI,full,slot_time_age,other people's home,True,1.3383342554744688,0.7825954379124866
+FI,full,slot_time_age,"restaurant, cafe or pub",True,0.17896096236407125,0.19736119679297304
+FI,full,slot_time_age,shops and services,True,0.3386233340175131,0.3549267731017166
+FI,full,slot_time_age,hotel or camping,True,0.16697525086068243,0.0807122229172336
+FI,full,slot_time_age,other or unspecified place,True,1.7176589708895973,1.42253156959694
+FI,full,slot_time_age,transport,True,1.2094123025438992,1.2094123025438992
+FI,full,episode_time_age,home,True,15.986454780508417,17.719864983097533
+FI,full,episode_time_age,second home,True,0.6586942902446793,0.11657090582656893
+FI,full,episode_time_age,workplace or school,True,2.4048858530966584,2.3397961418709317
+FI,full,episode_time_age,other people's home,True,1.3383342554744688,0.7210211641320051
+FI,full,episode_time_age,"restaurant, cafe or pub",True,0.17896096236407125,0.14453987003904076
+FI,full,episode_time_age,shops and services,True,0.3386233340175131,0.3613331922647447
+FI,full,episode_time_age,hotel or camping,True,0.16697525086068243,0.08449041846330549
+FI,full,episode_time_age,other or unspecified place,True,1.7176589708895973,1.3029710217619708
+FI,full,episode_time_age,transport,True,1.2094123025438992,1.2094123025438992
+FI,full,markov_time,home,True,15.986454780508417,17.60058307211696
+FI,full,markov_time,second home,True,0.6586942902446793,0.09037683497466595
+FI,full,markov_time,workplace or school,True,2.4048858530966584,2.4077956587691554
+FI,full,markov_time,other people's home,True,1.3383342554744688,0.8012584621118317
+FI,full,markov_time,"restaurant, cafe or pub",True,0.17896096236407125,0.15668788087292612
+FI,full,markov_time,shops and services,True,0.3386233340175131,0.34586070474201663
+FI,full,markov_time,hotel or camping,True,0.16697525086068243,0.07640370984775685
+FI,full,markov_time,other or unspecified place,True,1.7176589708895973,1.3116213740207918
+FI,full,markov_time,transport,True,1.2094123025438992,1.2094123025438992
+FI,full,markov_time_age,home,True,15.986454780508417,17.566799543625194
+FI,full,markov_time_age,second home,True,0.6586942902446793,0.09419658428368963
+FI,full,markov_time_age,workplace or school,True,2.4048858530966584,2.4396117306867464
+FI,full,markov_time_age,other people's home,True,1.3383342554744688,0.7915277365382625
+FI,full,markov_time_age,"restaurant, cafe or pub",True,0.17896096236407125,0.1703710130283774
+FI,full,markov_time_age,shops and services,True,0.3386233340175131,0.34804374784717607
+FI,full,markov_time_age,hotel or camping,True,0.16697525086068243,0.07215846884868374
+FI,full,markov_time_age,other or unspecified place,True,1.7176589708895973,1.3078788725979964
+FI,full,markov_time_age,transport,True,1.2094123025438992,1.2094123025438992
+FI,full,markov_time_age_day,home,True,15.986454780508417,17.547671799829804
+FI,full,markov_time_age_day,second home,True,0.6586942902446793,0.08107524285589675
+FI,full,markov_time_age_day,workplace or school,True,2.4048858530966584,2.4275174818543617
+FI,full,markov_time_age_day,other people's home,True,1.3383342554744688,0.840091203124932
+FI,full,markov_time_age_day,"restaurant, cafe or pub",True,0.17896096236407125,0.14931195125196386
+FI,full,markov_time_age_day,shops and services,True,0.3386233340175131,0.34905122695512686
+FI,full,markov_time_age_day,hotel or camping,True,0.16697525086068243,0.07028377159787857
+FI,full,markov_time_age_day,other or unspecified place,True,1.7176589708895973,1.3255850199861547
+FI,full,markov_time_age_day,transport,True,1.2094123025438992,1.2094123025438992
+FI,full,markov_time_age_modal,home,True,15.986454780508417,18.07406454751439
+FI,full,markov_time_age_modal,second home,True,0.6586942902446793,0.0022930569784509296
+FI,full,markov_time_age_modal,workplace or school,True,2.4048858530966584,2.4306165578788943
+FI,full,markov_time_age_modal,other people's home,True,1.3383342554744688,0.6725694340411914
+FI,full,markov_time_age_modal,"restaurant, cafe or pub",True,0.17896096236407125,0.10577736937976526
+FI,full,markov_time_age_modal,shops and services,True,0.3386233340175131,0.35547512476719706
+FI,full,markov_time_age_modal,hotel or camping,True,0.16697525086068243,0.0008921890634418619
+FI,full,markov_time_age_modal,other or unspecified place,True,1.7176589708895973,1.148899417832779
+FI,full,markov_time_age_modal,transport,True,1.2094123025438992,1.2094123025438992
+HU,full,home,home,True,18.31114811508033,22.85308312840648
+HU,full,home,second home,True,0.03348456337747477,0.0
+HU,full,home,workplace or school,True,2.8107557846012816,0.0
+HU,full,home,other people's home,True,0.6508218764687523,0.0
+HU,full,home,"restaurant, cafe or pub",True,0.10794957028351423,0.0
+HU,full,home,shops and services,True,0.26470251366194764,0.0
+HU,full,home,hotel or camping,True,0.05336241996865521,0.0
+HU,full,home,other or unspecified place,True,0.620858284964536,0.0
+HU,full,home,transport,True,1.1469168715935112,1.1469168715935112
+HU,full,activity_modal,home,True,18.31114811508033,18.874567910776726
+HU,full,activity_modal,second home,True,0.03348456337747477,0.0
+HU,full,activity_modal,workplace or school,True,2.8107557846012816,2.6375891813023333
+HU,full,activity_modal,other people's home,True,0.6508218764687523,0.23758866981402477
+HU,full,activity_modal,"restaurant, cafe or pub",True,0.10794957028351423,0.0
+HU,full,activity_modal,shops and services,True,0.26470251366194764,0.2372190153168016
+HU,full,activity_modal,hotel or camping,True,0.05336241996865521,0.0
+HU,full,activity_modal,other or unspecified place,True,0.620858284964536,0.8661183511965893
+HU,full,activity_modal,transport,True,1.1469168715935112,1.1469168715935112
+HU,full,slot_time,home,True,18.31114811508033,18.125615372534927
+HU,full,slot_time,second home,True,0.03348456337747477,0.11747649474407873
+HU,full,slot_time,workplace or school,True,2.8107557846012816,2.491252792110501
+HU,full,slot_time,other people's home,True,0.6508218764687523,0.5479594363247254
+HU,full,slot_time,"restaurant, cafe or pub",True,0.10794957028351423,0.2366593523838102
+HU,full,slot_time,shops and services,True,0.26470251366194764,0.25810276103285035
+HU,full,slot_time,hotel or camping,True,0.05336241996865521,0.0796454363023714
+HU,full,slot_time,other or unspecified place,True,0.620858284964536,0.9963714829732175
+HU,full,slot_time,transport,True,1.1469168715935112,1.1469168715935112
+HU,full,slot_time_age,home,True,18.31114811508033,18.041694708539747
+HU,full,slot_time_age,second home,True,0.03348456337747477,0.11759616406499082
+HU,full,slot_time_age,workplace or school,True,2.8107557846012816,2.527360703262329
+HU,full,slot_time_age,other people's home,True,0.6508218764687523,0.5852844812741287
+HU,full,slot_time_age,"restaurant, cafe or pub",True,0.10794957028351423,0.24507649876020918
+HU,full,slot_time_age,shops and services,True,0.26470251366194764,0.25872313952283443
+HU,full,slot_time_age,hotel or camping,True,0.05336241996865521,0.08091449563558392
+HU,full,slot_time_age,other or unspecified place,True,0.620858284964536,0.9964329373466603
+HU,full,slot_time_age,transport,True,1.1469168715935112,1.1469168715935112
+HU,full,episode_time_age,home,True,18.31114811508033,18.37325664418581
+HU,full,episode_time_age,second home,True,0.03348456337747477,0.11121837841913354
+HU,full,episode_time_age,workplace or school,True,2.8107557846012816,2.379133910102709
+HU,full,episode_time_age,other people's home,True,0.6508218764687523,0.5272582919359323
+HU,full,episode_time_age,"restaurant, cafe or pub",True,0.10794957028351423,0.17954317652806662
+HU,full,episode_time_age,shops and services,True,0.26470251366194764,0.26719162417051284
+HU,full,episode_time_age,hotel or camping,True,0.05336241996865521,0.08226893562881703
+HU,full,episode_time_age,other or unspecified place,True,0.620858284964536,0.9332121674355093
+HU,full,episode_time_age,transport,True,1.1469168715935112,1.1469168715935112
+HU,full,markov_time,home,True,18.31114811508033,18.399770095475915
+HU,full,markov_time,second home,True,0.03348456337747477,0.13037071725627056
+HU,full,markov_time,workplace or school,True,2.8107557846012816,2.230473469574874
+HU,full,markov_time,other people's home,True,0.6508218764687523,0.6081837182661756
+HU,full,markov_time,"restaurant, cafe or pub",True,0.10794957028351423,0.1919973107081216
+HU,full,markov_time,shops and services,True,0.26470251366194764,0.25290422116148387
+HU,full,markov_time,hotel or camping,True,0.05336241996865521,0.09603691278537024
+HU,full,markov_time,other or unspecified place,True,0.620858284964536,0.9433466831782674
+HU,full,markov_time,transport,True,1.1469168715935112,1.1469168715935112
+HU,full,markov_time_age,home,True,18.31114811508033,18.280843777640495
+HU,full,markov_time_age,second home,True,0.03348456337747477,0.1092481822747327
+HU,full,markov_time_age,workplace or school,True,2.8107557846012816,2.309212188652802
+HU,full,markov_time_age,other people's home,True,0.6508218764687523,0.6680836029539777
+HU,full,markov_time_age,"restaurant, cafe or pub",True,0.10794957028351423,0.18843738994713288
+HU,full,markov_time_age,shops and services,True,0.26470251366194764,0.2590435964220825
+HU,full,markov_time_age,hotel or camping,True,0.05336241996865521,0.09667934210478954
+HU,full,markov_time_age,other or unspecified place,True,0.620858284964536,0.9415350484104744
+HU,full,markov_time_age,transport,True,1.1469168715935112,1.1469168715935112
+HU,full,markov_time_age_day,home,True,18.31114811508033,18.2882605665434
+HU,full,markov_time_age_day,second home,True,0.03348456337747477,0.08557171037713182
+HU,full,markov_time_age_day,workplace or school,True,2.8107557846012816,2.3692370280407378
+HU,full,markov_time_age_day,other people's home,True,0.6508218764687523,0.6340734569202752
+HU,full,markov_time_age_day,"restaurant, cafe or pub",True,0.10794957028351423,0.18513984374600398
+HU,full,markov_time_age_day,shops and services,True,0.26470251366194764,0.2565941167856632
+HU,full,markov_time_age_day,hotel or camping,True,0.05336241996865521,0.08914835870031197
+HU,full,markov_time_age_day,other or unspecified place,True,0.620858284964536,0.9450580472929685
+HU,full,markov_time_age_day,transport,True,1.1469168715935112,1.1469168715935112
+HU,full,markov_time_age_modal,home,True,18.31114811508033,19.132848745518086
+HU,full,markov_time_age_modal,second home,True,0.03348456337747477,0.0018220539741410449
+HU,full,markov_time_age_modal,workplace or school,True,2.8107557846012816,2.180379403085563
+HU,full,markov_time_age_modal,other people's home,True,0.6508218764687523,0.40012586401268657
+HU,full,markov_time_age_modal,"restaurant, cafe or pub",True,0.10794957028351423,0.10243432442718517
+HU,full,markov_time_age_modal,shops and services,True,0.26470251366194764,0.2459710160412206
+HU,full,markov_time_age_modal,hotel or camping,True,0.05336241996865521,0.008713544380988317
+HU,full,markov_time_age_modal,other or unspecified place,True,0.620858284964536,0.7807881769666203
+HU,full,markov_time_age_modal,transport,True,1.1469168715935112,1.1469168715935112
+IT,full,home,home,True,16.928037060044336,22.626551320230554
+IT,full,home,second home,True,0.11036212320254389,0.0
+IT,full,home,workplace or school,True,2.8212248736354173,0.0
+IT,full,home,other people's home,True,0.5280233435970609,0.0
+IT,full,home,"restaurant, cafe or pub",True,0.3393787610700268,0.0
+IT,full,home,shops and services,True,0.38420155503091385,0.0
+IT,full,home,hotel or camping,True,0.06690276447835121,0.0
+IT,full,home,other or unspecified place,True,1.4484208391718851,0.0
+IT,full,home,transport,True,1.3734486797694845,1.3734486797694845
+IT,full,activity_modal,home,True,16.928037060044336,17.798031647771694
+IT,full,activity_modal,second home,True,0.11036212320254389,0.0
+IT,full,activity_modal,workplace or school,True,2.8212248736354173,2.843853509795626
+IT,full,activity_modal,other people's home,True,0.5280233435970609,0.4192826727070122
+IT,full,activity_modal,"restaurant, cafe or pub",True,0.3393787610700268,0.0
+IT,full,activity_modal,shops and services,True,0.38420155503091385,0.3574173667361399
+IT,full,activity_modal,hotel or camping,True,0.06690276447835121,0.0
+IT,full,activity_modal,other or unspecified place,True,1.4484208391718851,1.2079661232200685
+IT,full,activity_modal,transport,True,1.3734486797694845,1.3734486797694845
+IT,full,slot_time,home,True,16.928037060044336,17.266518613008344
+IT,full,slot_time,second home,True,0.11036212320254389,0.11374512745845475
+IT,full,slot_time,workplace or school,True,2.8212248736354173,2.6402518861751134
+IT,full,slot_time,other people's home,True,0.5280233435970609,0.6634244250250062
+IT,full,slot_time,"restaurant, cafe or pub",True,0.3393787610700268,0.27393455349480167
+IT,full,slot_time,shops and services,True,0.38420155503091385,0.36496840746905607
+IT,full,slot_time,hotel or camping,True,0.06690276447835121,0.08219646867022616
+IT,full,slot_time,other or unspecified place,True,1.4484208391718851,1.2215118389295392
+IT,full,slot_time,transport,True,1.3734486797694845,1.3734486797694845
+IT,full,slot_time_age,home,True,16.928037060044336,17.22457505891113
+IT,full,slot_time_age,second home,True,0.11036212320254389,0.11290118444369926
+IT,full,slot_time_age,workplace or school,True,2.8212248736354173,2.6691320008874815
+IT,full,slot_time_age,other people's home,True,0.5280233435970609,0.6614673056525382
+IT,full,slot_time_age,"restaurant, cafe or pub",True,0.3393787610700268,0.2816360627514958
+IT,full,slot_time_age,shops and services,True,0.38420155503091385,0.3660516137555364
+IT,full,slot_time_age,hotel or camping,True,0.06690276447835121,0.08016272417842686
+IT,full,slot_time_age,other or unspecified place,True,1.4484208391718851,1.2306253696502112
+IT,full,slot_time_age,transport,True,1.3734486797694845,1.3734486797694845
+IT,full,episode_time_age,home,True,16.928037060044336,17.608134401532435
+IT,full,episode_time_age,second home,True,0.11036212320254389,0.10223936999218378
+IT,full,episode_time_age,workplace or school,True,2.8212248736354173,2.5083624315127437
+IT,full,episode_time_age,other people's home,True,0.5280233435970609,0.6115960628357224
+IT,full,episode_time_age,"restaurant, cafe or pub",True,0.3393787610700268,0.1915360947276103
+IT,full,episode_time_age,shops and services,True,0.38420155503091385,0.36707409674123975
+IT,full,episode_time_age,hotel or camping,True,0.06690276447835121,0.0832007698708421
+IT,full,episode_time_age,other or unspecified place,True,1.4484208391718851,1.1544080930177598
+IT,full,episode_time_age,transport,True,1.3734486797694845,1.3734486797694845
+IT,full,markov_time,home,True,16.928037060044336,17.037894803202487
+IT,full,markov_time,second home,True,0.11036212320254389,0.07914288985094632
+IT,full,markov_time,workplace or school,True,2.8212248736354173,2.7146356880963918
+IT,full,markov_time,other people's home,True,0.5280233435970609,0.7760025374950781
+IT,full,markov_time,"restaurant, cafe or pub",True,0.3393787610700268,0.2766878577384177
+IT,full,markov_time,shops and services,True,0.38420155503091385,0.3769638592495551
+IT,full,markov_time,hotel or camping,True,0.06690276447835121,0.08406298994225582
+IT,full,markov_time,other or unspecified place,True,1.4484208391718851,1.2811606946554137
+IT,full,markov_time,transport,True,1.3734486797694845,1.3734486797694845
+IT,full,markov_time_age,home,True,16.928037060044336,16.992413217266922
+IT,full,markov_time_age,second home,True,0.11036212320254389,0.08809214885036898
+IT,full,markov_time_age,workplace or school,True,2.8212248736354173,2.7286334721995313
+IT,full,markov_time_age,other people's home,True,0.5280233435970609,0.7831650643282465
+IT,full,markov_time_age,"restaurant, cafe or pub",True,0.3393787610700268,0.2924102332802717
+IT,full,markov_time_age,shops and services,True,0.38420155503091385,0.3786492828331235
+IT,full,markov_time_age,hotel or camping,True,0.06690276447835121,0.08626680304299379
+IT,full,markov_time_age,other or unspecified place,True,1.4484208391718851,1.2769210984290895
+IT,full,markov_time_age,transport,True,1.3734486797694845,1.3734486797694845
+IT,full,markov_time_age_day,home,True,16.928037060044336,17.02641215566668
+IT,full,markov_time_age_day,second home,True,0.11036212320254389,0.08661321390070598
+IT,full,markov_time_age_day,workplace or school,True,2.8212248736354173,2.708929140270651
+IT,full,markov_time_age_day,other people's home,True,0.5280233435970609,0.7743641150078862
+IT,full,markov_time_age_day,"restaurant, cafe or pub",True,0.3393787610700268,0.2840698226312647
+IT,full,markov_time_age_day,shops and services,True,0.38420155503091385,0.38001361283060286
+IT,full,markov_time_age_day,hotel or camping,True,0.06690276447835121,0.08307450094315558
+IT,full,markov_time_age_day,other or unspecified place,True,1.4484208391718851,1.2830747589795888
+IT,full,markov_time_age_day,transport,True,1.3734486797694845,1.3734486797694845
+IT,full,markov_time_age_modal,home,True,16.928037060044336,17.518856772610615
+IT,full,markov_time_age_modal,second home,True,0.11036212320254389,0.00011838439089334595
+IT,full,markov_time_age_modal,workplace or school,True,2.8212248736354173,2.79734081330999
+IT,full,markov_time_age_modal,other people's home,True,0.5280233435970609,0.5390906055468243
+IT,full,markov_time_age_modal,"restaurant, cafe or pub",True,0.3393787610700268,0.23983450215723467
+IT,full,markov_time_age_modal,shops and services,True,0.38420155503091385,0.3617117381118618
+IT,full,markov_time_age_modal,hotel or camping,True,0.06690276447835121,9.564784220119258e-05
+IT,full,markov_time_age_modal,other or unspecified place,True,1.4484208391718851,1.1695028562609213
+IT,full,markov_time_age_modal,transport,True,1.3734486797694845,1.3734486797694845
+NL,full,home,home,True,16.575187321537353,22.708281725897898
+NL,full,home,second home,True,0.057897268060340124,0.0
+NL,full,home,workplace or school,True,2.5575592297677168,0.0
+NL,full,home,other people's home,True,1.0542967962325136,0.0
+NL,full,home,"restaurant, cafe or pub",True,0.1855771639489452,0.0
+NL,full,home,shops and services,True,0.10585908358869492,0.0
+NL,full,home,hotel or camping,True,0.1663917279040543,0.0
+NL,full,home,other or unspecified place,True,2.005513134858297,0.0
+NL,full,home,transport,True,1.291718274102097,1.291718274102097
+NL,full,activity_modal,home,True,16.575187321537353,17.71969366667058
+NL,full,activity_modal,second home,True,0.057897268060340124,0.0
+NL,full,activity_modal,workplace or school,True,2.5575592297677168,2.7491313550741725
+NL,full,activity_modal,other people's home,True,1.0542967962325136,0.6417892973743912
+NL,full,activity_modal,"restaurant, cafe or pub",True,0.1855771639489452,0.0
+NL,full,activity_modal,shops and services,True,0.10585908358869492,0.4088496440117826
+NL,full,activity_modal,hotel or camping,True,0.1663917279040543,0.0
+NL,full,activity_modal,other or unspecified place,True,2.005513134858297,1.1888177627669894
+NL,full,activity_modal,transport,True,1.291718274102097,1.291718274102097
+NL,full,slot_time,home,True,16.575187321537353,16.972691999477288
+NL,full,slot_time,second home,True,0.057897268060340124,0.12536618119951856
+NL,full,slot_time,workplace or school,True,2.5575592297677168,2.5986717454236357
+NL,full,slot_time,other people's home,True,1.0542967962325136,0.7818412150376606
+NL,full,slot_time,"restaurant, cafe or pub",True,0.1855771639489452,0.29130358765252284
+NL,full,slot_time,shops and services,True,0.10585908358869492,0.43523853358070047
+NL,full,slot_time,hotel or camping,True,0.1663917279040543,0.0830627228045262
+NL,full,slot_time,other or unspecified place,True,2.005513134858297,1.4201057407220652
+NL,full,slot_time,transport,True,1.291718274102097,1.291718274102097
+NL,full,slot_time_age,home,True,16.575187321537353,16.912964878749083
+NL,full,slot_time_age,second home,True,0.057897268060340124,0.1264404782126673
+NL,full,slot_time_age,workplace or school,True,2.5575592297677168,2.621420053798796
+NL,full,slot_time_age,other people's home,True,1.0542967962325136,0.8033486882403209
+NL,full,slot_time_age,"restaurant, cafe or pub",True,0.1855771639489452,0.2933900555064569
+NL,full,slot_time_age,shops and services,True,0.10585908358869492,0.4344628439176944
+NL,full,slot_time_age,hotel or camping,True,0.1663917279040543,0.08803055931759586
+NL,full,slot_time_age,other or unspecified place,True,2.005513134858297,1.428224168155296
+NL,full,slot_time_age,transport,True,1.291718274102097,1.291718274102097
+NL,full,episode_time_age,home,True,16.575187321537353,17.32196852512321
+NL,full,episode_time_age,second home,True,0.057897268060340124,0.12436391505321917
+NL,full,episode_time_age,workplace or school,True,2.5575592297677168,2.4433658050776255
+NL,full,episode_time_age,other people's home,True,1.0542967962325136,0.7377586860928517
+NL,full,episode_time_age,"restaurant, cafe or pub",True,0.1855771639489452,0.22172400397528086
+NL,full,episode_time_age,shops and services,True,0.10585908358869492,0.43994466493520773
+NL,full,episode_time_age,hotel or camping,True,0.1663917279040543,0.08541570333960569
+NL,full,episode_time_age,other or unspecified place,True,2.005513134858297,1.333740422300903
+NL,full,episode_time_age,transport,True,1.291718274102097,1.291718274102097
+NL,full,markov_time,home,True,16.575187321537353,16.993647146868167
+NL,full,markov_time,second home,True,0.057897268060340124,0.10110299660951418
+NL,full,markov_time,workplace or school,True,2.5575592297677168,2.49967598113442
+NL,full,markov_time,other people's home,True,1.0542967962325136,0.8820990769539842
+NL,full,markov_time,"restaurant, cafe or pub",True,0.1855771639489452,0.28595261145726
+NL,full,markov_time,shops and services,True,0.10585908358869492,0.4391261117319766
+NL,full,markov_time,hotel or camping,True,0.1663917279040543,0.08831988600203544
+NL,full,markov_time,other or unspecified place,True,2.005513134858297,1.4183579151405568
+NL,full,markov_time,transport,True,1.291718274102097,1.291718274102097
+NL,full,markov_time_age,home,True,16.575187321537353,16.976273143584308
+NL,full,markov_time_age,second home,True,0.057897268060340124,0.10641550183782605
+NL,full,markov_time_age,workplace or school,True,2.5575592297677168,2.509417830419275
+NL,full,markov_time_age,other people's home,True,1.0542967962325136,0.8844537159007875
+NL,full,markov_time_age,"restaurant, cafe or pub",True,0.1855771639489452,0.2980039855430465
+NL,full,markov_time_age,shops and services,True,0.10585908358869492,0.4300488495623419
+NL,full,markov_time_age,hotel or camping,True,0.1663917279040543,0.0908491416701064
+NL,full,markov_time_age,other or unspecified place,True,2.005513134858297,1.4128195573802256
+NL,full,markov_time_age,transport,True,1.291718274102097,1.291718274102097
+NL,full,markov_time_age_day,home,True,16.575187321537353,16.92994359190825
+NL,full,markov_time_age_day,second home,True,0.057897268060340124,0.10947642123640841
+NL,full,markov_time_age_day,workplace or school,True,2.5575592297677168,2.540368103842476
+NL,full,markov_time_age_day,other people's home,True,1.0542967962325136,0.8895982319289047
+NL,full,markov_time_age_day,"restaurant, cafe or pub",True,0.1855771639489452,0.2790809357709899
+NL,full,markov_time_age_day,shops and services,True,0.10585908358869492,0.43464783864377865
+NL,full,markov_time_age_day,hotel or camping,True,0.1663917279040543,0.08959251395783109
+NL,full,markov_time_age_day,other or unspecified place,True,2.005513134858297,1.4355740886092838
+NL,full,markov_time_age_day,transport,True,1.291718274102097,1.291718274102097
+NL,full,markov_time_age_modal,home,True,16.575187321537353,17.629097532107263
+NL,full,markov_time_age_modal,second home,True,0.057897268060340124,0.0013378349082084071
+NL,full,markov_time_age_modal,workplace or school,True,2.5575592297677168,2.5101907831726784
+NL,full,markov_time_age_modal,other people's home,True,1.0542967962325136,0.7060739267249362
+NL,full,markov_time_age_modal,"restaurant, cafe or pub",True,0.1855771639489452,0.23054926196201547
+NL,full,markov_time_age_modal,shops and services,True,0.10585908358869492,0.41495632017474365
+NL,full,markov_time_age_modal,hotel or camping,True,0.1663917279040543,0.001334445629370923
+NL,full,markov_time_age_modal,other or unspecified place,True,2.005513134858297,1.2147416212187003
+NL,full,markov_time_age_modal,transport,True,1.291718274102097,1.291718274102097
+NO,full,home,home,True,15.35659783335085,22.548754038425628
+NO,full,home,second home,True,0.687650185268687,0.0
+NO,full,home,workplace or school,True,3.250444034934384,0.0
+NO,full,home,other people's home,True,1.3340145412462632,0.0
+NO,full,home,"restaurant, cafe or pub",True,0.1388224317493043,0.0
+NO,full,home,shops and services,True,0.2982694109367752,0.0
+NO,full,home,hotel or camping,True,0.24251896460337471,0.0
+NO,full,home,other or unspecified place,True,1.2404366363359434,0.0
+NO,full,home,transport,True,1.4512459615744069,1.4512459615744069
+NO,full,activity_modal,home,True,15.35659783335085,17.066109346080623
+NO,full,activity_modal,second home,True,0.687650185268687,0.0
+NO,full,activity_modal,workplace or school,True,3.250444034934384,3.159589196782114
+NO,full,activity_modal,other people's home,True,1.3340145412462632,0.696840602273659
+NO,full,activity_modal,"restaurant, cafe or pub",True,0.1388224317493043,0.0
+NO,full,activity_modal,shops and services,True,0.2982694109367752,0.2974493099963495
+NO,full,activity_modal,hotel or camping,True,0.24251896460337471,0.0
+NO,full,activity_modal,other or unspecified place,True,1.2404366363359434,1.3287655832928436
+NO,full,activity_modal,transport,True,1.4512459615744069,1.4512459615744069
+NO,full,slot_time,home,True,15.35659783335085,16.560760979465112
+NO,full,slot_time,second home,True,0.687650185268687,0.1066005217354043
+NO,full,slot_time,workplace or school,True,3.250444034934384,2.9666204839141415
+NO,full,slot_time,other people's home,True,1.3340145412462632,0.8257930098225772
+NO,full,slot_time,"restaurant, cafe or pub",True,0.1388224317493043,0.2922360603567366
+NO,full,slot_time,shops and services,True,0.2982694109367752,0.30639953728592356
+NO,full,slot_time,hotel or camping,True,0.24251896460337471,0.0819583375095643
+NO,full,slot_time,other or unspecified place,True,1.2404366363359434,1.4083851083361518
+NO,full,slot_time,transport,True,1.4512459615744069,1.4512459615744069
+NO,full,slot_time_age,home,True,15.35659783335085,16.451196749771814
+NO,full,slot_time_age,second home,True,0.687650185268687,0.10589288146145018
+NO,full,slot_time_age,workplace or school,True,3.250444034934384,2.992128820492008
+NO,full,slot_time_age,other people's home,True,1.3340145412462632,0.8904265353979797
+NO,full,slot_time_age,"restaurant, cafe or pub",True,0.1388224317493043,0.2905945450666419
+NO,full,slot_time_age,shops and services,True,0.2982694109367752,0.3070931404985882
+NO,full,slot_time_age,hotel or camping,True,0.24251896460337471,0.08700141856407101
+NO,full,slot_time_age,other or unspecified place,True,1.2404366363359434,1.4244199471730397
+NO,full,slot_time_age,transport,True,1.4512459615744069,1.4512459615744069
+NO,full,episode_time_age,home,True,15.35659783335085,16.87482175600025
+NO,full,episode_time_age,second home,True,0.687650185268687,0.10763721206888464
+NO,full,episode_time_age,workplace or school,True,3.250444034934384,2.7903481987454155
+NO,full,episode_time_age,other people's home,True,1.3340145412462632,0.8113084864214418
+NO,full,episode_time_age,"restaurant, cafe or pub",True,0.1388224317493043,0.22138473229066705
+NO,full,episode_time_age,shops and services,True,0.2982694109367752,0.3128862603191896
+NO,full,episode_time_age,hotel or camping,True,0.24251896460337471,0.08723192188629869
+NO,full,episode_time_age,other or unspecified place,True,1.2404366363359434,1.3431354706934477
+NO,full,episode_time_age,transport,True,1.4512459615744069,1.4512459615744069
+NO,full,markov_time,home,True,15.35659783335085,16.539845552923534
+NO,full,markov_time,second home,True,0.687650185268687,0.07233708122869771
+NO,full,markov_time,workplace or school,True,3.250444034934384,3.029399886078165
+NO,full,markov_time,other people's home,True,1.3340145412462632,0.9530589588588514
+NO,full,markov_time,"restaurant, cafe or pub",True,0.1388224317493043,0.21097378870216843
+NO,full,markov_time,shops and services,True,0.2982694109367752,0.3057434483247753
+NO,full,markov_time,hotel or camping,True,0.24251896460337471,0.07356852552656015
+NO,full,markov_time,other or unspecified place,True,1.2404366363359434,1.3638267967828375
+NO,full,markov_time,transport,True,1.4512459615744069,1.4512459615744069
+NO,full,markov_time_age,home,True,15.35659783335085,16.466736063927563
+NO,full,markov_time_age,second home,True,0.687650185268687,0.0678143564988351
+NO,full,markov_time_age,workplace or school,True,3.250444034934384,3.0351858231919673
+NO,full,markov_time_age,other people's home,True,1.3340145412462632,1.0522453675029884
+NO,full,markov_time_age,"restaurant, cafe or pub",True,0.1388224317493043,0.19841312253443333
+NO,full,markov_time_age,shops and services,True,0.2982694109367752,0.3177454640796116
+NO,full,markov_time_age,hotel or camping,True,0.24251896460337471,0.08676410193139295
+NO,full,markov_time_age,other or unspecified place,True,1.2404366363359434,1.323849738758798
+NO,full,markov_time_age,transport,True,1.4512459615744069,1.4512459615744069
+NO,full,markov_time_age_day,home,True,15.35659783335085,16.43217932271917
+NO,full,markov_time_age_day,second home,True,0.687650185268687,0.09319426627911243
+NO,full,markov_time_age_day,workplace or school,True,3.250444034934384,3.0574832846099538
+NO,full,markov_time_age_day,other people's home,True,1.3340145412462632,1.0229906131462254
+NO,full,markov_time_age_day,"restaurant, cafe or pub",True,0.1388224317493043,0.19111651852641715
+NO,full,markov_time_age_day,shops and services,True,0.2982694109367752,0.3129479084655547
+NO,full,markov_time_age_day,hotel or camping,True,0.24251896460337471,0.0946292890097116
+NO,full,markov_time_age_day,other or unspecified place,True,1.2404366363359434,1.3442128356694376
+NO,full,markov_time_age_day,transport,True,1.4512459615744069,1.4512459615744069
+NO,full,markov_time_age_modal,home,True,15.35659783335085,16.993032692315744
+NO,full,markov_time_age_modal,second home,True,0.687650185268687,0.0002793457284688924
+NO,full,markov_time_age_modal,workplace or school,True,3.250444034934384,3.106753164515916
+NO,full,markov_time_age_modal,other people's home,True,1.3340145412462632,0.8410373815150949
+NO,full,markov_time_age_modal,"restaurant, cafe or pub",True,0.1388224317493043,0.10760170897527231
+NO,full,markov_time_age_modal,shops and services,True,0.2982694109367752,0.3023051481455853
+NO,full,markov_time_age_modal,hotel or camping,True,0.24251896460337471,0.003667490092174242
+NO,full,markov_time_age_modal,other or unspecified place,True,1.2404366363359434,1.1940771071373373
+NO,full,markov_time_age_modal,transport,True,1.4512459615744069,1.4512459615744069
+PL,full,home,home,True,17.72073488974893,22.930582260149748
+PL,full,home,second home,True,0.03878903206562211,0.0
+PL,full,home,workplace or school,True,3.012758101497824,0.0
+PL,full,home,other people's home,True,0.5675129127837873,0.0
+PL,full,home,"restaurant, cafe or pub",True,0.09752933249350401,0.0
+PL,full,home,shops and services,True,0.3941554996255735,0.0
+PL,full,home,hotel or camping,True,0.0602474193553475,0.0
+PL,full,home,other or unspecified place,True,1.0388550725791392,0.0
+PL,full,home,transport,True,1.0694177398503086,1.0694177398503086
+PL,full,activity_modal,home,True,17.72073488974893,18.005495908228344
+PL,full,activity_modal,second home,True,0.03878903206562211,0.0
+PL,full,activity_modal,workplace or school,True,3.012758101497824,3.132623392115265
+PL,full,activity_modal,other people's home,True,0.5675129127837873,0.5096425509233395
+PL,full,activity_modal,"restaurant, cafe or pub",True,0.09752933249350401,0.0
+PL,full,activity_modal,shops and services,True,0.3941554996255735,0.35614843009064834
+PL,full,activity_modal,hotel or camping,True,0.0602474193553475,0.0
+PL,full,activity_modal,other or unspecified place,True,1.0388550725791392,0.9266719787921225
+PL,full,activity_modal,transport,True,1.0694177398503086,1.0694177398503086
+PL,full,slot_time,home,True,17.72073488974893,17.451251626839074
+PL,full,slot_time,second home,True,0.03878903206562211,0.1399885968953628
+PL,full,slot_time,workplace or school,True,3.012758101497824,2.8537969478992045
+PL,full,slot_time,other people's home,True,0.5675129127837873,0.7133996182683879
+PL,full,slot_time,"restaurant, cafe or pub",True,0.09752933249350401,0.18445641516908515
+PL,full,slot_time,shops and services,True,0.3941554996255735,0.3454811120867176
+PL,full,slot_time,hotel or camping,True,0.0602474193553475,0.08054111147366019
+PL,full,slot_time,other or unspecified place,True,1.0388550725791392,1.1616668315182288
+PL,full,slot_time,transport,True,1.0694177398503086,1.0694177398503086
+PL,full,slot_time_age,home,True,17.72073488974893,17.37017725987837
+PL,full,slot_time_age,second home,True,0.03878903206562211,0.14185714054963106
+PL,full,slot_time_age,workplace or school,True,3.012758101497824,2.8990947246240273
+PL,full,slot_time_age,other people's home,True,0.5675129127837873,0.7339131270999543
+PL,full,slot_time_age,"restaurant, cafe or pub",True,0.09752933249350401,0.19650049841996847
+PL,full,slot_time_age,shops and services,True,0.3941554996255735,0.3461463347941504
+PL,full,slot_time_age,hotel or camping,True,0.0602474193553475,0.08236185960882773
+PL,full,slot_time_age,other or unspecified place,True,1.0388550725791392,1.1605313151747736
+PL,full,slot_time_age,transport,True,1.0694177398503086,1.0694177398503086
+PL,full,episode_time_age,home,True,17.72073488974893,17.744415579564397
+PL,full,episode_time_age,second home,True,0.03878903206562211,0.14172291014410165
+PL,full,episode_time_age,workplace or school,True,3.012758101497824,2.7042996781269686
+PL,full,episode_time_age,other people's home,True,0.5675129127837873,0.6891535722604997
+PL,full,episode_time_age,"restaurant, cafe or pub",True,0.09752933249350401,0.14670956860194967
+PL,full,episode_time_age,shops and services,True,0.3941554996255735,0.34555106619864917
+PL,full,episode_time_age,hotel or camping,True,0.0602474193553475,0.08074989438454525
+PL,full,episode_time_age,other or unspecified place,True,1.0388550725791392,1.0779799908685737
+PL,full,episode_time_age,transport,True,1.0694177398503086,1.0694177398503086
+PL,full,markov_time,home,True,17.72073488974893,17.630520592686096
+PL,full,markov_time,second home,True,0.03878903206562211,0.11393224596898813
+PL,full,markov_time,workplace or school,True,3.012758101497824,2.721255483464156
+PL,full,markov_time,other people's home,True,0.5675129127837873,0.7759535544648197
+PL,full,markov_time,"restaurant, cafe or pub",True,0.09752933249350401,0.1448681226166427
+PL,full,markov_time,shops and services,True,0.3941554996255735,0.3490587904368621
+PL,full,markov_time,hotel or camping,True,0.0602474193553475,0.05930407774087289
+PL,full,markov_time,other or unspecified place,True,1.0388550725791392,1.135689392771282
+PL,full,markov_time,transport,True,1.0694177398503086,1.0694177398503086
+PL,full,markov_time_age,home,True,17.72073488974893,17.55375235795645
+PL,full,markov_time_age,second home,True,0.03878903206562211,0.1255261191147864
+PL,full,markov_time_age,workplace or school,True,3.012758101497824,2.7546735536485794
+PL,full,markov_time_age,other people's home,True,0.5675129127837873,0.79068926210133
+PL,full,markov_time_age,"restaurant, cafe or pub",True,0.09752933249350401,0.15655996118342266
+PL,full,markov_time_age,shops and services,True,0.3941554996255735,0.3442803585710191
+PL,full,markov_time_age,hotel or camping,True,0.0602474193553475,0.06888750619601432
+PL,full,markov_time_age,other or unspecified place,True,1.0388550725791392,1.136213141378084
+PL,full,markov_time_age,transport,True,1.0694177398503086,1.0694177398503086
+PL,full,markov_time_age_day,home,True,17.72073488974893,17.560097142691447
+PL,full,markov_time_age_day,second home,True,0.03878903206562211,0.1289561680524548
+PL,full,markov_time_age_day,workplace or school,True,3.012758101497824,2.7609141161991055
+PL,full,markov_time_age_day,other people's home,True,0.5675129127837873,0.7797901856483087
+PL,full,markov_time_age_day,"restaurant, cafe or pub",True,0.09752933249350401,0.15182742709067099
+PL,full,markov_time_age_day,shops and services,True,0.3941554996255735,0.3416018065748086
+PL,full,markov_time_age_day,hotel or camping,True,0.0602474193553475,0.06423161662253843
+PL,full,markov_time_age_day,other or unspecified place,True,1.0388550725791392,1.1431637972703643
+PL,full,markov_time_age_day,transport,True,1.0694177398503086,1.0694177398503086
+PL,full,markov_time_age_modal,home,True,17.72073488974893,18.19780756663674
+PL,full,markov_time_age_modal,second home,True,0.03878903206562211,0.001530465092299848
+PL,full,markov_time_age_modal,workplace or school,True,3.012758101497824,2.7078366777880793
+PL,full,markov_time_age_modal,other people's home,True,0.5675129127837873,0.5790014061458132
+PL,full,markov_time_age_modal,"restaurant, cafe or pub",True,0.09752933249350401,0.10373963609324374
+PL,full,markov_time_age_modal,shops and services,True,0.3941554996255735,0.3575936597395623
+PL,full,markov_time_age_modal,hotel or camping,True,0.0602474193553475,0.0010149700928937684
+PL,full,markov_time_age_modal,other or unspecified place,True,1.0388550725791392,0.9820578785610846
+PL,full,markov_time_age_modal,transport,True,1.0694177398503086,1.0694177398503086
+RO,full,home,home,True,19.022795441584698,23.046453000761186
+RO,full,home,second home,True,0.006126905927635407,0.0
+RO,full,home,workplace or school,True,2.858523950296057,0.0
+RO,full,home,other people's home,True,0.28993770172308436,0.0
+RO,full,home,"restaurant, cafe or pub",True,0.0740262961632097,0.0
+RO,full,home,shops and services,True,0.2539574579171283,0.0
+RO,full,home,hotel or camping,True,0.017740168055393104,0.0
+RO,full,home,other or unspecified place,True,0.5233450790939531,0.0
+RO,full,home,transport,True,0.953546999238866,0.953546999238866
+RO,full,activity_modal,home,True,19.022795441584698,18.902470698272104
+RO,full,activity_modal,second home,True,0.006126905927635407,0.0
+RO,full,activity_modal,workplace or school,True,2.858523950296057,3.1192940573546597
+RO,full,activity_modal,other people's home,True,0.28993770172308436,0.2307617256916788
+RO,full,activity_modal,"restaurant, cafe or pub",True,0.0740262961632097,0.0
+RO,full,activity_modal,shops and services,True,0.2539574579171283,0.24010075842139234
+RO,full,activity_modal,hotel or camping,True,0.017740168055393104,0.0
+RO,full,activity_modal,other or unspecified place,True,0.5233450790939531,0.553825761021306
+RO,full,activity_modal,transport,True,0.953546999238866,0.953546999238866
+RO,full,slot_time,home,True,19.022795441584698,17.996747011004732
+RO,full,slot_time,second home,True,0.006126905927635407,0.14777453030251958
+RO,full,slot_time,workplace or school,True,2.858523950296057,2.9875191457017967
+RO,full,slot_time,other people's home,True,0.28993770172308436,0.543868646197683
+RO,full,slot_time,"restaurant, cafe or pub",True,0.0740262961632097,0.19555911769989703
+RO,full,slot_time,shops and services,True,0.2539574579171283,0.2385973180890428
+RO,full,slot_time,hotel or camping,True,0.017740168055393104,0.09104954284291497
+RO,full,slot_time,other or unspecified place,True,0.5233450790939531,0.8453376889225754
+RO,full,slot_time,transport,True,0.953546999238866,0.953546999238866
+RO,full,slot_time_age,home,True,19.022795441584698,17.931716463086858
+RO,full,slot_time_age,second home,True,0.006126905927635407,0.14249282635822663
+RO,full,slot_time_age,workplace or school,True,2.858523950296057,2.9963061808842673
+RO,full,slot_time_age,other people's home,True,0.28993770172308436,0.5841516651598797
+RO,full,slot_time_age,"restaurant, cafe or pub",True,0.0740262961632097,0.20264931882328935
+RO,full,slot_time_age,shops and services,True,0.2539574579171283,0.23948039400157378
+RO,full,slot_time_age,hotel or camping,True,0.017740168055393104,0.09782340709660733
+RO,full,slot_time_age,other or unspecified place,True,0.5233450790939531,0.851832745350442
+RO,full,slot_time_age,transport,True,0.953546999238866,0.953546999238866
+RO,full,episode_time_age,home,True,19.022795441584698,18.280763013386604
+RO,full,episode_time_age,second home,True,0.006126905927635407,0.13313104814168195
+RO,full,episode_time_age,workplace or school,True,2.858523950296057,2.854412929944143
+RO,full,episode_time_age,other people's home,True,0.28993770172308436,0.5392713389399734
+RO,full,episode_time_age,"restaurant, cafe or pub",True,0.0740262961632097,0.14014675486801742
+RO,full,episode_time_age,shops and services,True,0.2539574579171283,0.24071256370024313
+RO,full,episode_time_age,hotel or camping,True,0.017740168055393104,0.09604802998201589
+RO,full,episode_time_age,other or unspecified place,True,0.5233450790939531,0.7619673217984637
+RO,full,episode_time_age,transport,True,0.953546999238866,0.953546999238866
+RO,full,markov_time,home,True,19.022795441584698,18.543035630167246
+RO,full,markov_time,second home,True,0.006126905927635407,0.0901136799346153
+RO,full,markov_time,workplace or school,True,2.858523950296057,2.911337375656956
+RO,full,markov_time,other people's home,True,0.28993770172308436,0.4621174180767661
+RO,full,markov_time,"restaurant, cafe or pub",True,0.0740262961632097,0.10466656308171854
+RO,full,markov_time,shops and services,True,0.2539574579171283,0.24198555849650202
+RO,full,markov_time,hotel or camping,True,0.017740168055393104,0.06502242955360056
+RO,full,markov_time,other or unspecified place,True,0.5233450790939531,0.6281743457937344
+RO,full,markov_time,transport,True,0.953546999238866,0.953546999238866
+RO,full,markov_time_age,home,True,19.022795441584698,18.45040791763258
+RO,full,markov_time_age,second home,True,0.006126905927635407,0.1077582614653447
+RO,full,markov_time_age,workplace or school,True,2.858523950296057,2.917581335756786
+RO,full,markov_time_age,other people's home,True,0.28993770172308436,0.49954088782266015
+RO,full,markov_time_age,"restaurant, cafe or pub",True,0.0740262961632097,0.11449618636583211
+RO,full,markov_time_age,shops and services,True,0.2539574579171283,0.24152233482856816
+RO,full,markov_time_age,hotel or camping,True,0.017740168055393104,0.08010346525698832
+RO,full,markov_time_age,other or unspecified place,True,0.5233450790939531,0.6350426116323994
+RO,full,markov_time_age,transport,True,0.953546999238866,0.953546999238866
+RO,full,markov_time_age_day,home,True,19.022795441584698,18.492332275133727
+RO,full,markov_time_age_day,second home,True,0.006126905927635407,0.10115225350732618
+RO,full,markov_time_age_day,workplace or school,True,2.858523950296057,2.9320831931857065
+RO,full,markov_time_age_day,other people's home,True,0.28993770172308436,0.4886208395801489
+RO,full,markov_time_age_day,"restaurant, cafe or pub",True,0.0740262961632097,0.10372986851929483
+RO,full,markov_time_age_day,shops and services,True,0.2539574579171283,0.2374183340591054
+RO,full,markov_time_age_day,hotel or camping,True,0.017740168055393104,0.06282690502229575
+RO,full,markov_time_age_day,other or unspecified place,True,0.5233450790939531,0.6282893317535416
+RO,full,markov_time_age_day,transport,True,0.953546999238866,0.953546999238866
+RO,full,markov_time_age_modal,home,True,19.022795441584698,18.979917373220594
+RO,full,markov_time_age_modal,second home,True,0.006126905927635407,0.0021823983381026963
+RO,full,markov_time_age_modal,workplace or school,True,2.858523950296057,3.017077095544749
+RO,full,markov_time_age_modal,other people's home,True,0.28993770172308436,0.26064631047360176
+RO,full,markov_time_age_modal,"restaurant, cafe or pub",True,0.0740262961632097,0.057865917454697255
+RO,full,markov_time_age_modal,shops and services,True,0.2539574579171283,0.24309562049595368
+RO,full,markov_time_age_modal,hotel or camping,True,0.017740168055393104,0.0030645952735677755
+RO,full,markov_time_age_modal,other or unspecified place,True,0.5233450790939531,0.48260368995989344
+RO,full,markov_time_age_modal,transport,True,0.953546999238866,0.953546999238866
+RS,full,home,home,True,18.469381093435757,22.648204737666312
+RS,full,home,second home,True,0.08730938512021472,0.0
+RS,full,home,workplace or school,True,2.30780000468354,0.0
+RS,full,home,other people's home,True,0.758940678402223,0.0
+RS,full,home,"restaurant, cafe or pub",True,0.2036560153168257,0.0
+RS,full,home,shops and services,True,0.24612875169504408,0.0
+RS,full,home,hotel or camping,True,0.018703111548769514,0.0
+RS,full,home,other or unspecified place,True,0.5562856974639087,0.0
+RS,full,home,transport,True,1.3517952623337353,1.3517952623337353
+RS,full,activity_modal,home,True,18.469381093435757,18.53886994672266
+RS,full,activity_modal,second home,True,0.08730938512021472,0.0
+RS,full,activity_modal,workplace or school,True,2.30780000468354,2.7368436042970736
+RS,full,activity_modal,other people's home,True,0.758940678402223,0.5989107837559171
+RS,full,activity_modal,"restaurant, cafe or pub",True,0.2036560153168257,0.0
+RS,full,activity_modal,shops and services,True,0.24612875169504408,0.21798363410018853
+RS,full,activity_modal,hotel or camping,True,0.018703111548769514,0.0
+RS,full,activity_modal,other or unspecified place,True,0.5562856974639087,0.5555967687904555
+RS,full,activity_modal,transport,True,1.3517952623337353,1.3517952623337353
+RS,full,slot_time,home,True,18.469381093435757,17.913519880098413
+RS,full,slot_time,second home,True,0.08730938512021472,0.11703313643859926
+RS,full,slot_time,workplace or school,True,2.30780000468354,2.5540968020830106
+RS,full,slot_time,other people's home,True,0.758940678402223,0.7483758819335306
+RS,full,slot_time,"restaurant, cafe or pub",True,0.2036560153168257,0.22991238704215794
+RS,full,slot_time,shops and services,True,0.24612875169504408,0.23234976467670837
+RS,full,slot_time,hotel or camping,True,0.018703111548769514,0.07705672467632751
+RS,full,slot_time,other or unspecified place,True,0.5562856974639087,0.775860160717539
+RS,full,slot_time,transport,True,1.3517952623337353,1.3517952623337353
+RS,full,slot_time_age,home,True,18.469381093435757,17.953159200488194
+RS,full,slot_time_age,second home,True,0.08730938512021472,0.11583857824826482
+RS,full,slot_time_age,workplace or school,True,2.30780000468354,2.5213830686269247
+RS,full,slot_time_age,other people's home,True,0.758940678402223,0.7359980229155987
+RS,full,slot_time_age,"restaurant, cafe or pub",True,0.2036560153168257,0.23708850097358558
+RS,full,slot_time_age,shops and services,True,0.24612875169504408,0.23466520526048557
+RS,full,slot_time_age,hotel or camping,True,0.018703111548769514,0.07332735452507733
+RS,full,slot_time_age,other or unspecified place,True,0.5562856974639087,0.7767448066281502
+RS,full,slot_time_age,transport,True,1.3517952623337353,1.3517952623337353
+RS,full,episode_time_age,home,True,18.469381093435757,18.333180416898955
+RS,full,episode_time_age,second home,True,0.08730938512021472,0.13846825263824003
+RS,full,episode_time_age,workplace or school,True,2.30780000468354,2.305859002621578
+RS,full,episode_time_age,other people's home,True,0.758940678402223,0.6689263718380752
+RS,full,episode_time_age,"restaurant, cafe or pub",True,0.2036560153168257,0.1713618550775798
+RS,full,episode_time_age,shops and services,True,0.24612875169504408,0.2334867110103488
+RS,full,episode_time_age,hotel or camping,True,0.018703111548769514,0.06417173606984955
+RS,full,episode_time_age,other or unspecified place,True,0.5562856974639087,0.732750391511651
+RS,full,episode_time_age,transport,True,1.3517952623337353,1.3517952623337353
+RS,full,markov_time,home,True,18.469381093435757,17.95256934994569
+RS,full,markov_time,second home,True,0.08730938512021472,0.11348977445887527
+RS,full,markov_time,workplace or school,True,2.30780000468354,2.4182440866574177
+RS,full,markov_time,other people's home,True,0.758940678402223,0.9287178515052047
+RS,full,markov_time,"restaurant, cafe or pub",True,0.2036560153168257,0.2179424088109
+RS,full,markov_time,shops and services,True,0.24612875169504408,0.2382078036879833
+RS,full,markov_time,hotel or camping,True,0.018703111548769514,0.07360212433099468
+RS,full,markov_time,other or unspecified place,True,0.5562856974639087,0.7054313382692253
+RS,full,markov_time,transport,True,1.3517952623337353,1.3517952623337353
+RS,full,markov_time_age,home,True,18.469381093435757,17.973307983973843
+RS,full,markov_time_age,second home,True,0.08730938512021472,0.09903290613634344
+RS,full,markov_time_age,workplace or school,True,2.30780000468354,2.413405993870805
+RS,full,markov_time_age,other people's home,True,0.758940678402223,0.8755479852678836
+RS,full,markov_time_age,"restaurant, cafe or pub",True,0.2036560153168257,0.22420515463689955
+RS,full,markov_time_age,shops and services,True,0.24612875169504408,0.24180885481872816
+RS,full,markov_time_age,hotel or camping,True,0.018703111548769514,0.07184927602119802
+RS,full,markov_time_age,other or unspecified place,True,0.5562856974639087,0.7490465829405946
+RS,full,markov_time_age,transport,True,1.3517952623337353,1.3517952623337353
+RS,full,markov_time_age_day,home,True,18.469381093435757,17.980047475992766
+RS,full,markov_time_age_day,second home,True,0.08730938512021472,0.10779364676956632
+RS,full,markov_time_age_day,workplace or school,True,2.30780000468354,2.408042479327599
+RS,full,markov_time_age_day,other people's home,True,0.758940678402223,0.8843559611858252
+RS,full,markov_time_age_day,"restaurant, cafe or pub",True,0.2036560153168257,0.20957410109862756
+RS,full,markov_time_age_day,shops and services,True,0.24612875169504408,0.24043188906195534
+RS,full,markov_time_age_day,hotel or camping,True,0.018703111548769514,0.06619540575520941
+RS,full,markov_time_age_day,other or unspecified place,True,0.5562856974639087,0.7517637784747273
+RS,full,markov_time_age_day,transport,True,1.3517952623337353,1.3517952623337353
+RS,full,markov_time_age_modal,home,True,18.469381093435757,18.540929613508208
+RS,full,markov_time_age_modal,second home,True,0.08730938512021472,0.00026904741911093504
+RS,full,markov_time_age_modal,workplace or school,True,2.30780000468354,2.366072101629276
+RS,full,markov_time_age_modal,other people's home,True,0.758940678402223,0.7325586400644308
+RS,full,markov_time_age_modal,"restaurant, cafe or pub",True,0.2036560153168257,0.1975805247426286
+RS,full,markov_time_age_modal,shops and services,True,0.24612875169504408,0.2237163266799073
+RS,full,markov_time_age_modal,hotel or camping,True,0.018703111548769514,0.0003511115271166635
+RS,full,markov_time_age_modal,other or unspecified place,True,0.5562856974639087,0.5867273720955983
+RS,full,markov_time_age_modal,transport,True,1.3517952623337353,1.3517952623337353
+UK,full,home,home,True,16.491738402863007,22.2792327447471
+UK,full,home,second home,True,0.044157647398523014,0.0
+UK,full,home,workplace or school,True,2.5999502119771694,0.0
+UK,full,home,other people's home,True,0.7607781193684637,0.0
+UK,full,home,"restaurant, cafe or pub",True,0.2964414344833351,0.0
+UK,full,home,shops and services,True,0.3329263541507765,0.0
+UK,full,home,hotel or camping,True,0.22401615718207774,0.0
+UK,full,home,other or unspecified place,True,1.5292244173237393,0.0
+UK,full,home,transport,True,1.7207672552529012,1.7207672552529012
+UK,full,activity_modal,home,True,16.491738402863007,17.99123294599814
+UK,full,activity_modal,second home,True,0.044157647398523014,0.0
+UK,full,activity_modal,workplace or school,True,2.5999502119771694,2.762180181299004
+UK,full,activity_modal,other people's home,True,0.7607781193684637,0.43451060301404887
+UK,full,activity_modal,"restaurant, cafe or pub",True,0.2964414344833351,0.0
+UK,full,activity_modal,shops and services,True,0.3329263541507765,0.3307732859944693
+UK,full,activity_modal,hotel or camping,True,0.22401615718207774,0.0
+UK,full,activity_modal,other or unspecified place,True,1.5292244173237393,0.7605357284414336
+UK,full,activity_modal,transport,True,1.7207672552529012,1.7207672552529012
+UK,full,slot_time,home,True,16.491738402863007,16.93936325328536
+UK,full,slot_time,second home,True,0.044157647398523014,0.12229360008956097
+UK,full,slot_time,workplace or school,True,2.5999502119771694,2.565550466829041
+UK,full,slot_time,other people's home,True,0.7607781193684637,0.6337478570775761
+UK,full,slot_time,"restaurant, cafe or pub",True,0.2964414344833351,0.18472063429359953
+UK,full,slot_time,shops and services,True,0.3329263541507765,0.3315790311653932
+UK,full,slot_time,hotel or camping,True,0.22401615718207774,0.06926982758691246
+UK,full,slot_time,other or unspecified place,True,1.5292244173237393,1.4327080744196445
+UK,full,slot_time,transport,True,1.7207672552529012,1.7207672552529012
+UK,full,slot_time_age,home,True,16.491738402863007,16.883577324104227
+UK,full,slot_time_age,second home,True,0.044157647398523014,0.1223601334473017
+UK,full,slot_time_age,workplace or school,True,2.5999502119771694,2.581585359659761
+UK,full,slot_time_age,other people's home,True,0.7607781193684637,0.6665393781138059
+UK,full,slot_time_age,"restaurant, cafe or pub",True,0.2964414344833351,0.18361175254447476
+UK,full,slot_time_age,shops and services,True,0.3329263541507765,0.33156599142009047
+UK,full,slot_time_age,hotel or camping,True,0.22401615718207774,0.0732996538856571
+UK,full,slot_time_age,other or unspecified place,True,1.5292244173237393,1.4366931515717722
+UK,full,slot_time_age,transport,True,1.7207672552529012,1.7207672552529012
+UK,full,episode_time_age,home,True,16.491738402863007,17.402159383189193
+UK,full,episode_time_age,second home,True,0.044157647398523014,0.13259491197564519
+UK,full,episode_time_age,workplace or school,True,2.5999502119771694,2.410671685136268
+UK,full,episode_time_age,other people's home,True,0.7607781193684637,0.6176450688762792
+UK,full,episode_time_age,"restaurant, cafe or pub",True,0.2964414344833351,0.13818124198341689
+UK,full,episode_time_age,shops and services,True,0.3329263541507765,0.33566985957489326
+UK,full,episode_time_age,hotel or camping,True,0.22401615718207774,0.08279758036506654
+UK,full,episode_time_age,other or unspecified place,True,1.5292244173237393,1.159513013646342
+UK,full,episode_time_age,transport,True,1.7207672552529012,1.7207672552529012
+UK,full,markov_time,home,True,16.491738402863007,17.146934847243962
+UK,full,markov_time,second home,True,0.044157647398523014,0.11903901105853357
+UK,full,markov_time,workplace or school,True,2.5999502119771694,2.451770168728346
+UK,full,markov_time,other people's home,True,0.7607781193684637,0.7606555468624663
+UK,full,markov_time,"restaurant, cafe or pub",True,0.2964414344833351,0.2018985997239578
+UK,full,markov_time,shops and services,True,0.3329263541507765,0.33194751972909775
+UK,full,markov_time,hotel or camping,True,0.22401615718207774,0.07189986961347705
+UK,full,markov_time,other or unspecified place,True,1.5292244173237393,1.1950871817872473
+UK,full,markov_time,transport,True,1.7207672552529012,1.7207672552529012
+UK,full,markov_time_age,home,True,16.491738402863007,17.0543328739067
+UK,full,markov_time_age,second home,True,0.044157647398523014,0.12453808838223232
+UK,full,markov_time_age,workplace or school,True,2.5999502119771694,2.4694676273282172
+UK,full,markov_time_age,other people's home,True,0.7607781193684637,0.7877051215330971
+UK,full,markov_time_age,"restaurant, cafe or pub",True,0.2964414344833351,0.20209949710681424
+UK,full,markov_time_age,shops and services,True,0.3329263541507765,0.3360561178791495
+UK,full,markov_time_age,hotel or camping,True,0.22401615718207774,0.07292755793641141
+UK,full,markov_time_age,other or unspecified place,True,1.5292244173237393,1.2321058606744755
+UK,full,markov_time_age,transport,True,1.7207672552529012,1.7207672552529012
+UK,full,markov_time_age_day,home,True,16.491738402863007,17.04134364710028
+UK,full,markov_time_age_day,second home,True,0.044157647398523014,0.14057972773102403
+UK,full,markov_time_age_day,workplace or school,True,2.5999502119771694,2.5083292029494784
+UK,full,markov_time_age_day,other people's home,True,0.7607781193684637,0.7626533064691791
+UK,full,markov_time_age_day,"restaurant, cafe or pub",True,0.2964414344833351,0.19709791251145714
+UK,full,markov_time_age_day,shops and services,True,0.3329263541507765,0.33146776924560956
+UK,full,markov_time_age_day,hotel or camping,True,0.22401615718207774,0.06278821774442093
+UK,full,markov_time_age_day,other or unspecified place,True,1.5292244173237393,1.2349729609956368
+UK,full,markov_time_age_day,transport,True,1.7207672552529012,1.7207672552529012
+UK,full,markov_time_age_modal,home,True,16.491738402863007,17.781211462257385
+UK,full,markov_time_age_modal,second home,True,0.044157647398523014,0.0032344236497918307
+UK,full,markov_time_age_modal,workplace or school,True,2.5999502119771694,2.4510690879360517
+UK,full,markov_time_age_modal,other people's home,True,0.7607781193684637,0.584563024373811
+UK,full,markov_time_age_modal,"restaurant, cafe or pub",True,0.2964414344833351,0.1717673874839399
+UK,full,markov_time_age_modal,shops and services,True,0.3329263541507765,0.3317691981764135
+UK,full,markov_time_age_modal,hotel or camping,True,0.22401615718207774,0.0012692747902696036
+UK,full,markov_time_age_modal,other or unspecified place,True,1.5292244173237393,0.9543488860794291
+UK,full,markov_time_age_modal,transport,True,1.7207672552529012,1.7207672552529012
+AT,partial,home,home,True,16.765461434960812,22.926348632499295
+AT,partial,home,second home,False,0.0,0.0
+AT,partial,home,workplace or school,False,0.0,0.0
+AT,partial,home,other people's home,False,0.0,0.0
+AT,partial,home,"restaurant, cafe or pub",False,0.0,0.0
+AT,partial,home,shops and services,False,0.0,0.0
+AT,partial,home,hotel or camping,False,0.0,0.0
+AT,partial,home,other or unspecified place,True,6.160887197538465,0.0
+AT,partial,home,transport,True,1.0736513675007646,1.0736513675007646
+AT,partial,activity_modal,home,True,16.765461434960812,17.08996233351265
+AT,partial,activity_modal,second home,False,0.0,0.0
+AT,partial,activity_modal,workplace or school,False,0.0,0.0
+AT,partial,activity_modal,other people's home,False,0.0,0.0
+AT,partial,activity_modal,"restaurant, cafe or pub",False,0.0,0.0
+AT,partial,activity_modal,shops and services,False,0.0,0.0
+AT,partial,activity_modal,hotel or camping,False,0.0,0.0
+AT,partial,activity_modal,other or unspecified place,True,6.160887197538465,5.836386298986621
+AT,partial,activity_modal,transport,True,1.0736513675007646,1.0736513675007646
+AT,partial,slot_time,home,True,16.765461434960812,16.7085804832864
+AT,partial,slot_time,second home,False,0.0,0.0
+AT,partial,slot_time,workplace or school,False,0.0,0.0
+AT,partial,slot_time,other people's home,False,0.0,0.0
+AT,partial,slot_time,"restaurant, cafe or pub",False,0.0,0.0
+AT,partial,slot_time,shops and services,False,0.0,0.0
+AT,partial,slot_time,hotel or camping,False,0.0,0.0
+AT,partial,slot_time,other or unspecified place,True,6.160887197538465,6.217768149212868
+AT,partial,slot_time,transport,True,1.0736513675007646,1.0736513675007646
+AT,partial,slot_time_age,home,True,16.765461434960812,16.622745049629053
+AT,partial,slot_time_age,second home,False,0.0,0.0
+AT,partial,slot_time_age,workplace or school,False,0.0,0.0
+AT,partial,slot_time_age,other people's home,False,0.0,0.0
+AT,partial,slot_time_age,"restaurant, cafe or pub",False,0.0,0.0
+AT,partial,slot_time_age,shops and services,False,0.0,0.0
+AT,partial,slot_time_age,hotel or camping,False,0.0,0.0
+AT,partial,slot_time_age,other or unspecified place,True,6.160887197538465,6.303603582870213
+AT,partial,slot_time_age,transport,True,1.0736513675007646,1.0736513675007646
+AT,partial,episode_time_age,home,True,16.765461434960812,16.954526535667153
+AT,partial,episode_time_age,second home,False,0.0,0.0
+AT,partial,episode_time_age,workplace or school,False,0.0,0.0
+AT,partial,episode_time_age,other people's home,False,0.0,0.0
+AT,partial,episode_time_age,"restaurant, cafe or pub",False,0.0,0.0
+AT,partial,episode_time_age,shops and services,False,0.0,0.0
+AT,partial,episode_time_age,hotel or camping,False,0.0,0.0
+AT,partial,episode_time_age,other or unspecified place,True,6.160887197538465,5.971822096832117
+AT,partial,episode_time_age,transport,True,1.0736513675007646,1.0736513675007646
+AT,partial,markov_time,home,True,16.765461434960812,16.665385914732312
+AT,partial,markov_time,second home,False,0.0,0.0
+AT,partial,markov_time,workplace or school,False,0.0,0.0
+AT,partial,markov_time,other people's home,False,0.0,0.0
+AT,partial,markov_time,"restaurant, cafe or pub",False,0.0,0.0
+AT,partial,markov_time,shops and services,False,0.0,0.0
+AT,partial,markov_time,hotel or camping,False,0.0,0.0
+AT,partial,markov_time,other or unspecified place,True,6.160887197538465,6.260962717766968
+AT,partial,markov_time,transport,True,1.0736513675007646,1.0736513675007646
+AT,partial,markov_time_age,home,True,16.765461434960812,16.721255292433565
+AT,partial,markov_time_age,second home,False,0.0,0.0
+AT,partial,markov_time_age,workplace or school,False,0.0,0.0
+AT,partial,markov_time_age,other people's home,False,0.0,0.0
+AT,partial,markov_time_age,"restaurant, cafe or pub",False,0.0,0.0
+AT,partial,markov_time_age,shops and services,False,0.0,0.0
+AT,partial,markov_time_age,hotel or camping,False,0.0,0.0
+AT,partial,markov_time_age,other or unspecified place,True,6.160887197538465,6.205093340065687
+AT,partial,markov_time_age,transport,True,1.0736513675007646,1.0736513675007646
+AT,partial,markov_time_age_day,home,True,16.765461434960812,16.635506453604513
+AT,partial,markov_time_age_day,second home,False,0.0,0.0
+AT,partial,markov_time_age_day,workplace or school,False,0.0,0.0
+AT,partial,markov_time_age_day,other people's home,False,0.0,0.0
+AT,partial,markov_time_age_day,"restaurant, cafe or pub",False,0.0,0.0
+AT,partial,markov_time_age_day,shops and services,False,0.0,0.0
+AT,partial,markov_time_age_day,hotel or camping,False,0.0,0.0
+AT,partial,markov_time_age_day,other or unspecified place,True,6.160887197538465,6.290842178894769
+AT,partial,markov_time_age_day,transport,True,1.0736513675007646,1.0736513675007646
+AT,partial,markov_time_age_modal,home,True,16.765461434960812,17.242725387209322
+AT,partial,markov_time_age_modal,second home,False,0.0,0.0
+AT,partial,markov_time_age_modal,workplace or school,False,0.0,0.0
+AT,partial,markov_time_age_modal,other people's home,False,0.0,0.0
+AT,partial,markov_time_age_modal,"restaurant, cafe or pub",False,0.0,0.0
+AT,partial,markov_time_age_modal,shops and services,False,0.0,0.0
+AT,partial,markov_time_age_modal,hotel or camping,False,0.0,0.0
+AT,partial,markov_time_age_modal,other or unspecified place,True,6.160887197538465,5.683623245289942
+AT,partial,markov_time_age_modal,transport,True,1.0736513675007646,1.0736513675007646
+FR,partial,home,home,True,17.05718946505651,22.467629141878287
+FR,partial,home,second home,True,0.1839870525404104,0.0
+FR,partial,home,workplace or school,True,2.5631746466899923,0.0
+FR,partial,home,other people's home,True,1.04792076336057,0.0
+FR,partial,home,"restaurant, cafe or pub",True,0.1810680844211878,0.0
+FR,partial,home,shops and services,False,0.0,0.0
+FR,partial,home,hotel or camping,False,0.0,0.0
+FR,partial,home,other or unspecified place,True,1.4342891298096223,0.0
+FR,partial,home,transport,True,1.5323708581216917,1.5323708581216917
+FR,partial,activity_modal,home,True,17.05718946505651,18.12571633448636
+FR,partial,activity_modal,second home,True,0.1839870525404104,0.0
+FR,partial,activity_modal,workplace or school,True,2.5631746466899923,2.7020120129343024
+FR,partial,activity_modal,other people's home,True,1.04792076336057,0.4243833361604008
+FR,partial,activity_modal,"restaurant, cafe or pub",True,0.1810680844211878,0.0
+FR,partial,activity_modal,shops and services,False,0.0,0.0
+FR,partial,activity_modal,hotel or camping,False,0.0,0.0
+FR,partial,activity_modal,other or unspecified place,True,1.4342891298096223,1.215517458297231
+FR,partial,activity_modal,transport,True,1.5323708581216917,1.5323708581216917
+FR,partial,slot_time,home,True,17.05718946505651,17.3705386736009
+FR,partial,slot_time,second home,True,0.1839870525404104,0.12217534492507309
+FR,partial,slot_time,workplace or school,True,2.5631746466899923,2.5352038075921284
+FR,partial,slot_time,other people's home,True,1.04792076336057,0.6609275506451269
+FR,partial,slot_time,"restaurant, cafe or pub",True,0.1810680844211878,0.2578100512298308
+FR,partial,slot_time,shops and services,False,0.0,0.0
+FR,partial,slot_time,hotel or camping,False,0.0,0.0
+FR,partial,slot_time,other or unspecified place,True,1.4342891298096223,1.52097371388524
+FR,partial,slot_time,transport,True,1.5323708581216917,1.5323708581216917
+FR,partial,slot_time_age,home,True,17.05718946505651,17.318674585616794
+FR,partial,slot_time_age,second home,True,0.1839870525404104,0.11975441306327475
+FR,partial,slot_time_age,workplace or school,True,2.5631746466899923,2.566276802491044
+FR,partial,slot_time_age,other people's home,True,1.04792076336057,0.676359127380373
+FR,partial,slot_time_age,"restaurant, cafe or pub",True,0.1810680844211878,0.2670709556876464
+FR,partial,slot_time_age,shops and services,False,0.0,0.0
+FR,partial,slot_time_age,hotel or camping,False,0.0,0.0
+FR,partial,slot_time_age,other or unspecified place,True,1.4342891298096223,1.5194932576391658
+FR,partial,slot_time_age,transport,True,1.5323708581216917,1.5323708581216917
+FR,partial,episode_time_age,home,True,17.05718946505651,17.69195632978681
+FR,partial,episode_time_age,second home,True,0.1839870525404104,0.11007014986665284
+FR,partial,episode_time_age,workplace or school,True,2.5631746466899923,2.432942343632977
+FR,partial,episode_time_age,other people's home,True,1.04792076336057,0.6265012795178311
+FR,partial,episode_time_age,"restaurant, cafe or pub",True,0.1810680844211878,0.1798584432186872
+FR,partial,episode_time_age,shops and services,False,0.0,0.0
+FR,partial,episode_time_age,hotel or camping,False,0.0,0.0
+FR,partial,episode_time_age,other or unspecified place,True,1.4342891298096223,1.4263005958553197
+FR,partial,episode_time_age,transport,True,1.5323708581216917,1.5323708581216917
+FR,partial,markov_time,home,True,17.05718946505651,17.23752409483587
+FR,partial,markov_time,second home,True,0.1839870525404104,0.12313078804726128
+FR,partial,markov_time,workplace or school,True,2.5631746466899923,2.527095147677804
+FR,partial,markov_time,other people's home,True,1.04792076336057,0.8113940827579298
+FR,partial,markov_time,"restaurant, cafe or pub",True,0.1810680844211878,0.2413517856825469
+FR,partial,markov_time,shops and services,False,0.0,0.0
+FR,partial,markov_time,hotel or camping,False,0.0,0.0
+FR,partial,markov_time,other or unspecified place,True,1.4342891298096223,1.5271332428768742
+FR,partial,markov_time,transport,True,1.5323708581216917,1.5323708581216917
+FR,partial,markov_time_age,home,True,17.05718946505651,17.203877325522974
+FR,partial,markov_time_age,second home,True,0.1839870525404104,0.12061031967244167
+FR,partial,markov_time_age,workplace or school,True,2.5631746466899923,2.569544218862782
+FR,partial,markov_time_age,other people's home,True,1.04792076336057,0.8208766824666803
+FR,partial,markov_time_age,"restaurant, cafe or pub",True,0.1810680844211878,0.25829919243972127
+FR,partial,markov_time_age,shops and services,False,0.0,0.0
+FR,partial,markov_time_age,hotel or camping,False,0.0,0.0
+FR,partial,markov_time_age,other or unspecified place,True,1.4342891298096223,1.494421402913696
+FR,partial,markov_time_age,transport,True,1.5323708581216917,1.5323708581216917
+FR,partial,markov_time_age_day,home,True,17.05718946505651,17.24863649277234
+FR,partial,markov_time_age_day,second home,True,0.1839870525404104,0.11696983580864889
+FR,partial,markov_time_age_day,workplace or school,True,2.5631746466899923,2.5764951410649575
+FR,partial,markov_time_age_day,other people's home,True,1.04792076336057,0.8035024468825542
+FR,partial,markov_time_age_day,"restaurant, cafe or pub",True,0.1810680844211878,0.24227024435495348
+FR,partial,markov_time_age_day,shops and services,False,0.0,0.0
+FR,partial,markov_time_age_day,hotel or camping,False,0.0,0.0
+FR,partial,markov_time_age_day,other or unspecified place,True,1.4342891298096223,1.4797549809948558
+FR,partial,markov_time_age_day,transport,True,1.5323708581216917,1.5323708581216917
+FR,partial,markov_time_age_modal,home,True,17.05718946505651,17.925001321287706
+FR,partial,markov_time_age_modal,second home,True,0.1839870525404104,0.004698409491404209
+FR,partial,markov_time_age_modal,workplace or school,True,2.5631746466899923,2.580015673338672
+FR,partial,markov_time_age_modal,other people's home,True,1.04792076336057,0.5580667315444858
+FR,partial,markov_time_age_modal,"restaurant, cafe or pub",True,0.1810680844211878,0.19231643869672044
+FR,partial,markov_time_age_modal,shops and services,False,0.0,0.0
+FR,partial,markov_time_age_modal,hotel or camping,False,0.0,0.0
+FR,partial,markov_time_age_modal,other or unspecified place,True,1.4342891298096223,1.2075305675193149
+FR,partial,markov_time_age_modal,transport,True,1.5323708581216917,1.5323708581216917
+LU,partial,home,home,True,16.3435616333656,22.548324489199906
+LU,partial,home,second home,False,0.0,0.0
+LU,partial,home,workplace or school,True,3.573126887562398,0.0
+LU,partial,home,other people's home,True,0.5544705918978722,0.0
+LU,partial,home,"restaurant, cafe or pub",True,0.34134092440403313,0.0
+LU,partial,home,shops and services,False,0.0,0.0
+LU,partial,home,hotel or camping,False,0.0,0.0
+LU,partial,home,other or unspecified place,True,1.7358244519699888,0.0
+LU,partial,home,transport,True,1.4516755108001258,1.4516755108001258
+LU,partial,activity_modal,home,True,16.3435616333656,17.247894479965854
+LU,partial,activity_modal,second home,False,0.0,0.0
+LU,partial,activity_modal,workplace or school,True,3.573126887562398,3.520686731659766
+LU,partial,activity_modal,other people's home,True,0.5544705918978722,0.27364316935567345
+LU,partial,activity_modal,"restaurant, cafe or pub",True,0.34134092440403313,0.0
+LU,partial,activity_modal,shops and services,False,0.0,0.0
+LU,partial,activity_modal,hotel or camping,False,0.0,0.0
+LU,partial,activity_modal,other or unspecified place,True,1.7358244519699888,1.506100108218594
+LU,partial,activity_modal,transport,True,1.4516755108001258,1.4516755108001258
+LU,partial,slot_time,home,True,16.3435616333656,16.61400661077757
+LU,partial,slot_time,second home,False,0.0,0.0
+LU,partial,slot_time,workplace or school,True,3.573126887562398,3.2900465842844753
+LU,partial,slot_time,other people's home,True,0.5544705918978722,0.5413405760702352
+LU,partial,slot_time,"restaurant, cafe or pub",True,0.34134092440403313,0.2181703914807811
+LU,partial,slot_time,shops and services,False,0.0,0.0
+LU,partial,slot_time,hotel or camping,False,0.0,0.0
+LU,partial,slot_time,other or unspecified place,True,1.7358244519699888,1.8847603265868282
+LU,partial,slot_time,transport,True,1.4516755108001258,1.4516755108001258
+LU,partial,slot_time_age,home,True,16.3435616333656,16.44661034376048
+LU,partial,slot_time_age,second home,False,0.0,0.0
+LU,partial,slot_time_age,workplace or school,True,3.573126887562398,3.3652819062268007
+LU,partial,slot_time_age,other people's home,True,0.5544705918978722,0.5938381678209276
+LU,partial,slot_time_age,"restaurant, cafe or pub",True,0.34134092440403313,0.24005056826333318
+LU,partial,slot_time_age,shops and services,False,0.0,0.0
+LU,partial,slot_time_age,hotel or camping,False,0.0,0.0
+LU,partial,slot_time_age,other or unspecified place,True,1.7358244519699888,1.9025435031283444
+LU,partial,slot_time_age,transport,True,1.4516755108001258,1.4516755108001258
+LU,partial,episode_time_age,home,True,16.3435616333656,16.741884013503753
+LU,partial,episode_time_age,second home,False,0.0,0.0
+LU,partial,episode_time_age,workplace or school,True,3.573126887562398,3.182947271888663
+LU,partial,episode_time_age,other people's home,True,0.5544705918978722,0.591234910232009
+LU,partial,episode_time_age,"restaurant, cafe or pub",True,0.34134092440403313,0.17662407092454374
+LU,partial,episode_time_age,shops and services,False,0.0,0.0
+LU,partial,episode_time_age,hotel or camping,False,0.0,0.0
+LU,partial,episode_time_age,other or unspecified place,True,1.7358244519699888,1.855634222650921
+LU,partial,episode_time_age,transport,True,1.4516755108001258,1.4516755108001258
+LU,partial,markov_time,home,True,16.3435616333656,16.4530927918112
+LU,partial,markov_time,second home,False,0.0,0.0
+LU,partial,markov_time,workplace or school,True,3.573126887562398,3.374491011339038
+LU,partial,markov_time,other people's home,True,0.5544705918978722,0.582389681277387
+LU,partial,markov_time,"restaurant, cafe or pub",True,0.34134092440403313,0.23615586936165617
+LU,partial,markov_time,shops and services,False,0.0,0.0
+LU,partial,markov_time,hotel or camping,False,0.0,0.0
+LU,partial,markov_time,other or unspecified place,True,1.7358244519699888,1.9021951354106044
+LU,partial,markov_time,transport,True,1.4516755108001258,1.4516755108001258
+LU,partial,markov_time_age,home,True,16.3435616333656,16.264865904506536
+LU,partial,markov_time_age,second home,False,0.0,0.0
+LU,partial,markov_time_age,workplace or school,True,3.573126887562398,3.418634208554198
+LU,partial,markov_time_age,other people's home,True,0.5544705918978722,0.6488104205192171
+LU,partial,markov_time_age,"restaurant, cafe or pub",True,0.34134092440403313,0.24710794238409592
+LU,partial,markov_time_age,shops and services,False,0.0,0.0
+LU,partial,markov_time_age,hotel or camping,False,0.0,0.0
+LU,partial,markov_time_age,other or unspecified place,True,1.7358244519699888,1.9689060132358405
+LU,partial,markov_time_age,transport,True,1.4516755108001258,1.4516755108001258
+LU,partial,markov_time_age_day,home,True,16.3435616333656,16.351390596277845
+LU,partial,markov_time_age_day,second home,False,0.0,0.0
+LU,partial,markov_time_age_day,workplace or school,True,3.573126887562398,3.45535853277723
+LU,partial,markov_time_age_day,other people's home,True,0.5544705918978722,0.6312371768912385
+LU,partial,markov_time_age_day,"restaurant, cafe or pub",True,0.34134092440403313,0.24302139987014643
+LU,partial,markov_time_age_day,shops and services,False,0.0,0.0
+LU,partial,markov_time_age_day,hotel or camping,False,0.0,0.0
+LU,partial,markov_time_age_day,other or unspecified place,True,1.7358244519699888,1.8673167833834252
+LU,partial,markov_time_age_day,transport,True,1.4516755108001258,1.4516755108001258
+LU,partial,markov_time_age_modal,home,True,16.3435616333656,16.90217126702777
+LU,partial,markov_time_age_modal,second home,False,0.0,0.0
+LU,partial,markov_time_age_modal,workplace or school,True,3.573126887562398,3.507914830191625
+LU,partial,markov_time_age_modal,other people's home,True,0.5544705918978722,0.3727913789323008
+LU,partial,markov_time_age_modal,"restaurant, cafe or pub",True,0.34134092440403313,0.17293453531526515
+LU,partial,markov_time_age_modal,shops and services,False,0.0,0.0
+LU,partial,markov_time_age_modal,hotel or camping,False,0.0,0.0
+LU,partial,markov_time_age_modal,other or unspecified place,True,1.7358244519699888,1.592512477732922
+LU,partial,markov_time_age_modal,transport,True,1.4516755108001258,1.4516755108001258

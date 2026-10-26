@@ -1,0 +1,305 @@
+{
+  "version": "4.1 (25 October 2026)",
+  "target": "DE",
+  "n_imputations": 20,
+  "kappa": 5.0,
+  "seed": 20261019,
+  "place_codes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    13
+  ],
+  "transport_codes": [
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "travel_activity": [
+    900,
+    990
+  ],
+  "transport_rule": "a slot is transport if its activity is a trip or a mode of transport is recorded",
+  "age_top": 14,
+  "main_variant": "markov_time_age",
+  "variants": {
+    "home": {
+      "kind": "home"
+    },
+    "activity_modal": {
+      "kind": "episode",
+      "levels": [
+        [
+          "a"
+        ]
+      ],
+      "modal": true
+    },
+    "slot_time": {
+      "kind": "slot",
+      "levels": [
+        [
+          "a"
+        ],
+        [
+          "a",
+          "t"
+        ]
+      ]
+    },
+    "slot_time_age": {
+      "kind": "slot",
+      "levels": [
+        [
+          "a"
+        ],
+        [
+          "a",
+          "t"
+        ],
+        [
+          "a",
+          "t",
+          "g"
+        ]
+      ]
+    },
+    "episode_time_age": {
+      "kind": "episode",
+      "levels": [
+        [
+          "a"
+        ],
+        [
+          "a",
+          "h"
+        ],
+        [
+          "a",
+          "h",
+          "g"
+        ]
+      ]
+    },
+    "markov_time": {
+      "kind": "markov",
+      "levels": [
+        [
+          "a"
+        ],
+        [
+          "a",
+          "h"
+        ],
+        [
+          "a",
+          "h",
+          "p",
+          "r"
+        ]
+      ]
+    },
+    "markov_time_age": {
+      "kind": "markov",
+      "levels": [
+        [
+          "a"
+        ],
+        [
+          "a",
+          "h"
+        ],
+        [
+          "a",
+          "h",
+          "p",
+          "r"
+        ],
+        [
+          "a",
+          "h",
+          "p",
+          "r",
+          "g"
+        ]
+      ]
+    },
+    "markov_time_age_day": {
+      "kind": "markov",
+      "levels": [
+        [
+          "a"
+        ],
+        [
+          "a",
+          "h"
+        ],
+        [
+          "a",
+          "h",
+          "p",
+          "r"
+        ],
+        [
+          "a",
+          "h",
+          "p",
+          "r",
+          "g"
+        ],
+        [
+          "a",
+          "h",
+          "p",
+          "r",
+          "g",
+          "w"
+        ]
+      ]
+    },
+    "markov_time_age_modal": {
+      "kind": "markov",
+      "levels": [
+        [
+          "a"
+        ],
+        [
+          "a",
+          "h"
+        ],
+        [
+          "a",
+          "h",
+          "p",
+          "r"
+        ],
+        [
+          "a",
+          "h",
+          "p",
+          "r",
+          "g"
+        ]
+      ],
+      "modal": true
+    }
+  },
+  "donors_full": [
+    "BE",
+    "EE",
+    "EL",
+    "ES",
+    "FI",
+    "HU",
+    "IT",
+    "NL",
+    "NO",
+    "PL",
+    "RO",
+    "RS",
+    "UK"
+  ],
+  "scored_partial": [
+    "AT",
+    "FR",
+    "LU"
+  ],
+  "files": {
+    "AT": "AT.csv",
+    "BE": "BE.csv",
+    "EE": "EE.csv",
+    "EL": "EL.csv",
+    "ES": "ES.csv",
+    "FI": "FI.csv",
+    "FR": "FR.csv",
+    "HU": "HU.csv",
+    "IT": "IT.csv",
+    "LU": "LU.csv",
+    "NL": "NL.csv",
+    "NO": "NO.csv",
+    "PL": "PL.csv",
+    "RO": "RO.csv",
+    "RS": "RS.csv",
+    "UK": "UK.csv",
+    "DE": "TUS_SUF_A_DE_2010.csv"
+  },
+  "repeat_imputations": 20,
+  "home_activity_share": 0.95,
+  "home_activity_min_slots": 1000,
+  "home_activity_max_code13": 0.15,
+  "global_sensitivity_analysis": {
+    "units": [
+      "slot",
+      "episode",
+      "markov"
+    ],
+    "alphas": [
+      1.0,
+      5.0,
+      20.0
+    ],
+    "part_a_factors": [
+      "unit",
+      "time",
+      "age",
+      "day_type",
+      "assignment",
+      "alpha"
+    ],
+    "part_a_combinations": 144,
+    "part_a_donors": [
+      "BE",
+      "EE",
+      "EL",
+      "ES",
+      "FI",
+      "HU",
+      "IT",
+      "NL",
+      "NO",
+      "PL",
+      "RO",
+      "RS",
+      "UK"
+    ],
+    "part_b_factors": [
+      "unit",
+      "time",
+      "age",
+      "day_type",
+      "assignment",
+      "alpha",
+      "code_13",
+      "draws",
+      "transfer_error"
+    ],
+    "part_b_draws": 10,
+    "part_b_german_combinations": 2880,
+    "part_b_german_imputations": 1584,
+    "part_b_combinations": 37440,
+    "part_a_pareto_optimal_combinations": 19
+  },
+  "min_respondents_per_place_score": 50,
+  "files_of_earlier_runs": [
+    "gsa_germany_home_by_slot.csv",
+    "gsa_transfer_errors_home_by_slot.csv"
+  ],
+  "checks_warnings": 6,
+  "checks_failures": 0,
+  "timing_seconds": {
+    "read_and_prepare": 9.8,
+    "loco_variants": 61.3,
+    "repeated_imputations": 71.6,
+    "germany": 8.9,
+    "home_activities": 1.1,
+    "gsa_part_a": 834.6,
+    "gsa_part_b": 755.3
+  },
+  "files_note": "paths relative to the folder that held the country files (local folder names removed by export_results.py)"
+}

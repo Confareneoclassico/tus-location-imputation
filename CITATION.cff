@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper and the software as below."
+title: "Imputation of missing locations in time-use surveys: code and aggregate results"
+type: software
+abstract: >-
+  Code and aggregate results of the paper "Imputation of missing locations in time-use surveys".
+  The pipeline imputes the places of activities missing from the German diaries of the 2010 round
+  of the Harmonised European Time Use Surveys (HETUS) from the 13 countries that record them, with
+  a Markov chain over activity episodes; tests the imputation by imputing each of these countries
+  from the others; and runs a global sensitivity analysis over the full factorial of modelling
+  choices, coding assumptions, random draws and transfer errors between countries, with exact
+  Sobol' and optimal-transport indices. The repository holds the code, the settings and the
+  aggregate results of the run behind the paper, the script that builds its figures and tables,
+  the manuscript sources and an end-to-end test on synthetic data. The HETUS scientific use files,
+  which Eurostat provides to approved research projects, are not included.
+authors:
+  - family-names: "Lo Piano"
+    given-names: Samuele
+    orcid: "https://orcid.org/0000-0002-2625-483X"
+    affiliation: "Faculty of Management and Economics, Gdansk University of Technology; Barcelona School of Management, Universitat Pompeu Fabra"
+version: "4.1"
+license: MIT
+repository-code: "https://github.com/Confareneoclassico/tus-location-imputation"
+keywords:
+  - time-use surveys
+  - HETUS
+  - missing data
+  - imputation
+  - activity location
+  - Markov chain
+  - energy demand
+  - global sensitivity analysis
+preferred-citation:
+  type: article
+  title: "Imputation of missing locations in time-use surveys"
+  status: in-preparation
+  authors:
+    - family-names: "Lo Piano"
+      given-names: Samuele
+      orcid: "https://orcid.org/0000-0002-2625-483X"

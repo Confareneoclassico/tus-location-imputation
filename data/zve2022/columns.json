@@ -1,0 +1,12 @@
+{
+  "_note": "Variable names of the ZVE 2022 scientific use file. Replace every TO_CONFIRM entry with the names in the product metadata report (Metadatenreport Teil II); the converter stops while any remains. main_activity and place_or_mode take either a wide_pattern (one column per ten-minute slot, the slot number in the first group) or a column and a slot_column (one row per slot).",
+  "separator": ";",
+  "household_id": "TO_CONFIRM household number",
+  "person_id": "TO_CONFIRM person number within the household",
+  "diary_day": "TO_CONFIRM diary day number (1 to 3)",
+  "main_activity": {"wide_pattern": "TO_CONFIRM, for instance ^hauptakt_?(\\d+)$"},
+  "place_or_mode": {"wide_pattern": "TO_CONFIRM, for instance ^ort_?(\\d+)$"},
+  "weekday": {"column": "TO_CONFIRM day of the week of the diary day", "monday": 1},
+  "weight": "TO_CONFIRM diary-day weight",
+  "age": {"column": "TO_CONFIRM age in years", "kind": "years"}
+}

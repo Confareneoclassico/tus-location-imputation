@@ -1,0 +1,5 @@
+# Python 3.10 or later. The end-to-end test gives identical results with these lower
+# bounds on Python 3.10 and with NumPy 2.5, pandas 3.0 and Matplotlib 3.11 on Python 3.13.
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7

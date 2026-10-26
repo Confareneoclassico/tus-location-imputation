@@ -1,0 +1,327 @@
+scope,check,value,expected,status,note
+AT,diaries_vs_suf_annex1,8234,8234,ok,
+AT,activity_slot_columns,96,96,ok,
+AT,location_slot_columns,96,96,ok,
+AT,activity_code_missing_share,0.0,0,ok,
+AT,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+AT,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+AT,weights_nonpositive,0,0,ok,
+AT,age_band_missing_share,0.0,0,ok,
+AT,day_of_week_missing_share,0.0,0,ok,
+AT,place_coding,partial,full or partial,ok,"second home, workplace or school, other people's home, restaurant, cafe or pub, shops and services, hotel or camping"
+AT,trip_slots_with_place_code_share,0.043155,<0.1,ok,trips recorded without a transport mode
+AT,mode_slots_outside_trips_share,0.0,for information,ok,"share of the slots of other activities with a recorded mode, counted as transport (version 4)"
+AT,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+BE,diaries_vs_suf_annex1,11118,11118,ok,
+BE,activity_slot_columns,144,144,ok,
+BE,location_slot_columns,144,144,ok,
+BE,activity_code_missing_share,0.0,0,ok,
+BE,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+BE,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+BE,weights_nonpositive,0,0,ok,
+BE,age_band_missing_share,0.0,0,ok,
+BE,day_of_week_missing_share,0.0,0,ok,
+BE,place_coding,full,full or partial,ok,
+BE,trip_slots_with_place_code_share,0.030186,<0.1,ok,trips recorded without a transport mode
+BE,mode_slots_outside_trips_share,0.011854,for information,ok,"share of the slots of other activities with a recorded mode, counted as transport (version 4)"
+BE,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+DE,diaries_vs_suf_annex1,27143,27143,ok,
+DE,activity_slot_columns,144,144,ok,
+DE,location_slot_columns,144,144,ok,
+DE,activity_code_missing_share,0.0,0,ok,
+DE,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+DE,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+DE,weights_nonpositive,0,0,ok,
+DE,age_band_missing_share,0.0,0,ok,
+DE,day_of_week_missing_share,0.0,0,ok,
+DE,share_code_13,0.949655,about 0.95,ok,
+DE,place_codes_1_to_7,0,0,ok,
+DE,mode_slots_outside_trips,131,<200,ok,German diaries record modes on trips only; slots with a mode count as transport in every country
+DE,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+EE,diaries_vs_suf_annex1,9946,9946,ok,
+EE,activity_slot_columns,144,144,ok,
+EE,location_slot_columns,144,144,ok,
+EE,activity_code_missing_share,0.0,0,ok,
+EE,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+EE,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+EE,weights_nonpositive,0,0,ok,
+EE,age_band_missing_share,0.0,0,ok,
+EE,day_of_week_missing_share,0.0,0,ok,
+EE,place_coding,full,full or partial,ok,
+EE,trip_slots_with_place_code_share,0.010395,<0.1,ok,trips recorded without a transport mode
+EE,mode_slots_outside_trips_share,0.00308,for information,ok,"share of the slots of other activities with a recorded mode, counted as transport (version 4)"
+EE,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+EL,diaries_vs_suf_annex1,14274,14274,ok,
+EL,activity_slot_columns,144,144,ok,
+EL,location_slot_columns,144,144,ok,
+EL,activity_code_missing_share,0.0,0,ok,
+EL,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+EL,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+EL,weights_nonpositive,0,0,ok,
+EL,age_band_missing_share,0.0,0,ok,
+EL,day_of_week_missing_share,0.0,0,ok,
+EL,place_coding,full,full or partial,ok,
+EL,trip_slots_with_place_code_share,0.0,<0.1,ok,trips recorded without a transport mode
+EL,mode_slots_outside_trips_share,0.00014,for information,ok,"share of the slots of other activities with a recorded mode, counted as transport (version 4)"
+EL,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+ES,diaries_vs_suf_annex1,19295,19295,ok,
+ES,activity_slot_columns,144,144,ok,
+ES,location_slot_columns,144,144,ok,
+ES,activity_code_missing_share,0.0,0,ok,
+ES,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+ES,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+ES,weights_nonpositive,0,0,ok,
+ES,age_band_missing_share,0.0,0,ok,
+ES,day_of_week_missing_share,0.0,0,ok,
+ES,place_coding,full,full or partial,ok,
+ES,trip_slots_with_place_code_share,0.000111,<0.1,ok,trips recorded without a transport mode
+ES,mode_slots_outside_trips_share,1.1e-05,for information,ok,"share of the slots of other activities with a recorded mode, counted as transport (version 4)"
+ES,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+FI,diaries_vs_suf_annex1,7453,7480,warn,file holds -27 diaries; re-export before final results
+FI,activity_slot_columns,144,144,ok,
+FI,location_slot_columns,144,144,ok,
+FI,activity_code_missing_share,0.0,0,ok,
+FI,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+FI,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+FI,weights_nonpositive,0,0,ok,
+FI,age_band_missing_share,0.0,0,ok,
+FI,day_of_week_missing_share,0.0,0,ok,
+FI,place_coding,full,full or partial,ok,
+FI,trip_slots_with_place_code_share,0.002519,<0.1,ok,trips recorded without a transport mode
+FI,mode_slots_outside_trips_share,0.002715,for information,ok,"share of the slots of other activities with a recorded mode, counted as transport (version 4)"
+FI,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+FR,diaries_vs_suf_annex1,27699,27903,warn,file holds -204 diaries; re-export before final results
+FR,activity_slot_columns,144,144,ok,
+FR,location_slot_columns,144,144,ok,
+FR,activity_code_missing_share,0.0,0,ok,
+FR,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+FR,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+FR,weights_nonpositive,0,0,ok,
+FR,age_band_missing_share,0.0,0,ok,
+FR,day_of_week_missing_share,0.0,0,ok,
+FR,place_coding,partial,full or partial,ok,"shops and services, hotel or camping"
+FR,trip_slots_with_place_code_share,0.006408,<0.1,ok,trips recorded without a transport mode
+FR,mode_slots_outside_trips_share,0.01257,for information,ok,"share of the slots of other activities with a recorded mode, counted as transport (version 4)"
+FR,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+HU,diaries_vs_suf_annex1,8391,8391,ok,
+HU,activity_slot_columns,144,144,ok,
+HU,location_slot_columns,144,144,ok,
+HU,activity_code_missing_share,0.0,0,ok,
+HU,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+HU,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+HU,weights_nonpositive,0,0,ok,
+HU,age_band_missing_share,0.0,0,ok,
+HU,day_of_week_missing_share,0.0,0,ok,
+HU,place_coding,full,full or partial,ok,
+HU,trip_slots_with_place_code_share,0.035654,<0.1,ok,trips recorded without a transport mode
+HU,mode_slots_outside_trips_share,0.004326,for information,ok,"share of the slots of other activities with a recorded mode, counted as transport (version 4)"
+HU,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+IT,diaries_vs_suf_annex1,38234,38234,ok,
+IT,activity_slot_columns,144,144,ok,
+IT,location_slot_columns,144,144,ok,
+IT,activity_code_missing_share,0.0,0,ok,
+IT,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+IT,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+IT,weights_nonpositive,0,0,ok,
+IT,age_band_missing_share,0.0,0,ok,
+IT,day_of_week_missing_share,0.0,0,ok,
+IT,place_coding,full,full or partial,ok,
+IT,trip_slots_with_place_code_share,1.3e-05,<0.1,ok,trips recorded without a transport mode
+IT,mode_slots_outside_trips_share,0.002659,for information,ok,"share of the slots of other activities with a recorded mode, counted as transport (version 4)"
+IT,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+LU,diaries_vs_suf_annex1,4162,4162,ok,
+LU,activity_slot_columns,144,144,ok,
+LU,location_slot_columns,144,144,ok,
+LU,activity_code_missing_share,0.0,0,ok,
+LU,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+LU,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+LU,weights_nonpositive,0,0,ok,
+LU,age_band_missing_share,0.0,0,ok,
+LU,day_of_week_missing_share,0.0,0,ok,
+LU,place_coding,partial,full or partial,ok,"second home, shops and services, hotel or camping"
+LU,trip_slots_with_place_code_share,0.000225,<0.1,ok,trips recorded without a transport mode
+LU,mode_slots_outside_trips_share,3.5e-05,for information,ok,"share of the slots of other activities with a recorded mode, counted as transport (version 4)"
+LU,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+NL,diaries_vs_suf_annex1,14035,14035,ok,
+NL,activity_slot_columns,144,144,ok,
+NL,location_slot_columns,144,144,ok,
+NL,activity_code_missing_share,0.0,0,ok,
+NL,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+NL,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+NL,weights_nonpositive,0,0,ok,
+NL,age_band_missing_share,0.0,0,ok,
+NL,day_of_week_missing_share,0.0,0,ok,
+NL,place_coding,full,full or partial,ok,
+NL,trip_slots_with_place_code_share,0.0,<0.1,ok,trips recorded without a transport mode
+NL,mode_slots_outside_trips_share,0.000373,for information,ok,"share of the slots of other activities with a recorded mode, counted as transport (version 4)"
+NL,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+NO,diaries_vs_suf_annex1,7882,7882,ok,
+NO,activity_slot_columns,144,144,ok,
+NO,location_slot_columns,144,144,ok,
+NO,activity_code_missing_share,0.0,0,ok,
+NO,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+NO,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+NO,weights_nonpositive,0,0,ok,
+NO,age_band_missing_share,0.0,0,ok,
+NO,day_of_week_missing_share,0.0,0,ok,
+NO,place_coding,full,full or partial,ok,
+NO,trip_slots_with_place_code_share,0.062033,<0.1,ok,trips recorded without a transport mode
+NO,mode_slots_outside_trips_share,0.005305,for information,ok,"share of the slots of other activities with a recorded mode, counted as transport (version 4)"
+NO,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+PL,diaries_vs_suf_annex1,76657,78759,warn,file holds -2102 diaries; re-export before final results
+PL,activity_slot_columns,144,144,ok,
+PL,location_slot_columns,144,144,ok,
+PL,activity_code_missing_share,0.0,0,ok,
+PL,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+PL,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+PL,weights_nonpositive,0,0,ok,
+PL,age_band_missing_share,0.0,0,ok,
+PL,day_of_week_missing_share,0.0,0,ok,
+PL,place_coding,full,full or partial,ok,
+PL,trip_slots_with_place_code_share,0.0,<0.1,ok,trips recorded without a transport mode
+PL,mode_slots_outside_trips_share,0.000714,for information,ok,"share of the slots of other activities with a recorded mode, counted as transport (version 4)"
+PL,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+RO,diaries_vs_suf_annex1,56514,56514,ok,
+RO,activity_slot_columns,144,144,ok,
+RO,location_slot_columns,144,144,ok,
+RO,activity_code_missing_share,0.0,0,ok,
+RO,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+RO,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+RO,weights_nonpositive,0,0,ok,
+RO,age_band_missing_share,0.0,0,ok,
+RO,day_of_week_missing_share,0.0,0,ok,
+RO,place_coding,full,full or partial,ok,
+RO,trip_slots_with_place_code_share,0.00016,<0.1,ok,trips recorded without a transport mode
+RO,mode_slots_outside_trips_share,0.005829,for information,ok,"share of the slots of other activities with a recorded mode, counted as transport (version 4)"
+RO,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+RS,diaries_vs_suf_annex1,6835,6835,ok,
+RS,activity_slot_columns,144,144,ok,
+RS,location_slot_columns,144,144,ok,
+RS,activity_code_missing_share,0.0,0,ok,
+RS,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+RS,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+RS,weights_nonpositive,0,0,ok,
+RS,age_band_missing_share,0.0,0,ok,
+RS,day_of_week_missing_share,0.0,0,ok,
+RS,place_coding,full,full or partial,ok,
+RS,trip_slots_with_place_code_share,0.017541,<0.1,ok,trips recorded without a transport mode
+RS,mode_slots_outside_trips_share,0.011356,for information,ok,"share of the slots of other activities with a recorded mode, counted as transport (version 4)"
+RS,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+UK,diaries_vs_suf_annex1,16078,16118,warn,file holds -40 diaries; re-export before final results
+UK,activity_slot_columns,144,144,ok,
+UK,location_slot_columns,144,144,ok,
+UK,activity_code_missing_share,0.0,0,ok,
+UK,location_code_unexpected_share,0.0,0,ok,codes outside 1 to 13 and the negative SUF codes
+UK,location_code_negative_share,0.0,<0.01,ok,slots with no answer or not applicable
+UK,weights_nonpositive,0,0,ok,
+UK,age_band_missing_share,0.0,0,ok,
+UK,day_of_week_missing_share,0.000249,0,warn,
+UK,place_coding,full,full or partial,ok,
+UK,trip_slots_with_place_code_share,0.080761,<0.1,ok,trips recorded without a transport mode
+UK,mode_slots_outside_trips_share,0.018902,for information,ok,"share of the slots of other activities with a recorded mode, counted as transport (version 4)"
+UK,respondents_identified,True,True,ok,HID and PID found: respondents are counted for the disclosure control of per-place scores
+run,donors_with_full_coding,13,13,ok,BE EE EL ES FI HU IT NL NO PL RO RS UK
+BE loco,transport_slots_unchanged,True,True,ok,
+BE loco,all_other_slots_imputed,True,True,ok,
+BE loco,slot_shares_sum_to_one_maxdev,1.78e-15,<1e-9,ok,
+EE loco,transport_slots_unchanged,True,True,ok,
+EE loco,all_other_slots_imputed,True,True,ok,
+EE loco,slot_shares_sum_to_one_maxdev,2.22e-15,<1e-9,ok,
+EL loco,transport_slots_unchanged,True,True,ok,
+EL loco,all_other_slots_imputed,True,True,ok,
+EL loco,slot_shares_sum_to_one_maxdev,4.44e-15,<1e-9,ok,
+ES loco,transport_slots_unchanged,True,True,ok,
+ES loco,all_other_slots_imputed,True,True,ok,
+ES loco,slot_shares_sum_to_one_maxdev,3.11e-15,<1e-9,ok,
+FI loco,transport_slots_unchanged,True,True,ok,
+FI loco,all_other_slots_imputed,True,True,ok,
+FI loco,slot_shares_sum_to_one_maxdev,3.11e-15,<1e-9,ok,
+HU loco,transport_slots_unchanged,True,True,ok,
+HU loco,all_other_slots_imputed,True,True,ok,
+HU loco,slot_shares_sum_to_one_maxdev,1.78e-15,<1e-9,ok,
+IT loco,transport_slots_unchanged,True,True,ok,
+IT loco,all_other_slots_imputed,True,True,ok,
+IT loco,slot_shares_sum_to_one_maxdev,4.88e-15,<1e-9,ok,
+NL loco,transport_slots_unchanged,True,True,ok,
+NL loco,all_other_slots_imputed,True,True,ok,
+NL loco,slot_shares_sum_to_one_maxdev,2.22e-15,<1e-9,ok,
+NO loco,transport_slots_unchanged,True,True,ok,
+NO loco,all_other_slots_imputed,True,True,ok,
+NO loco,slot_shares_sum_to_one_maxdev,1.67e-15,<1e-9,ok,
+PL loco,transport_slots_unchanged,True,True,ok,
+PL loco,all_other_slots_imputed,True,True,ok,
+PL loco,slot_shares_sum_to_one_maxdev,6.66e-15,<1e-9,ok,
+RO loco,transport_slots_unchanged,True,True,ok,
+RO loco,all_other_slots_imputed,True,True,ok,
+RO loco,slot_shares_sum_to_one_maxdev,6.44e-15,<1e-9,ok,
+RS loco,transport_slots_unchanged,True,True,ok,
+RS loco,all_other_slots_imputed,True,True,ok,
+RS loco,slot_shares_sum_to_one_maxdev,2.89e-15,<1e-9,ok,
+UK loco,transport_slots_unchanged,True,True,ok,
+UK loco,all_other_slots_imputed,True,True,ok,
+UK loco,slot_shares_sum_to_one_maxdev,2.66e-15,<1e-9,ok,
+AT loco,transport_slots_unchanged,True,True,ok,
+AT loco,all_other_slots_imputed,True,True,ok,
+AT loco,slot_shares_sum_to_one_maxdev,3.77e-15,<1e-9,ok,
+FR loco,transport_slots_unchanged,True,True,ok,
+FR loco,all_other_slots_imputed,True,True,ok,
+FR loco,slot_shares_sum_to_one_maxdev,4.44e-15,<1e-9,ok,
+LU loco,transport_slots_unchanged,True,True,ok,
+LU loco,all_other_slots_imputed,True,True,ok,
+LU loco,slot_shares_sum_to_one_maxdev,2.22e-15,<1e-9,ok,
+disclosure,groups_partly_withheld,0,0,ok,a score withheld in one country is withheld in all countries of its group
+disclosure,smallest_published_respondent_count,57,>=50,ok,
+disclosure,scores_without_enough_respondents,0,0,ok,
+disclosure,places_with_recall_withheld,18,for information,ok,variant and place pairs: activity_modal hotel or camping; activity_modal second home; episode_time_age hotel or camping; episode_time_age second home; home hotel or camping; home second home; markov_time hotel or camping; markov_time second home; markov_time_age hotel or camping; markov_time_age second home; markov_time_age_day hotel or camping; markov_time_age_day second home ...
+BE pool,model_probabilities_valid,True,True,ok,
+BE pool,pool_equals_fixed_model_maxdiff,0.0e+00,0,ok,
+run,coverage_home_repeated_imputations,0.138,for information,ok,plain 95% intervals from 20 imputations per held-out country
+DE fixed,model_probabilities_valid,True,True,ok,
+DE fixed,transport_slots_unchanged,True,True,ok,
+DE fixed,all_other_slots_imputed,True,True,ok,
+DE fixed,slot_shares_sum_to_one_maxdev,4.66e-15,<1e-9,ok,
+disclosure,home_activities_with_few_respondents,0,0,ok,home activities resting on fewer than MIN_RESPONDENTS respondents (their shares are blanked)
+BE,code13_home_activity_episodes_excluded,1997,>=0,ok,
+BE,code13_home_activity_slots_excluded,12379,>=0,ok,
+EE,code13_home_activity_episodes_excluded,2026,>=0,ok,
+EE,code13_home_activity_slots_excluded,17949,>=0,ok,
+EL,code13_home_activity_episodes_excluded,2099,>=0,ok,
+EL,code13_home_activity_slots_excluded,10476,>=0,ok,
+ES,code13_home_activity_episodes_excluded,3492,>=0,ok,
+ES,code13_home_activity_slots_excluded,21310,>=0,ok,
+FI,code13_home_activity_episodes_excluded,2087,>=0,ok,
+FI,code13_home_activity_slots_excluded,13878,>=0,ok,
+HU,code13_home_activity_episodes_excluded,976,>=0,ok,
+HU,code13_home_activity_slots_excluded,5190,>=0,ok,
+IT,code13_home_activity_episodes_excluded,6599,>=0,ok,
+IT,code13_home_activity_slots_excluded,49362,>=0,ok,
+NL,code13_home_activity_episodes_excluded,1646,>=0,ok,
+NL,code13_home_activity_slots_excluded,9637,>=0,ok,
+NO,code13_home_activity_episodes_excluded,1140,>=0,ok,
+NO,code13_home_activity_slots_excluded,5377,>=0,ok,
+PL,code13_home_activity_episodes_excluded,9244,>=0,ok,
+PL,code13_home_activity_slots_excluded,55480,>=0,ok,
+RO,code13_home_activity_episodes_excluded,7812,>=0,ok,
+RO,code13_home_activity_slots_excluded,31530,>=0,ok,
+RS,code13_home_activity_episodes_excluded,519,>=0,ok,
+RS,code13_home_activity_slots_excluded,3328,>=0,ok,
+UK,code13_home_activity_episodes_excluded,5249,>=0,ok,
+UK,code13_home_activity_slots_excluded,34595,>=0,ok,
+gsa,part_a_combinations,144,144,ok,
+gsa part A,indices_within_bounds,True,True,ok,0 <= first-order <= total <= 1
+gsa part A,first_order_sum_at_most_one,0.986281,<=1,ok,
+gsa,part_a_pareto_optimal_combinations,19,>=1,ok,combinations that no other one matches or beats on every evaluation metric
+gsa,main_combination_vs_loco_accuracy_absdiff,0.00019,<0.005,ok,"same model as the main variant of step 4, other random draws"
+gsa,part_b_german_combinations,2880,2880,ok,
+gsa,part_b_combinations,37440,37440,ok,
+gsa,part_b_combinations_with_pareto_optimal_method,4940,4940,ok,
+gsa part B,indices_within_bounds,True,True,ok,0 <= first-order <= total <= 1
+gsa part B,first_order_sum_at_most_one,0.998019,<=1,ok,
+"gsa part B home by slot, all",indices_within_bounds,True,True,ok,0 <= first-order <= total <= 1
+"gsa part B home by slot, all",first_order_sum_at_most_one,0.990394,<=1,ok,
+"gsa part B home by slot, weekday",indices_within_bounds,True,True,ok,0 <= first-order <= total <= 1
+"gsa part B home by slot, weekday",first_order_sum_at_most_one,0.980667,<=1,ok,
+"gsa part B home by slot, weekend",indices_within_bounds,True,True,ok,0 <= first-order <= total <= 1
+"gsa part B home by slot, weekend",first_order_sum_at_most_one,0.994396,<=1,ok,
+gsa,main_combination_vs_fixed_pool_home_hours_absdiff,0.0001,<0.078,ok,"same model as the German imputations of step 6, other random draws (limit: four standard deviations across those imputations)"
+run,files_of_earlier_runs_in_output_folder,2,0,warn,"kept out of the bundle and the export: gsa_germany_home_by_slot.csv, gsa_transfer_errors_home_by_slot.csv"
