@@ -19,6 +19,8 @@ authors:
     orcid: "https://orcid.org/0000-0002-2625-483X"
     affiliation: "Faculty of Management and Economics, Gdansk University of Technology; Barcelona School of Management, Universitat Pompeu Fabra"
 version: "4.1"
+doi: 10.5281/zenodo.23671806
+date-released: 2026-10-26
 license: MIT
 repository-code: "https://github.com/Confareneoclassico/tus-location-imputation"
 keywords:

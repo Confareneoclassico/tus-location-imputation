@@ -1,5 +1,7 @@
 # Imputation of missing locations in time-use surveys
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23671806.svg)](https://doi.org/10.5281/zenodo.23671806)
+
 Code and aggregate results for the paper "Imputation of missing locations in time-use surveys" by Samuele Lo Piano.
 
 The German contribution to the 2010 round of the Harmonised European Time Use Surveys (HETUS) records activities and trips but not where activities took place. The pipeline in this repository imputes these locations from the 13 HETUS countries that record all of them, with a Markov chain over activity episodes that conditions on the activity, the time of day, the previous location, intervening trips and age. It tests the method by imputing each of these countries from the others, and a global sensitivity analysis over the full factorial of modelling choices, coding assumptions, random draws and transfer errors apportions the variance of the evaluation metrics and of the German estimates among them with exact Sobol' indices, and measures with optimal-transport indices how far each choice moves the distribution of each metric.
@@ -73,5 +75,7 @@ results/v4.1/ holds the aggregate outputs of version 4.1 of the pipeline, run on
 ## Licence and citation
 
 The code is released under the MIT licence (LICENSE). The figures and aggregate results are released under the Creative Commons Attribution 4.0 International licence (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/). If you use the code or the results, please cite the paper and this repository as given in CITATION.cff.
+
+Version 4.1, the version behind the paper, is archived on Zenodo with the DOI 10.5281/zenodo.23671806 (https://doi.org/10.5281/zenodo.23671806).
 
 Correspondence: Samuele Lo Piano, Faculty of Management and Economics, Gdansk University of Technology (samuele.lo.piano@pg.edu.pl).
