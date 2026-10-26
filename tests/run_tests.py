@@ -4,7 +4,7 @@
 Checks the exact Sobol' indices against analytic values (tests/test_indices.py) and the
 disclosure control of the per-place scores (tests/test_disclosure.py), then writes
 synthetic HETUS-like country files to a temporary folder, runs the full pipeline on them,
-exports the aggregate outputs and builds the figures and tables of the manuscript from the
+exports the aggregate outputs and builds the figures and tables of the paper from the
 export, and checks that
   1. the pipeline finishes and none of its checks fails (among them, that no published
      per-place score rests on fewer than 50 respondents),
@@ -13,12 +13,13 @@ export, and checks that
      code 13 as missing for home activities changes the German estimates,
   4. the export holds no microdata, no local folder names and no file that an earlier run
      left in the output folder,
-  5. every figure and table of the manuscript is built,
-  6. synthetic files with the content of the German time use survey of 2022 are converted to the
-     HETUS layout (zve2022_to_hetus.py), and the hold-out test (zve2022_holdout.py) imputes them
-     from the synthetic donors with the exported results of the main run, without failed checks,
-     writes every output, and its export holds no microdata.
-Takes about seven minutes.
+  5. every figure and table of the paper is built,
+  6. where the repository holds the hold-out test on the German time use survey of 2022, synthetic
+     files with the content of that survey are converted to the HETUS layout (zve2022_to_hetus.py),
+     and the hold-out test (zve2022_holdout.py) imputes them from the synthetic donors with the
+     exported results of the main run, without failed checks, writes every output, and its export
+     holds no microdata.
+Takes about five minutes, seven with the hold-out test.
 
 Usage:
     python tests/run_tests.py            # scale 0.05 of the real diary counts
@@ -132,44 +133,48 @@ def main():
         report("export holds no local folder names", not absolute and not any(
             str(tmp) in text_of(export / n) for n in exported), ", ".join(absolute))
 
-        built = tmp / "manuscript"
+        built = tmp / "output"
         ok = run([ROOT / "src" / "make_results_figures.py", export, built], tmp / "figures.log")
         missing = [f"{f}.pdf" for f in FIGURES if not (built / "figures" / f"{f}.pdf").is_file()]
         missing += [f"{t}.tex" for t in TABLES if not (built / "tables" / f"{t}.tex").is_file()]
         report("figures and tables built", ok and not missing, ", ".join(missing))
 
-        # hold-out test on the diaries of 2022 (synthetic files, invented variable names)
-        zdir, de22 = tmp / "synthetic" / "zve2022", tmp / "restricted" / "DE22.csv"
-        ok = run([ROOT / "tests" / "make_synthetic_zve2022.py", tmp / "synthetic", args.scale], tmp / "make_zve2022.log")
-        ok = ok and run([ROOT / "src" / "zve2022_to_hetus.py", "--slots", zdir / "slots.csv", "--persons",
-                         zdir / "persons.csv", "--columns", zdir / "columns.json", "--out", de22],
-                        tmp / "zve2022_convert.log")
-        summary = pd.read_csv(de22.with_name("conversion_summary.csv")) if ok else None
-        unconverted = (float(summary.set_index("item").loc[
-            "share of slots with an activity that could not be converted", "value"]) if summary is not None else 1)
-        report("2022 diaries converted to the HETUS layout", ok and unconverted == 0,
-               "" if ok else f"see {tmp / 'zve2022_convert.log'}")
-        zout = tmp / "restricted" / "zve2022_out"
-        ok = ok and run([ROOT / "src" / "zve2022_holdout.py", de22, tmp / "synthetic" / "TUS_Eurostat.nml",
-                         "--results", export, "--out", zout], tmp / "zve2022_holdout.log")
-        zchecks = pd.read_csv(zout / "zve2022_checks.csv") if ok else None
-        zfailed = zchecks[zchecks.status == "fail"] if zchecks is not None else pd.DataFrame()
-        report("2022 hold-out test finished without failed checks", ok and zfailed.empty,
-               "; ".join(zfailed.scope + " " + zfailed.check) if ok else f"see {tmp / 'zve2022_holdout.log'}")
-        missing = [f for f in ZVE_OUTPUTS if not (zout / f).is_file()]
-        report("2022 hold-out outputs written", ok and not missing, ", ".join(missing))
-        if ok:
-            var = pd.read_csv(zout / "zve2022_variants.csv").set_index("variant")
-            main_acc, home_acc = var.loc["markov_time_age", "accuracy"], var.loc["home", "accuracy"]
-            report("2022: main variant beats all-at-home", bool(main_acc > home_acc),
-                   f"accuracy {main_acc:.3f} against {home_acc:.3f}")
-        zexport = tmp / "results_zve2022"
-        ok = ok and run([ROOT / "src" / "export_results.py", zout, zexport], tmp / "zve2022_export.log")
-        zexported = sorted(p.name for p in zexport.iterdir()) if ok else []
-        leaked = [n for n in zexported if n.startswith("PRIVATE_") or n.endswith(".npz") or n == de22.name]
-        local = [n for n in zexported if str(tmp) in text_of(zexport / n)]
-        report("2022 export holds no microdata and no local folder names", ok and not leaked and not local,
-               ", ".join(leaked + local))
+        # hold-out test on the diaries of 2022 (synthetic files, invented variable names), where the
+        # repository holds it (the public release does not)
+        if not (ROOT / "src" / "zve2022_to_hetus.py").is_file():
+            print("SKIP  hold-out test on the German survey of 2022: not in this repository")
+        else:
+            zdir, de22 = tmp / "synthetic" / "zve2022", tmp / "restricted" / "DE22.csv"
+            ok = run([ROOT / "tests" / "make_synthetic_zve2022.py", tmp / "synthetic", args.scale], tmp / "make_zve2022.log")
+            ok = ok and run([ROOT / "src" / "zve2022_to_hetus.py", "--slots", zdir / "slots.csv", "--persons",
+                             zdir / "persons.csv", "--columns", zdir / "columns.json", "--out", de22],
+                            tmp / "zve2022_convert.log")
+            summary = pd.read_csv(de22.with_name("conversion_summary.csv")) if ok else None
+            unconverted = (float(summary.set_index("item").loc[
+                "share of slots with an activity that could not be converted", "value"]) if summary is not None else 1)
+            report("2022 diaries converted to the HETUS layout", ok and unconverted == 0,
+                   "" if ok else f"see {tmp / 'zve2022_convert.log'}")
+            zout = tmp / "restricted" / "zve2022_out"
+            ok = ok and run([ROOT / "src" / "zve2022_holdout.py", de22, tmp / "synthetic" / "TUS_Eurostat.nml",
+                             "--results", export, "--out", zout], tmp / "zve2022_holdout.log")
+            zchecks = pd.read_csv(zout / "zve2022_checks.csv") if ok else None
+            zfailed = zchecks[zchecks.status == "fail"] if zchecks is not None else pd.DataFrame()
+            report("2022 hold-out test finished without failed checks", ok and zfailed.empty,
+                   "; ".join(zfailed.scope + " " + zfailed.check) if ok else f"see {tmp / 'zve2022_holdout.log'}")
+            missing = [f for f in ZVE_OUTPUTS if not (zout / f).is_file()]
+            report("2022 hold-out outputs written", ok and not missing, ", ".join(missing))
+            if ok:
+                var = pd.read_csv(zout / "zve2022_variants.csv").set_index("variant")
+                main_acc, home_acc = var.loc["markov_time_age", "accuracy"], var.loc["home", "accuracy"]
+                report("2022: main variant beats all-at-home", bool(main_acc > home_acc),
+                       f"accuracy {main_acc:.3f} against {home_acc:.3f}")
+            zexport = tmp / "results_zve2022"
+            ok = ok and run([ROOT / "src" / "export_results.py", zout, zexport], tmp / "zve2022_export.log")
+            zexported = sorted(p.name for p in zexport.iterdir()) if ok else []
+            leaked = [n for n in zexported if n.startswith("PRIVATE_") or n.endswith(".npz") or n == de22.name]
+            local = [n for n in zexported if str(tmp) in text_of(zexport / n)]
+            report("2022 export holds no microdata and no local folder names", ok and not leaked and not local,
+                   ", ".join(leaked + local))
     finally:
         if args.keep:
             print(f"kept {tmp}")

@@ -1,8 +1,8 @@
 # Imputation of missing locations in time-use surveys
 
-Code, aggregate results and manuscript sources for the paper "Imputation of missing locations in time-use surveys" by Samuele Lo Piano (manuscript in preparation).
+Code and aggregate results for the paper "Imputation of missing locations in time-use surveys" by Samuele Lo Piano.
 
-The German contribution to the 2010 round of the Harmonised European Time Use Surveys (HETUS) records activities and trips but not where activities took place. The pipeline in this repository imputes these locations from the 13 HETUS countries that record all of them, with a Markov chain over activity episodes that conditions on the activity, the time of day, the previous location, intervening trips and age. It tests the method by imputing each of these countries from the others, and a global sensitivity analysis over the full factorial of modelling choices, coding assumptions, random draws and transfer errors apportions the variance of the evaluation metrics and of the German estimates among them with exact Sobol' indices.
+The German contribution to the 2010 round of the Harmonised European Time Use Surveys (HETUS) records activities and trips but not where activities took place. The pipeline in this repository imputes these locations from the 13 HETUS countries that record all of them, with a Markov chain over activity episodes that conditions on the activity, the time of day, the previous location, intervening trips and age. It tests the method by imputing each of these countries from the others, and a global sensitivity analysis over the full factorial of modelling choices, coding assumptions, random draws and transfer errors apportions the variance of the evaluation metrics and of the German estimates among them with exact Sobol' indices, and measures with optimal-transport indices how far each choice moves the distribution of each metric.
 
 ## Repository layout
 
@@ -11,42 +11,32 @@ tus-location-imputation/
 ├── README.md                     this file
 ├── CITATION.cff                  how to cite
 ├── LICENSE                       MIT licence (code)
-├── Makefile                      make test, make results, make figures, make paper
+├── Makefile                      make test, make results, make figures
 ├── requirements.txt              Python packages
 ├── .github/workflows/tests.yml   runs the end-to-end test on every push
 ├── src/
 │   ├── location_imputation.py    the pipeline, version 4.1
 │   ├── export_results.py         copies the aggregate outputs into results/
-│   ├── make_results_figures.py   figures and tables of the manuscript, from results/
-│   ├── hetus_inventory.py        inventory of the country files (aggregate counts only)
-│   ├── zve2022_to_hetus.py       German time use survey 2022 to the HETUS layout
-│   └── zve2022_holdout.py        hold-out test on the German diaries of 2022, which record places
+│   ├── make_results_figures.py   figures and tables of the paper, from results/
+│   └── hetus_inventory.py        inventory of the country files (aggregate counts only)
 ├── tests/
 │   ├── make_synthetic.py         synthetic files with the layout of the HETUS files
-│   ├── make_synthetic_zve2022.py synthetic files with the content of the German survey of 2022
-│   ├── test_indices.py           exact Sobol' indices against analytic values
+│   ├── test_indices.py           exact Sobol' and optimal-transport indices against known values
 │   ├── test_disclosure.py        disclosure control of the per-place scores
 │   └── run_tests.py              end-to-end test on synthetic data
 ├── data/
 │   ├── README.md                 how to obtain and place the HETUS files
 │   ├── TUS_Eurostat.nml.example  template of the settings file
-│   ├── zve2022/                  crosswalks and column map for the German survey of 2022 (see its README)
 │   └── restricted/               HETUS files and microdata outputs (never committed)
-├── results/
-│   └── v4.1/                     aggregate outputs of the run behind the manuscript
-└── manuscript/
-    ├── paper.tex                 the manuscript, a single file
-    ├── figures/                  generated from results/ by make figures
-    ├── tables/                   generated from results/ by make figures, and copied into paper.tex
-    └── references.bib            the references cited in the paper
+└── results/
+    └── v4.1/                     aggregate outputs of the run behind the paper
 ```
-
 
 ## Reproducing the results
 
-The code needs Python 3.10 or later with NumPy, pandas and Matplotlib (`pip install -r requirements.txt`). The end-to-end test gives identical results with the oldest versions allowed there (Python 3.10, NumPy 1.24, pandas 2.0, Matplotlib 3.7) and with Python 3.13, NumPy 2.5, pandas 3.0 and Matplotlib 3.11. The manuscript needs a LaTeX distribution with biblatex and biber.
+The code needs Python 3.10 or later with NumPy, pandas and Matplotlib (`pip install -r requirements.txt`). The end-to-end test gives identical results with the oldest versions allowed there (Python 3.10, NumPy 1.24, pandas 2.0, Matplotlib 3.7) and with Python 3.13, NumPy 2.5, pandas 3.0 and Matplotlib 3.11. Tables are written as LaTeX (booktabs and siunitx).
 
-The end-to-end test needs no restricted data. It writes synthetic country files with the layout and quirks of the HETUS scientific use files to a temporary folder, runs the full pipeline on them, exports the aggregate outputs, builds the figures and tables from them and runs the hold-out test on synthetic files with the content of the German survey of 2022, in about seven minutes. GitHub Actions runs it on every push.
+The end-to-end test needs no restricted data. It writes synthetic country files with the layout and quirks of the HETUS scientific use files to a temporary folder, runs the full pipeline on them, exports the aggregate outputs and builds the figures and tables from them, in about five minutes. GitHub Actions runs it on every push.
 
 ```
 make test
@@ -56,8 +46,7 @@ With access to the scientific use files, place them as described in [data/README
 
 ```
 make results     # the pipeline (about 30 minutes on a laptop), then export_results.py
-make figures     # manuscript/figures and manuscript/tables from results/v4.1, tables copied into paper.tex
-make paper       # manuscript/build/paper.pdf
+make figures     # output/figures and output/tables from results/v4.1
 ```
 
 `make results` writes every output, including the imputed German diaries, to data/restricted/imputation_out/, and then copies the aggregate files into results/v<version>/. If the country files and a settings file already exist elsewhere, point to that settings file instead: `make results NML=/path/to/TUS_Eurostat.nml`. A full run needs about 1.7 GB of memory. Without make, the same steps are
@@ -65,15 +54,11 @@ make paper       # manuscript/build/paper.pdf
 ```
 python src/location_imputation.py data/TUS_Eurostat.nml --out data/restricted/imputation_out
 python src/export_results.py data/restricted/imputation_out
-python src/make_results_figures.py results/v4.1 manuscript
+python src/make_results_figures.py results/v4.1 output
 python tests/run_tests.py
 ```
 
 All random draws are seeded (the seed is recorded in run_settings.json), so a run on the same files with the same package versions reproduces the results.
-
-## Hold-out test on the German survey of 2022
-
-The German diaries of 2022 record places. `src/zve2022_to_hetus.py` converts the scientific use file of the German time use survey 2022 (research data centres of the statistical offices) to the HETUS layout, and `src/zve2022_holdout.py` imputes its places from the 13 donors as for 2012/13 and compares them with the recorded ones, for every method combination, and checks whether the uncertainty ranges of the global analysis contain the values recorded in 2022. [data/zve2022/README.md](data/zve2022/README.md) describes the crosswalks, the access conditions and the steps. The end-to-end test runs both scripts on synthetic files.
 
 ## Data
 
@@ -83,11 +68,10 @@ This work is based on data from Eurostat, Harmonised European Time Use Surveys, 
 
 ## Results
 
-results/v4.1/ holds the aggregate outputs of version 4.1 of the pipeline, run on 25 October 2026, from which the manuscript is built. The README.txt written by the pipeline in the folder describes each file. checks.csv lists the data and consistency checks: 320 passed and 6 gave warnings. The files for Finland, France, Poland and the United Kingdom hold 27, 204, 2,102 and 40 fewer diaries than the documentation of the scientific use files lists, 0.02% of the British diaries lack the day of the week, and two by-slot files that an earlier run had written to the same output folder were kept out of the export. The local folder names in run_settings.json were removed by export_results.py.
-
+results/v4.1/ holds the aggregate outputs of version 4.1 of the pipeline, run on 25 October 2026, from which the figures and tables of the paper are built. The README.txt written by the pipeline in the folder describes each file. checks.csv lists the data and consistency checks: 320 passed and 6 gave warnings. The files for Finland, France, Poland and the United Kingdom hold 27, 204, 2,102 and 40 fewer diaries than the documentation of the scientific use files lists, 0.02% of the British diaries lack the day of the week, and two by-slot files that an earlier run had written to the same output folder were kept out of the export. The local folder names in run_settings.json were removed by export_results.py.
 
 ## Licence and citation
 
-The code is released under the MIT licence (LICENSE). The manuscript text, figures and aggregate results are released under the Creative Commons Attribution 4.0 International licence (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/). If you use the code or the results, please cite the paper and this repository as given in CITATION.cff.
+The code is released under the MIT licence (LICENSE). The figures and aggregate results are released under the Creative Commons Attribution 4.0 International licence (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/). If you use the code or the results, please cite the paper and this repository as given in CITATION.cff.
 
 Correspondence: Samuele Lo Piano, Faculty of Management and Economics, Gdansk University of Technology (samuele.lo.piano@pg.edu.pl).

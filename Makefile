@@ -7,15 +7,14 @@ NML ?= data/TUS_Eurostat.nml
 OUT ?= data/restricted/imputation_out
 VERSION ?= 4.1
 RESULTS ?= results/v$(VERSION)
+FIGURES ?= output
 
-.PHONY: help test results figures paper clean
+.PHONY: help test results figures
 
 help:
-	@echo "make test      end-to-end test on synthetic data, about seven minutes"
+	@echo "make test      end-to-end test on synthetic data, about five minutes"
 	@echo "make results   full run on the files listed in $(NML), then export of the aggregates"
-	@echo "make figures   figures and tables of the manuscript from $(RESULTS)"
-	@echo "make paper     compile manuscript/build/paper.pdf"
-	@echo "make clean     remove LaTeX build files"
+	@echo "make figures   figures and tables of the paper from $(RESULTS), in $(FIGURES)/"
 
 test:
 	$(PYTHON) tests/run_tests.py
@@ -25,10 +24,4 @@ results:
 	$(PYTHON) src/export_results.py $(OUT)
 
 figures:
-	$(PYTHON) src/make_results_figures.py $(RESULTS) manuscript
-
-paper:
-	cd manuscript && latexmk -pdf -interaction=nonstopmode -halt-on-error -outdir=build paper.tex
-
-clean:
-	cd manuscript && latexmk -C -outdir=build paper.tex
+	$(PYTHON) src/make_results_figures.py $(RESULTS) $(FIGURES)

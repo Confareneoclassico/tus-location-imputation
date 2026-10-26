@@ -5,9 +5,10 @@ branches below also read the outputs of earlier versions of the pipeline; commen
 Per-place scores of countries are drawn only where the pipeline published them, with enough
 respondents behind them.
 
-If the output folder holds paper.tex, the generated tables are also copied into it, between
-the lines '% <<< generated: tab_name >>>' and '% <<< end of tab_name >>>', so that the
-manuscript stays a single file. Edit the tables through this script, not in paper.tex.
+If the output folder holds LaTeX files with the lines '% <<< generated: tab_name >>>' and
+'% <<< end of tab_name >>>' (the manuscript and its supplement), the generated tables are also
+copied between them, so that each document stays a single file. Edit the tables through this
+script, not in the LaTeX files.
 
 Usage:
     python make_results_figures.py path/to/imputation_out [output_folder]
@@ -1173,7 +1174,7 @@ GENERATED = re.compile(r"(?P<start>% <<< generated: (?P<name>[\w]+) >>>\n)(?P<bo
 
 
 def sync_paper(paper, tables):
-    """Copy each generated table into the single-file manuscript, between its two marker lines."""
+    """Copy each generated table into a single-file LaTeX document, between its two marker lines."""
     text = paper.read_text()
     done = []
 
@@ -1217,9 +1218,10 @@ def main():
     table_gsa(d["gsa_germany_indices"], b_factors(d["gsa_germany_indices"], table=True), GSA_B_TABLE_ROWS,
               out / "tables" / "tab_gsa_germany.tex")
     derived_numbers(d, out / "tables")
-    if (out / "paper.tex").is_file():
-        synced = sync_paper(out / "paper.tex", out / "tables")
-        print(f"tables copied into paper.tex: {', '.join(synced) or 'none'}")
+    for doc in sorted(out.glob("*.tex")):
+        synced = sync_paper(doc, out / "tables")
+        if synced:
+            print(f"tables copied into {doc.name}: {', '.join(synced)}")
     print("figures and tables written to", out)
 
 

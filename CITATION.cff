@@ -10,8 +10,8 @@ abstract: >-
   from the others; and runs a global sensitivity analysis over the full factorial of modelling
   choices, coding assumptions, random draws and transfer errors between countries, with exact
   Sobol' and optimal-transport indices. The repository holds the code, the settings and the
-  aggregate results of the run behind the paper, the script that builds its figures and tables,
-  the manuscript sources and an end-to-end test on synthetic data. The HETUS scientific use files,
+  aggregate results of the run behind the paper, the script that builds its figures and tables
+  and an end-to-end test on synthetic data. The HETUS scientific use files,
   which Eurostat provides to approved research projects, are not included.
 authors:
   - family-names: "Lo Piano"

@@ -16,6 +16,9 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 
+# Figures and tables built outside the manuscript (make figures)
+output/
+
 # LaTeX build files
 manuscript/build/
 *.aux
